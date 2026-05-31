@@ -1,7 +1,7 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T18:31:21.000Z
-title: "Melhores investimentos na Cartas Meta hoje (31/05/2026): análise e previsões — Console (PS)"
+pubDatetime: 2026-05-31T18:38:06.000Z
+title: "Melhores investimentos em Cartas Meta no EA FC (31/05/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
 tags:
