@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:27:24.000Z
+pubDatetime: 2026-05-31T22:25:02.000Z
 title: "Cartas Meta no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,69 +13,80 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 31/05/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/05/2026)?"
-    a: "Alyssa Thompson (91, Barclays WSL), com +59.3% em 24h, a 172k coins no PC."
+    a: "William Saliba (90, Premier League), com +58.1% em 24h, a 411k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Giorgio Chiellini (88), -42.5% em 24h, a 111k coins."
+    a: "Caroline Graham Hansen (95), -45.4% em 24h, a 1.20M coins."
+  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
+    a: "Pelo modelo FutQuant, Virgil van Dijk (91) — 81% de probabilidade de alta, a 362k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 247 cartas em alta contra 211 em queda (média 3.03%)."
+    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 246 cartas em alta contra 200 em queda (média 3.29%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **247 subiram** e **211 caíram**, com variação média de **3.03%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **246 subiram** e **200 caíram**, com variação média de **3.29%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Alyssa Thompson (91) **+59.3%** · 🔴 **Maior baixa:** Giorgio Chiellini (88) **-42.5%**
+> 🟢 **Maior alta:** William Saliba (90) **+58.1%** · 🔴 **Maior baixa:** Caroline Graham Hansen (95) **-45.4%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alyssa Thompson | 91 | Barclays WSL | 172k coins | +59.3% | +27.4% |
-| Dennis Bergkamp | 93 | Icons | 406k coins | +56.2% | +35.3% |
-| Mohamed Salah | 92 | Premier League | 649k coins | +52% | 0% |
-| Lionel Messi | 90 | MLS | 5.70M coins | +50% | -5% |
-| Trinity Rodman | 88 | NWSL | 238k coins | +47.8% | +27.3% |
-| Désiré Doué | 91 | Ligue 1 McDonald's | 600k coins | +46.3% | +42.5% |
-| Antoine Semenyo | 91 | Premier League | 755k coins | +45.5% | +0.7% |
-| Sadio Mané | 88 | ROSHN Saudi League | 133k coins | +44.6% | -2.2% |
-| Paul Onuachu | 95 | — | 185k coins | +43.4% | -4.6% |
-| Theo Hernández | 88 | ROSHN Saudi League | 649k coins | +43% | +12.1% |
+| William Saliba | 90 | Premier League | 411k coins | +58.1% | +2% |
+| Declan Rice | 89 | Premier League | 100k coins | +56.7% | +17.8% |
+| Vini Jr. | 90 | LALIGA EA SPORTS | 740k coins | +54.5% | +36% |
+| Fridolina Rolfö | 90 | Barclays WSL | 103k coins | +53.7% | +26.4% |
+| Antoine Semenyo | 91 | Premier League | 739k coins | +52.4% | -1.3% |
+| Pierre Kalulu | 91 | Serie A TIM | 100k coins | +50.8% | +65.8% |
+| Antoine Griezmann | 91 | LALIGA EA SPORTS | 170k coins | +46.6% | +6.2% |
+| Debinha | 89 | NWSL | 115k coins | +46.5% | +42.9% |
+| Yazan Al Arab | 95 | — | 281k coins | +45.6% | +13.8% |
+| Xavi Simons | 88 | Premier League | 100k coins | +44.9% | +49.2% |
 
 
 ### Análise das altas
 
-- **Alyssa Thompson (91)** subiu **+59.3%** em 24h, a **172k coins** (faixa do dia: 99k–180k). Está +34% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **William Saliba (90)** subiu **+58.1%** em 24h, a **411k coins** (faixa do dia: 244k–440k). Está +15% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
-- **Dennis Bergkamp (93)** subiu **+56.2%** em 24h, a **406k coins** (faixa do dia: 255k–406k). Está +12% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Declan Rice (89)** subiu **+56.7%** em 24h, a **100k coins** (faixa do dia: 56k–119k). Está +27% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
-- **Mohamed Salah (92)** subiu **+52%** em 24h, a **649k coins** (faixa do dia: 289k–649k). Está +38% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Vini Jr. (90)** subiu **+54.5%** em 24h, a **740k coins** (faixa do dia: 436k–800k). Está +17% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
+| Caroline Graham Hansen | 95 | Liga F | 1.20M coins | -45.4% | +14.4% |
 | Giorgio Chiellini | 88 | Icons | 111k coins | -42.5% | -3.5% |
-| David Beckham | 89 | Icons | 102k coins | -40% | -32% |
-| Sandro Tonali | 91 | Premier League | 80k coins | -38.5% | -42% |
-| Lionel Messi | 88 | MLS | 979k coins | -35.4% | -47.7% |
-| Ibañez | 93 | — | 130k coins | -31.6% | +9.2% |
-| Nuno Mendes | 97 | Ligue 1 McDonald's | 3.50M coins | -30% | -30% |
-| Nicolas Pépé | 88 | LALIGA EA SPORTS | 94k coins | -29.3% | -0.5% |
-| Lukas Klostermann | 88 | Bundesliga | 211k coins | -28.2% | -29% |
-| Can Uzun | 89 | Bundesliga | 80k coins | -27.3% | +15.1% |
-| Federico Valverde | 90 | LALIGA EA SPORTS | 649k coins | -27.2% | -9.9% |
+| Julián Alvarez | 88 | LALIGA EA SPORTS | 248k coins | -36.4% | -4.6% |
+| Kylian Mbappé | 96 | LALIGA EA SPORTS | 6.50M coins | -35% | -3.7% |
+| Cristiano Ronaldo | 88 | ROSHN Saudi League | 5.80M coins | -31.8% | +101.4% |
+| Lamine Yamal | 90 | LALIGA EA SPORTS | 1.45M coins | -31% | +3.6% |
+| Xavi | 93 | Icons | 906k coins | -30.3% | -3.1% |
+| Eden Hazard | 94 | — | 1.58M coins | -29.8% | -14.5% |
+| Dunga | 89 | Icons | 96k coins | -29.6% | -18.2% |
+| Romée Leuchter | 90 | D1 Arkema | 194k coins | -28.2% | -5.4% |
 
 
 ### Análise das baixas
 
+- **Caroline Graham Hansen (95)** caiu **-45.4%** em 24h, a **1.20M coins** (faixa do dia: 990k–2.20M). Está +16% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+
 - **Giorgio Chiellini (88)** caiu **-42.5%** em 24h, a **111k coins** (faixa do dia: 106k–193k). Está em linha com a média de 7 dias (-6%). O modelo vê **estabilização** no curto prazo.
 
-- **David Beckham (89)** caiu **-40%** em 24h, a **102k coins** (faixa do dia: 102k–170k). Está -25% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Julián Alvarez (88)** caiu **-36.4%** em 24h, a **248k coins** (faixa do dia: 248k–420k). Está -23% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
-- **Sandro Tonali (91)** caiu **-38.5%** em 24h, a **80k coins** (faixa do dia: 80k–130k). Está -32% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+
+## 🔮 O que o modelo prevê para as próximas 24h
+
+As cartas que o modelo FutQuant aponta com **maior probabilidade de valorização** (sinal de alta, confiança alta):
+
+| Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
+| --- | --- | --- | --- | --- |
+| Virgil van Dijk | 91 | 362k coins | 376k coins | 81% |
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -86,13 +97,16 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/05/2026)?**  
-Alyssa Thompson (91, Barclays WSL), com +59.3% em 24h, a 172k coins no PC.
+William Saliba (90, Premier League), com +58.1% em 24h, a 411k coins no PC.
 
 **E a maior queda do dia?**  
-Giorgio Chiellini (88), -42.5% em 24h, a 111k coins.
+Caroline Graham Hansen (95), -45.4% em 24h, a 1.20M coins.
+
+**Qual carta tem mais chance de subir amanhã no EA FC?**  
+Pelo modelo FutQuant, Virgil van Dijk (91) — 81% de probabilidade de alta, a 362k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 247 cartas em alta contra 211 em queda (média 3.03%).
+Hoje o mercado está em mercado em alta — predominam as valorizações, com 246 cartas em alta contra 200 em queda (média 3.29%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

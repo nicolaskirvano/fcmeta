@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:27:24.000Z
+pubDatetime: 2026-05-31T22:25:02.000Z
 title: "Melhores investimentos em Cartas Meta no EA FC (31/05/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -33,19 +33,19 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | --- | --- | --- | --- | --- | --- | --- |
 | Lotta Schelin | 90 | Icons | 210k coins | +32.1% | +84.2% | 44% |
 | Marcelo | 89 | Icons | 178k coins | +31.8% | +50.8% | 21% |
-| Donyell Malen | 89 | Serie A TIM | 93k coins | +26.5% | +36.8% | 40% |
-| Frank Rijkaard | 89 | Icons | 105k coins | +10% | +31.2% | 35% |
-| Mario Lemina | 89 | Trendyol Süper Lig | 95k coins | +3.3% | +25.8% | 48% |
-| Andrea Barzagli | 89 | — | 105k coins | +5.5% | +23.5% | 43% |
+| Charles De Ketelaere | 89 | Serie A TIM | 110k coins | +15.8% | +38.4% | 37% |
+| Bastian Schweinsteiger | 89 | Icons | 114k coins | +29.6% | +28.8% | 60% |
+| Christiane Endler | 94 | D1 Arkema | 98k coins | +28.3% | +28.3% | 39% |
+| Raphinha | 93 | — | 149k coins | +9.6% | +27.4% | 0% |
+| Roberto Baggio | 94 | — | 222k coins | +5.7% | +26.9% | 41% |
+| Frank Rijkaard | 89 | Icons | 99k coins | +16.5% | +23.8% | 35% |
 | David Beckham | 88 | Icons | 120k coins | +26.3% | +21.2% | 22% |
-| Endrick | 93 | — | 200k coins | +14.3% | +21.2% | 0% |
 | Marco van Basten | 91 | Icons | 86k coins | +20.3% | +21.1% | 46% |
-| Roberto Baggio | 94 | — | 210k coins | +29.6% | +20% | 41% |
 | Peter Schmeichel | 89 | Icons | 80k coins | +19.3% | +19.3% | 54% |
+| Rayan Cherki | 93 | — | 140k coins | +2.2% | +18.6% | 0% |
+| João Neves | 88 | Ligue 1 McDonald's | 196k coins | +1.6% | +18.1% | 52% |
 | Toni Kroos | 90 | Icons | 99k coins | +31.1% | +17.9% | 31% |
-| Ferenc Puskás | 92 | Icons | 156k coins | +11.4% | +15.6% | 42% |
-| Nick Woltemade | 90 | Premier League | 115k coins | +15.6% | +15% | 50% |
-| Vincent Kompany | 91 | Premier League | 110k coins | +7.8% | +14.6% | 45% |
+| Jaap Stam | 89 | Premier League | 140k coins | +2.9% | +16.7% | 65% |
 
 
 ## 📈 Análise dos destaques
@@ -54,11 +54,11 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 - **Marcelo (89)** — 178k coins, **+50.8% em 7 dias** (+31.8% em 24h). Preço +38% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Donyell Malen (89)** — 93k coins, **+36.8% em 7 dias** (+26.5% em 24h). Preço +38% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Charles De Ketelaere (89)** — 110k coins, **+38.4% em 7 dias** (+15.8% em 24h). Preço +22% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Frank Rijkaard (89)** — 105k coins, **+31.2% em 7 dias** (+10% em 24h). Preço +27% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Bastian Schweinsteiger (89)** — 114k coins, **+28.8% em 7 dias** (+29.6% em 24h). Preço +42% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Mario Lemina (89)** — 95k coins, **+25.8% em 7 dias** (+3.3% em 24h). Preço em linha com a média de 7 dias (-6%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Christiane Endler (94)** — 98k coins, **+28.3% em 7 dias** (+28.3% em 24h). Preço em linha com a média de 7 dias (-4%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista

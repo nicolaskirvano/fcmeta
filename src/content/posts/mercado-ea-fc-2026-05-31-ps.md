@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:27:23.000Z
+pubDatetime: 2026-05-31T22:25:01.000Z
 title: "Cartas Meta no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -17,16 +17,16 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Vitinha (91), -45.6% em 24h, a 588k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Luis Díaz (89) — 95% de probabilidade de alta, a 230k coins."
+    a: "Pelo modelo FutQuant, Anatoliy Trubin (88) — 95% de probabilidade de alta, a 240k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 243 cartas em alta contra 290 em queda (média 0.19%)."
+    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 242 cartas em alta contra 290 em queda (média 0.27%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **243 subiram** e **290 caíram**, com variação média de **0.19%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **242 subiram** e **290 caíram**, com variação média de **0.27%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Serhou Guirassy (89) **+46.7%** · 🔴 **Maior baixa:** Vitinha (91) **-45.6%**
 
@@ -86,14 +86,14 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Luis Díaz | 89 | 230k coins | 310k coins | 95% |
+| Anatoliy Trubin | 88 | 240k coins | 323k coins | 95% |
+| Andrea Pirlo | 90 | 107k coins | 135k coins | 95% |
+| João Neves | 88 | 167k coins | 192k coins | 95% |
 | Lauren James | 89 | 119k coins | 147k coins | 95% |
-| Xavi | 92 | 225k coins | 267k coins | 95% |
-| Mohamed Salah | 92 | 160k coins | 184k coins | 95% |
-| Alan Shearer | 91 | 146k coins | 187k coins | 95% |
-| Arda Güler | 93 | 140k coins | 175k coins | 95% |
-| Garrincha | 92 | 170k coins | 202k coins | 95% |
-| Bobby Charlton | 92 | 122k coins | 140k coins | 95% |
+| Quaresma | 88 | 218k coins | 269k coins | 95% |
+| Sadio Mané | 88 | 247k coins | 308k coins | 95% |
+| Jaap Stam | 89 | 110k coins | 127k coins | 95% |
+| Marco Reus | 89 | 375k coins | 432k coins | 95% |
 
 
 ## ⚠️ Cuidado: o modelo projeta queda
@@ -104,10 +104,10 @@ Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite c
 | --- | --- | --- | --- |
 | Antoine Griezmann | 91 | 127k coins | -29.2% |
 | Pedro Neto | 88 | 144k coins | -17.5% |
-| Caroline Weir | 95 | 186k coins | -15.7% |
-| Iniesta | 92 | 152k coins | -21.3% |
-| Angelo Stiller | 94 | 166k coins | -15.6% |
 | Kaká | 90 | 147k coins | -21.3% |
+| Angelo Stiller | 94 | 166k coins | -15.6% |
+| Iniesta | 92 | 152k coins | -21.3% |
+| Caroline Weir | 95 | 186k coins | -15.7% |
 | Rayan Cherki | 93 | 135k coins | -16.7% |
 | Trinity Rodman | 88 | 167k coins | -24% |
 
@@ -126,10 +126,10 @@ Serhou Guirassy (89, Bundesliga), com +46.7% em 24h, a 90k coins no Console (PS)
 Vitinha (91), -45.6% em 24h, a 588k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Luis Díaz (89) — 95% de probabilidade de alta, a 230k coins.
+Pelo modelo FutQuant, Anatoliy Trubin (88) — 95% de probabilidade de alta, a 240k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 243 cartas em alta contra 290 em queda (média 0.19%).
+Hoje o mercado está em mercado lateral — sem direção clara, com 242 cartas em alta contra 290 em queda (média 0.27%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

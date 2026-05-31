@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:27:23.000Z
+pubDatetime: 2026-05-31T22:25:02.000Z
 title: "Melhores investimentos em Cartas Meta no EA FC (31/05/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -45,7 +45,7 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Marquinhos | 88 | Ligue 1 McDonald's | 81k coins | +24.6% | +24.6% | 95% |
 | Daniele De Rossi | 89 | Serie A TIM | 150k coins | +11.1% | +23% | 39% |
 | Marcel Desailly | 93 | — | 195k coins | +1% | +22.6% | 47% |
-| Ricardo Carvalho | 89 | Liga Portugal | 91k coins | +27.3% | +22.2% | 50% |
+| Eric Cantona | 89 | Icons | 122k coins | +10.9% | +22.6% | 56% |
 
 
 ## 📈 Análise dos destaques
