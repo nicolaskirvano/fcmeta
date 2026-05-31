@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T18:38:06.000Z
+pubDatetime: 2026-05-31T19:25:02.000Z
 title: "Melhores investimentos em Cartas Meta no EA FC (31/05/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -35,7 +35,6 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Joe Cole | 88 | Premier League | 201k coins | +28% | +60.8% | 5% |
 | Maicon | 90 | Serie A TIM | 100k coins | +22% | +56.2% | 51% |
 | Joshua Kimmich | 89 | Bundesliga | 100k coins | +5.3% | +44.9% | 27% |
-| Lotta Schelin | 90 | Icons | 118k coins | +18% | +41.3% | 44% |
 | Cha Bum Kun | 88 | Icons | 248k coins | +24% | +37% | 18% |
 | Arda Güler | 93 | LALIGA EA SPORTS | 135k coins | +8.9% | +35% | 95% |
 | Brahim | 90 | LALIGA EA SPORTS | 121k coins | +11% | +34.4% | 53% |
@@ -46,6 +45,7 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Debinha | 89 | NWSL | 99k coins | +32% | +22.2% | 84% |
 | Kouadio Manu Koné | 88 | Serie A TIM | 106k coins | +19.1% | +21.8% | 95% |
 | Millie Bright | 94 | Barclays WSL | 109k coins | +9% | +21.8% | 57% |
+| Laurent Blanc | 88 | Icons | 87k coins | +3.6% | +20.8% | 44% |
 
 
 ## 📈 Análise dos destaques
@@ -58,7 +58,7 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 - **Joshua Kimmich (89)** — 100k coins, **+44.9% em 7 dias** (+5.3% em 24h). Preço +19% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Lotta Schelin (90)** — 118k coins, **+41.3% em 7 dias** (+18% em 24h). Preço +15% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Cha Bum Kun (88)** — 248k coins, **+37% em 7 dias** (+24% em 24h). Preço +9% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
 
 ## Como usar esta lista

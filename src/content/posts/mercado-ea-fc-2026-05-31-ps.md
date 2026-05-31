@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T18:38:05.000Z
+pubDatetime: 2026-05-31T19:25:01.000Z
 title: "Cartas Meta no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -19,14 +19,14 @@ faq:
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
     a: "Pelo modelo FutQuant, Sadio Mané (88) — 95% de probabilidade de alta, a 250k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 236 cartas em alta contra 289 em queda (média -0.26%)."
+    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 238 cartas em alta contra 289 em queda (média -0.21%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **236 subiram** e **289 caíram**, com variação média de **-0.26%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **238 subiram** e **289 caíram**, com variação média de **-0.21%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
 
 > 🟢 **Maior alta:** Cody Gakpo (89) **+44.7%** · 🔴 **Maior baixa:** Marcos Llorente (90) **-46.1%**
 
@@ -60,7 +60,6 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Marcos Llorente | 90 | LALIGA EA SPORTS | 593k coins | -46.1% | +14.7% |
-| Ruud Gullit | 90 | Icons | 1.97M coins | -45.3% | +7.7% |
 | David Ginola | 90 | Ligue 1 McDonald's | 2.96M coins | -42% | -21.6% |
 | Pavel Nedvěd | 89 | Icons | 195k coins | -41.8% | -2% |
 | Kevin De Bruyne | 89 | Serie A TIM | 200k coins | -31% | +8.7% |
@@ -69,15 +68,16 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 | Lionel Messi | 88 | MLS | 519k coins | -26.8% | -58.8% |
 | Iván Córdoba | 88 | Serie A TIM | 110k coins | -26.7% | 0% |
 | Malik Tillman | 88 | Bundesliga | 214k coins | -26% | +7.5% |
+| Luis Díaz | 91 | Bundesliga | 1.13M coins | -22.1% | -1.8% |
 
 
 ### Análise das baixas
 
 - **Marcos Llorente (90)** caiu **-46.1%** em 24h, a **593k coins** (faixa do dia: 593k–1.10M). Está -22% abaixo da média de 7 dias (descontada). 🔮 O modelo projeta **recuperação** (reversão para alta), com 95% de probabilidade.
 
-- **Ruud Gullit (90)** caiu **-45.3%** em 24h, a **1.97M coins** (faixa do dia: 1.78M–3.60M). Está em linha com a média de 7 dias (-6%). O modelo vê **estabilização** no curto prazo.
-
 - **David Ginola (90)** caiu **-42%** em 24h, a **2.96M coins** (faixa do dia: 2.96M–5.10M). Está -22% abaixo da média de 7 dias (descontada). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
+
+- **Pavel Nedvěd (89)** caiu **-41.8%** em 24h, a **195k coins** (faixa do dia: 165k–310k). Está em linha com a média de 7 dias (+2%). 🔮 O modelo projeta **recuperação** (reversão para alta), com 95% de probabilidade.
 
 
 ## 🔮 O que o modelo prevê para as próximas 24h
@@ -90,7 +90,7 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 | Lilian Thuram | 88 | 250k coins | 297k coins | 95% |
 | Antonio Di Natale | 89 | 353k coins | 439k coins | 95% |
 | Jaap Stam | 89 | 105k coins | 121k coins | 95% |
-| Lev Yashin | 93 | 145k coins | 179k coins | 95% |
+| Alyssa Thompson | 91 | 104k coins | 128k coins | 95% |
 | Kouadio Manu Koné | 88 | 106k coins | 126k coins | 95% |
 | Alphonso Davies | 89 | 108k coins | 145k coins | 95% |
 | Marco Reus | 89 | 379k coins | 436k coins | 95% |
@@ -129,7 +129,7 @@ Marcos Llorente (90), -46.1% em 24h, a 593k coins.
 Pelo modelo FutQuant, Sadio Mané (88) — 95% de probabilidade de alta, a 250k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 236 cartas em alta contra 289 em queda (média -0.26%).
+Hoje o mercado está em mercado lateral — sem direção clara, com 238 cartas em alta contra 289 em queda (média -0.21%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

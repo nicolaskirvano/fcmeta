@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T18:38:07.000Z
+pubDatetime: 2026-05-31T19:25:03.000Z
 title: "Melhores investimentos em Cartas Meta no EA FC (31/05/2026): análise e previsões — PC"
 draft: false
 featured: true
