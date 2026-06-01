@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T22:25:01.000Z
+pubDatetime: 2026-06-01T01:25:02.000Z
 title: "Cartas Meta no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -17,16 +17,16 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Vitinha (91), -45.6% em 24h, a 588k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Anatoliy Trubin (88) — 95% de probabilidade de alta, a 240k coins."
+    a: "Pelo modelo FutQuant, Lilian Thuram (88) — 95% de probabilidade de alta, a 219k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 242 cartas em alta contra 290 em queda (média 0.27%)."
+    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 244 cartas em alta contra 289 em queda (média 0.26%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **242 subiram** e **290 caíram**, com variação média de **0.27%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **244 subiram** e **289 caíram**, com variação média de **0.26%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Serhou Guirassy (89) **+46.7%** · 🔴 **Maior baixa:** Vitinha (91) **-45.6%**
 
@@ -40,10 +40,10 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 | Kenan Yıldız | 88 | Serie A TIM | 306k coins | +41% | +12.9% |
 | Nico Williams | 89 | LALIGA EA SPORTS | 445k coins | +39.1% | +27.9% |
 | Alphonso Davies | 89 | Bundesliga | 118k coins | +38.8% | +12.4% |
+| Pavel Nedvěd | 89 | Icons | 222k coins | +34.6% | -9% |
 | Steven Gerrard | 90 | Icons | 153k coins | +34.2% | +27.5% |
+| Cristiano Ronaldo | 88 | ROSHN Saudi League | 2.68M coins | +34% | +24.6% |
 | Marco Reus | 89 | MLS | 375k coins | +33.9% | +2.5% |
-| Anthony Gordon | 90 | Premier League | 1.55M coins | +33.7% | +55% |
-| Bradley Barcola | 90 | Ligue 1 McDonald's | 215k coins | +33.5% | +90.3% |
 
 
 ### Análise das altas
@@ -66,9 +66,9 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 | Scott McTominay | 91 | Serie A TIM | 350k coins | -28.9% | +26.4% |
 | Paul Pogba | 92 | Ligue 1 McDonald's | 3.05M coins | -26.4% | -14.8% |
 | Caroline Graham Hansen | 92 | Liga F | 99k coins | -26.1% | -31.7% |
+| Philipp Lahm | 90 | Icons | 490k coins | -24.6% | -2% |
 | Rodri | 92 | Premier League | 82k coins | -22.4% | -26.6% |
 | Homare Sawa | 92 | Icons | 343k coins | -22% | -20% |
-| Pernille Harder | 96 | — | 205k coins | -21.5% | -18% |
 
 
 ### Análise das baixas
@@ -86,14 +86,14 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Anatoliy Trubin | 88 | 240k coins | 323k coins | 95% |
-| Andrea Pirlo | 90 | 107k coins | 135k coins | 95% |
-| João Neves | 88 | 167k coins | 192k coins | 95% |
+| Lilian Thuram | 88 | 219k coins | 260k coins | 95% |
+| Raphinha | 91 | 102k coins | 117k coins | 95% |
 | Lauren James | 89 | 119k coins | 147k coins | 95% |
-| Quaresma | 88 | 218k coins | 269k coins | 95% |
-| Sadio Mané | 88 | 247k coins | 308k coins | 95% |
-| Jaap Stam | 89 | 110k coins | 127k coins | 95% |
-| Marco Reus | 89 | 375k coins | 432k coins | 95% |
+| Arda Güler | 93 | 140k coins | 175k coins | 95% |
+| Mohamed Salah | 92 | 160k coins | 184k coins | 95% |
+| Alyssa Thompson | 91 | 113k coins | 139k coins | 95% |
+| Alan Shearer | 91 | 128k coins | 164k coins | 95% |
+| João Neves | 88 | 167k coins | 192k coins | 95% |
 
 
 ## ⚠️ Cuidado: o modelo projeta queda
@@ -103,13 +103,13 @@ Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite c
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
 | Antoine Griezmann | 91 | 127k coins | -29.2% |
-| Pedro Neto | 88 | 144k coins | -17.5% |
 | Kaká | 90 | 147k coins | -21.3% |
+| Melchie Dumornay | 95 | 171k coins | -29.1% |
+| Iniesta | 92 | 146k coins | -21.3% |
 | Angelo Stiller | 94 | 166k coins | -15.6% |
-| Iniesta | 92 | 152k coins | -21.3% |
 | Caroline Weir | 95 | 186k coins | -15.7% |
 | Rayan Cherki | 93 | 135k coins | -16.7% |
-| Trinity Rodman | 88 | 167k coins | -24% |
+| Pedro Neto | 88 | 144k coins | -17.5% |
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -126,10 +126,10 @@ Serhou Guirassy (89, Bundesliga), com +46.7% em 24h, a 90k coins no Console (PS)
 Vitinha (91), -45.6% em 24h, a 588k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Anatoliy Trubin (88) — 95% de probabilidade de alta, a 240k coins.
+Pelo modelo FutQuant, Lilian Thuram (88) — 95% de probabilidade de alta, a 219k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 242 cartas em alta contra 290 em queda (média 0.27%).
+Hoje o mercado está em mercado lateral — sem direção clara, com 244 cartas em alta contra 289 em queda (média 0.26%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T22:25:02.000Z
+pubDatetime: 2026-06-01T01:25:02.000Z
 title: "Melhores investimentos em Cartas Meta no EA FC (31/05/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -36,16 +36,16 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Arda Güler | 93 | LALIGA EA SPORTS | 140k coins | +16.7% | +40% | 95% |
 | Claudio Marchisio | 88 | Serie A TIM | 137k coins | +23.4% | +37.7% | 16% |
 | Alejandro Garnacho | 89 | Premier League | 217k coins | +10.2% | +36.5% | 84% |
+| Juan Román Riquelme | 89 | Icons | 199k coins | +1% | +33.6% | 42% |
 | Raphinha | 90 | LALIGA EA SPORTS | 100k coins | +17.6% | +33.3% | 93% |
 | Joshua Kimmich | 89 | Bundesliga | 112k coins | +19.8% | +31% | 27% |
 | Sadio Mané | 88 | ROSHN Saudi League | 247k coins | +19.9% | +30.7% | 95% |
 | Steven Gerrard | 90 | Icons | 153k coins | +34.2% | +27.5% | 84% |
 | Iván Zamorano | 91 | LALIGA EA SPORTS | 87k coins | +20.8% | +27% | 35% |
-| Steven Gerrard | 89 | Icons | 84k coins | +27.3% | +26.3% | 57% |
+| Robin van Persie | 88 | Icons | 97k coins | +10.2% | +26.8% | 95% |
+| Rivaldo | 90 | Icons | 118k coins | +20.4% | +25.5% | 44% |
 | Marquinhos | 88 | Ligue 1 McDonald's | 81k coins | +24.6% | +24.6% | 95% |
-| Daniele De Rossi | 89 | Serie A TIM | 150k coins | +11.1% | +23% | 39% |
-| Marcel Desailly | 93 | — | 195k coins | +1% | +22.6% | 47% |
-| Eric Cantona | 89 | Icons | 122k coins | +10.9% | +22.6% | 56% |
+| Eric Cantona | 89 | Icons | 123k coins | +17.1% | +23.6% | 56% |
 
 
 ## 📈 Análise dos destaques
