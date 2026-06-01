@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:25:02.000Z
+pubDatetime: 2026-06-01T13:25:02.000Z
 title: "Melhores investimentos em Cartas Meta no EA FC (01/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -45,7 +45,7 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Toni Kroos | 90 | Icons | 94k coins | +21.2% | +32.2% | 5% |
 | Nikola Katić | 90 | — | 92k coins | +14.3% | +31.4% | 80% |
 | Khadija Shaw | 90 | Barclays WSL | 115k coins | +3.6% | +30.7% | 35% |
-| Daniele De Rossi | 89 | Serie A TIM | 166k coins | +10.7% | +29.7% | 39% |
+| Edwin van der Sar | 88 | Icons | 228k coins | +37.4% | +30.3% | 68% |
 
 
 ## 📈 Análise dos destaques
