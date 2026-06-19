@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T23:35:32.000Z
+pubDatetime: 2026-06-19T01:26:44.000Z
 title: "Cartas Meta no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,61 +13,61 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Éder Militão (88, LALIGA EA SPORTS), com +58.1% em 24h, a 210k coins no PC."
+    a: "Javier Zanetti (91, Icons), com +56.5% em 24h, a 169k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Leah Williamson (95), -38.1% em 24h, a 197k coins."
+    a: "Raphinha (91), -39.6% em 24h, a 83k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado aquecido — as altas dominam o dia, com 280 cartas em alta contra 267 em queda (média 2.19%)."
+    a: "Hoje o mercado está em mercado aquecido — as altas dominam o dia, com 279 cartas em alta contra 277 em queda (média 1.61%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O mercado de EA FC Ultimate Team em 18 de junho de 2026 apresenta um cenário de aquecimento significativo, onde a pressão de compra claramente supera a oferta, resultando em um desequilíbrio favorável aos vendedores com 280 altas registradas contra apenas 267 quedas nas últimas 24 horas. Essa dinâmica agressiva elevou a média geral de variação positiva para 2.19%, indicando que os traders estão dispostos a pagar prêmios consideráveis por ativos de alta liquidez e status simbólico dentro do jogo. O tom do dia é definido por uma cautela otimista, onde a escassez percebida em certas categorias de cartas meta está forçando uma reavaliação rápida dos valores de equilíbrio, especialmente para ícones do passado e defensores sólidos de ligas principais. Investidores devem estar atentos à volatilidade extrema, pois a probabilidade de continuação das tendências de alta varia drasticamente entre os ativos, exigindo uma análise granular de cada movimento individual antes de qualquer entrada ou saída. A concentração de capital em poucos jogadores-chave está criando bolhas locais que podem estourar rapidamente se a narrativa do mercado mudar, mas enquanto o sentimento prevalecer, a inércia dos preços tende a ser para cima.
+O cenário do mercado de EA FC Ultimate Team para esta terça-feira, 18 de junho de 2026, apresenta um viés claramente otimista, com um sentimento geral de aquecimento que favorece os investidores de curto prazo e os colecionadores de cartas meta. A balança de movimentos mostra uma leve superioridade das altas sobre as quedas, registrando 279 subidas contra 277 descidas nas últimas 24 horas, resultando em uma média de alta de 1.61% que indica liquidez ativa e confiança dos traders. Este contexto sugere que o fluxo de moedas está sendo direcionado para ativos de alta visibilidade e cartas com forte apelo nostálgico ou utilitário nas ligas mais populares, criando oportunidades tangíveis para quem souber identificar os pontos de entrada corretos. A volatilidade controlada permite operações mais assertivas, desde que o trader mantenha disciplina para evitar compras no topo de movimentos impulsivos sem suporte fundamental claro. O tom do dia é de cautela otimista, onde a compra seletiva em ícones consolidados parece ser a estratégia mais segura frente à instabilidade de cartas mais recentes.
 
-> 🟢 **Maior alta:** Éder Militão (88) **+58.1%** · 🔴 **Maior baixa:** Leah Williamson (95) **-38.1%**
+> 🟢 **Maior alta:** Javier Zanetti (91) **+56.5%** · 🔴 **Maior baixa:** Raphinha (91) **-39.6%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Éder Militão | 88 | LALIGA EA SPORTS | 210k coins | +58.1% | +19.5% |
-| Javier Zanetti | 91 | Icons | 169k coins | +56.5% | +31% |
-| John Barnes | 89 | Icons | 148k coins | +51.8% | +10.4% |
-| Didier Drogba | 89 | Icons | 317k coins | +50.2% | +77.1% |
-| Francesco Totti | 89 | Icons | 700k coins | +48.6% | +26.1% |
-| Franz Beckenbauer | 92 | Icons | 139k coins | +43.5% | +8.8% |
-| Bruno Fernandes | 93 | Premier League | 449k coins | +42.9% | +42.4% |
-| João Moutinho | 88 | Liga Portugal | 85k coins | +41.7% | +51.8% |
-| Robert Pirès | 89 | Icons | 82k coins | +41.5% | +6.4% |
-| Nick Woltemade | 90 | Premier League | 140k coins | +40.7% | +9.4% |
+| Javier Zanetti | 91 | Icons | 169k coins | +56.5% | +33.1% |
+| Wesley Sneijder | 93 | Serie A TIM | 969k coins | +52.3% | +44.6% |
+| John Barnes | 89 | Icons | 148k coins | +49.5% | +10.7% |
+| Lucy Bronze | 95 | Barclays WSL | 275k coins | +44.7% | +28.5% |
+| Xavi | 93 | Icons | 1M coins | +43.9% | +19.2% |
+| João Moutinho | 88 | Liga Portugal | 85k coins | +41.7% | +41.7% |
+| Mohamed Salah | 92 | Premier League | 430k coins | +40.5% | -7.5% |
+| Birgit Prinz | 93 | Icons | 97k coins | +38.2% | +96.9% |
+| Debinha | 89 | NWSL | 120k coins | +37.9% | +27% |
+| Kenan Yıldız | 88 | Serie A TIM | 210k coins | +37.3% | +17.3% |
 
 
-O destaque absoluto da sessão é Éder Militão, cuja carta de 88 rating da LaLiga EA Sports disparou 58.1% em 24 horas, atingindo a marca de 210 mil moedas, embora a probabilidade de continuidade dessa alta seja modesta de apenas 30%, sugerindo um movimento especulativo de curto prazo impulsionado por necessidades imediatas de squads competitivos.紧随其后的是 Javier Zanetti, o ícone de 91 rating, que subiu 56.5% para 169 mil moedas, com uma probabilidade de alta de 27%, refletindo a constante busca por defensores versáteis e de baixo custo relativo em comparação com outras opções de elite. John Barnes, outro ícone com 89 rating, apresentou uma alta robusta de 51.8% para 148 mil moedas, mas chama atenção a sua alta probabilidade de continuação de 65%, indicando forte demanda sustentada por seu perfil ofensivo e eficiência em meta squads. Didier Totti, o ícone de 89 rating, também se valorizou 50.2% para 317 mil moedas, mas com baixa probabilidade de alta de apenas 25%, caracterizando possivelmente uma correção de preço após uma queda anterior ou demanda pontual para eventos específicos. Francesco Totti, a carta de 89 rating, teve alta de 48.6% para um impressionante 700 mil moedas, mas com probabilidade de alta de apenas 11%, sinalizando que o preço já pode estar saturado e sujeito a correções iminentes devido à falta de compradores dispostos a pagar esse prêmio elevado.
+A liderança das altas é dominada por Javier Zanetti, cuja carta de 91 de rating na série Icons disparou impressionantes 56.5% em 24 horas, atingindo um preço de 169k coins, um movimento impulsionado pela sua utilidade versátil como lateral defensivo ou meio-campista e pela alta demanda em squads focados em defesa sólida. Segue-se Wesley Sneijder, com sua carta de 93 da Serie A TIM subindo 52.3% para 969k coins, refletindo uma especulação intensa em torno de possíveis promoções de ligas italianas ou torneios especiais que elevam o valor percebido de jogadores históricos da Serie A. John Barnes, outro ícone com 89 de rating, registrou alta de 49.5% chegando a 148k coins, beneficiando-se de sua probabilidade de alta de 65%, o que sugere uma forte tendência de compra acumulada por traders que apostam na continuidade do movimento. Lucy Bronze, com 95 de rating da Barclays WSL, subiu 44.7% para 275k coins, destacando-se como um dos ativos mais seguros do dia com 64% de probabilidade de alta, atraindo investidores que buscam estabilidade em cartas de alto rating da liga feminina. Xavi, com sua carta de 93 Icons, também entrou no top five com alta de 43.9% para 1 milhão de coins, embora sua probabilidade de alta seja menor em 19%, indicando que seu movimento pode ser mais especulativo e menos sustentável a longo prazo sem novos ganchos de conteúdo.
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Leah Williamson | 95 | Barclays WSL | 197k coins | -38.1% | -20.9% |
-| Raphinha | 91 | LALIGA EA SPORTS | 84k coins | -36.1% | -32.2% |
-| Mapi León | 96 | — | 438k coins | -30.1% | -13.6% |
-| Ian Maatsen | 96 | — | 496k coins | -27.9% | +30.8% |
-| Johan Cruyff | 94 | Icons | 1.40M coins | -27.8% | +13% |
-| Theo Hernández | 88 | ROSHN Saudi League | 314k coins | -24.9% | -34.5% |
-| Ricardo Carvalho | 89 | Liga Portugal | 80k coins | -23.8% | +42.9% |
-| Christiane Endler | 94 | D1 Arkema | 127k coins | -23.5% | -23.5% |
-| Sandro Tonali | 91 | Premier League | 92k coins | -23.3% | +15% |
-| Claudia Pina | 95 | Liga F | 1.36M coins | -22.7% | +5.9% |
+| Raphinha | 91 | LALIGA EA SPORTS | 83k coins | -39.6% | -34.5% |
+| Bradley Barcola | 90 | Ligue 1 McDonald's | 100k coins | -31.5% | +10.1% |
+| Claudia Pina | 95 | Liga F | 1.36M coins | -29.8% | -6.9% |
+| Antoine Semenyo | 94 | — | 950k coins | -28.4% | -10.4% |
+| Willian Pacho | 96 | — | 2.16M coins | -28% | +8% |
+| Tyrick Mitchell | 96 | — | 685k coins | -27.4% | -11.6% |
+| Franck Ribéry | 88 | Icons | 122k coins | -26.7% | -11.3% |
+| Carlos Alberto | 92 | Icons | 369k coins | -26.7% | -10.8% |
+| Sócrates | 89 | Icons | 111k coins | -26% | +37% |
+| Bobby Charlton | 92 | Icons | 85k coins | -25.4% | -25.4% |
 
 
-Do lado das quedas, Leah Williamson, a defensora de 95 rating da Barclays WSL, perdeu 38.1% de seu valor, caindo para 197 mil moedas, com uma probabilidade de alta de apenas 22%, o que sugere uma perda de confiança no ativo devido a possíveis atualizações de meta ou excesso de oferta no mercado. Raphinha, com 91 rating da LaLiga EA Sports, recuou 36.1% para 84 mil moedas, mantendo uma probabilidade de alta de 30%, o que indica que a queda pode ser uma oportunidade de compra se o trader acreditar na recuperação do ativo em médio prazo, apesar da pressão vendedora atual. Mapi León, a atacante de 96 rating sem liga específica, sofreu uma queda acentuada de 30.1% para 438 mil moedas, com probabilidade de alta de 0%, o que é um sinal de alerta máximo para holders, indicando que o ativo está em tendência de baixa irreversível no curto prazo e deve ser evitado. Ian Maatsen, também de 96 rating e sem liga, caiu 27.9% para 496 mil moedas, com probabilidade de alta de 0%, reforçando a tese de que cartas de alta raridade sem suporte de liga ativa ou narrativa forte estão sendo liquidadas agressivamente pelo mercado. Johan Cruyff, o lendário ícone de 94 rating, perdeu 27.8% para 1.4 milhão de moedas, mas ainda mantém uma probabilidade de alta de 26%, o que pode indicar uma venda de pânico ou ajuste de portfólio de grandes traders, criando uma zona de suporte potencial para quem tem capital suficiente para operar em ativos de alto risco.
+Na outra ponta do espectro, Raphinha sofreu a maior queda com 39.6% de desvalorização, caindo para 83k coins, um sinal claro de desinvestimento em sua carta de 91 da LALIGA EA SPORTS, possivelmente devido à saturação de supply ou falta de demanda em meta squads. Bradley Barcola também perdeu valor significativamente, com queda de 31.5% para 100k coins, refletindo a incerteza em torno de sua carta de 90 da Ligue 1 McDonald's e a baixa probabilidade de alta de apenas 23%, o que desencoraja a compra por parte de traders cautelosos. Claudia Pina, uma das cartas mais caras do mercado com 95 de rating da Liga F, despencou 29.8% para 1.36M coins, demonstrando a alta volatilidade de ativos premium que são sensíveis a pequenas variações na percepção de utilidade ou status de meta. Antoine Semenyo e Willian Pacho, ambos sem liga definida, apresentaram quedas de 28.4% e 28% respectivamente, para 950k e 2.16M coins, com probabilidades de alta de 0%, o que indica um colapso estrutural na demanda por essas cartas, tornando-as extremamente arriscadas para qualquer tipo de investimento. A queda de Franck Ribéry e Carlos Alberto, ambos ícones, mostra que mesmo cartas históricas não estão imunes a correções, com quedas de 26.7% cada, para 122k e 369k coins, respectivamente, sugerindo uma rotação de capital para ativos mais quentes como Zanetti e Sneijder.
 
 
 ## 🎯 O que fazer hoje
-A estratégia recomendada para hoje é focar na compra de ativos com alta probabilidade de continuação de alta e preço acessível, especificamente John Barnes e João Moutinho, que oferecem uma relação risco-retorno favorável com probabilidades de alta de 65% e 75% respectivamente, permitindo lucros rápidos em ciclos curtos. Traders devem evitar positivamente Mapi León e Ian Maatsen, cujas probabilidades de alta são zero e quedas acentuadas indicam uma tendência de baixa sem suporte imediato, representando risco de perda capital significativa. Éder Militão e Javier Zanetti podem ser considerados para operações de day-trading de curto prazo, aproveitando a inércia das altas recentes, mas com ordens de stop-loss rigorosas devido às probabilidades de continuidade abaixo de 30%. Para investidores de longo prazo, a queda de Raphinha e Johan Cruyff pode representar oportunidades de compra em níveis de suporte, mas apenas após confirmação de estabilização do preço e aumento da probabilidade de alta em análises subsequentes. O segredo do dia é não perseguir altas já consolidadas como a de Francesco Totti, mas sim antecipar a rotação de capital para ativos de menor valor com fundamental de demanda forte, mantendo a disciplina e o gerenciamento de risco como pilares da operação.
+A estratégia recomendada para hoje é focar na compra seletiva de ícones com alta probabilidade de continuidade, como John Barnes e Lucy Bronze, que combinam ganhos expressivos com fortes indicadores estatísticos de alta, oferecendo um perfil de risco mais controlado. É prudente evitar a compra de ativos com queda acentuada e probabilidade zero de alta, como Antoine Semenyo e Willian Pacho, pois a ausência de suporte de mercado indica que a desvalorização pode se aprofundar. Jogadores como Javier Zanetti e Wesley Sneijder podem ser considerados para hold se já possuídos, mas a compra no topo deve ser feita com cautela, aguardando pequenas correções para entrar com melhor preço. A venda de cartas de alta volatilidade como Claudia Pina e Raphinha pode ser uma oportunidade de realizar lucros ou limitar perdas, dependendo do preço de entrada, mas não há sinais claros de reversão imediata. O trader deve manter liquidez para aproveitar eventuais oportunidades de compra em ícones que sofram correções técnicas, como Franck Ribéry, cuja probabilidade de alta de 42% sugere potencial de recuperação a médio prazo.
 
 
 ## ⚙️ A engine por tras deste post
@@ -77,13 +77,13 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
-Éder Militão (88, LALIGA EA SPORTS), com +58.1% em 24h, a 210k coins no PC.
+Javier Zanetti (91, Icons), com +56.5% em 24h, a 169k coins no PC.
 
 **E a maior queda do dia?**  
-Leah Williamson (95), -38.1% em 24h, a 197k coins.
+Raphinha (91), -39.6% em 24h, a 83k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado aquecido — as altas dominam o dia, com 280 cartas em alta contra 267 em queda (média 2.19%).
+Hoje o mercado está em mercado aquecido — as altas dominam o dia, com 279 cartas em alta contra 277 em queda (média 1.61%).
 
 **Posso confiar nos preços e previsões do FutQuant?**  
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
