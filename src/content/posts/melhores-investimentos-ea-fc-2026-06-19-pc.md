@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T19:27:17.000Z
+pubDatetime: 2026-06-19T22:30:59.000Z
 title: "Melhores investimentos em Cartas Meta no EA FC (19/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 19/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (19/06/2026) no EA FC?"
-    a: "Paulo Dybala (88, Serie A TIM) lidera, com +87.1% em 7 dias a 165k coins no PC, e o modelo dá 36% de chance de seguir subindo."
+    a: "Bobby Charlton (92, Icons) lidera, com +59.2% em 7 dias a 110k coins no PC, e o modelo dá 24% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,21 +23,21 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **19/06/2026** no **PC**:
 
-> 🔝 **Destaque:** Paulo Dybala (88) acumula **+87.1% em 7 dias** a 165k coins.
+> 🔝 **Destaque:** Bobby Charlton (92) acumula **+59.2% em 7 dias** a 110k coins.
 
 
 ## 🔎 Análise do mercado hoje
-Ao analisar o mercado do EA FC Ultimate Team para PC na data de 19 de junho de 2026, é fundamental observar as tendências de valorização dos últimos sete dias para identificar oportunidades de investimento sólidas. O cenário atual aponta para uma volatilidade interessante, com ativos específicos apresentando saltos expressivos em suas cotações. A chave para o sucesso neste momento não reside apenas na popularidade dos jogadores, mas sim na combinação entre o aumento percentual recente e a probabilidade estatística de continuação dessa alta. Investidores devem focar em cartas que demonstram não apenas um pico isolado, mas uma consistência que sugere demanda sustentada pela comunidade, especialmente em meio às rotativas de meta e eventos de fim de temporada que caracterizam este período do ano.
+Ao analisarmos o cenário do mercado do EA FC Ultimate Team para a data de 19/06/2026, o foco principal recai sobre as cartas com tendência de valorização nos últimos sete dias. O mercado demonstra volatilidade interessante, onde a decisão de investir deve ser baseada não apenas no aumento percentual imediato, mas na probabilidade estatística de continuidade dessa alta. Entre as opções disponíveis, destaca-se Bobby Charlton, cuja carta Icons de 92 rating apresenta um impressionante salto de 37,6% em apenas 24 horas. Com um preço atual de 110 mil coins e uma probabilidade alta de 24% de continuar subindo, esta é uma das poucas entradas de baixo risco relativo ao ganho potencial, oferecendo uma relação risco-retorno atrativa para investidores que buscam capitalizar em ícones históricos com liquidez rápida.
 
-Entre as opções mais atraentes para entrada imediata, destaca-se Ricardo Carvalho, cuja carta de 89 pontos da Liga Portugal tem exibido um desempenho excepcional. Com um aumento de 16,9% em apenas 24 horas, o lateral-esquerda está cotado a 92 mil coins. O dado mais relevante para a decisão de compra é a probabilidade de alta de 69%, a maior entre todos os ativos listados. Essa combinação de valor acessível e tendência robusta indica que o mercado está reconhecendo o potencial da carta para compósitos ou time-ups específicos, tornando-a uma aposta de baixo risco e retorno potencialmente rápido para carteiras com capital limitado.
+Outro nome que chama atenção pela magnitude do crescimento é Raphinha, da LALIGA EA SPORTS, com rating de 90. Sua carta registrou alta de 18,3% em 24 horas, posicionando-se na casa dos 207 mil coins. No entanto, a probabilidade de alta é de apenas 6%, o que indica que o movimento pode ser mais especulativo do que estrutural. Para investidores conservadores, este é um sinal de cautela, sugerindo que a tendência pode se esgotar rapidamente. Diferente de Charlton, a entrada em Raphinha exige timing preciso de venda, pois a baixa probabilidade de continuidade sugere que o pico de valorização pode já estar próximo.
 
-Outro candidato forte é Dominik Szoboszlai, cuja versão de 90 pontos da Premier League mostra uma probabilidade de alta de 64%, apesar de um crescimento modesto de 2,3% nas últimas 24 horas. Cotado a 175 mil coins, o meio-campista apresenta uma estabilidade que atrai investidores de longo prazo. A alta probabilidade de valorização sugere que a demanda está se consolidando gradualmente, possivelmente devido à sua utilidade em times baseados em jogadores reais da Premier League. Entrar agora pode ser estratégico para capturar os ganhos futuros, já que o preço ainda não refletiu totalmente o otimismo do mercado para os próximos dias.
+No segmento de jogadores ativos da Premier League, Mohamed Salah e Rodri oferecem perfis de investimento distintos. Salah, com 92 rating, subiu 6,9% em 24 horas para 232 mil coins, com probabilidade de alta de 23%. Embora o percentual seja menor que o de Charlton, o valor absoluto da carta a torna um ativo de maior volume, onde pequenas variações impactam significativamente o saldo total. Já Rodri, também com 92 rating, apresenta uma alta de 9,4% para 186 mil coins, mas com uma probabilidade de alta de 57%. Esta última estatística é crucial, pois indica uma tendência sólida e sustentável, tornando Rodri uma das melhores apostas para quem busca segurança na manutenção do valor da carta nos próximos dias.
 
-Para quem busca investimentos de maior risco e recompensa, Marco van Basten e Erling Haaland merecem atenção. Van Basten, com sua carta Icons de 91 pontos, saltou impressionantes 38,4% em 24 horas, atingindo 94 mil coins, com 46% de chance de continuar subindo. Por outro lado, Haaland, a 250 mil coins, registrou um aumento de 35,1%, embora tenha uma probabilidade de alta menor, de 30%. A decisão entre os dois depende do perfil do investidor: Van Basten oferece um ponto de entrada mais baixo com momentum forte, enquanto Haaland representa um ativo premium com alta liquidez, ideal para quem tem capital excedente e busca diversificação em ativos de alto valor.
+As cartas Icons continuam sendo pilares de estabilidade e crescimento moderado, com Wayne Rooney e Iniesta se destacando por suas probabilidades de alta. Rooney, de 88 rating, teve alta de apenas 1,4% para 146 mil coins, mas possui 49% de probabilidade de continuar subindo. Da mesma forma, Iniesta, com 92 rating, subiu 3,4% para 166 mil coins, apresentando a maior probabilidade de alta do grupo, com 64%. Esses números sugerem que, embora o movimento diário seja discreto, a tendência de longo prazo é fortemente positiva, ideal para investidores que preferem acumular ativos com baixa volatilidade e alta probabilidade de retorno consistente.
 
-É crucial manter o olhar também em jogadores com equilíbrio entre crescimento e probabilidade, como Steven Gerrard e Oliver Kahn. Gerrard, com 21,4% de alta e 52% de probabilidade, está a 154 mil coins, oferecendo um meio-termo interessante. Já Kahn, a 169 mil coins, subiu 16,4% com 37% de probabilidade de alta. Ambos são ícones estabelecidos, o que garante um piso de preço mais seguro. Finalmente, Abedi Pelé, apesar de ter apenas 2,2% de alta, possui a maior probabilidade de alta da lista para ativos de elite (52%), estando a 164 mil coins. Essa discrepância entre o movimento recente e a expectativa futura pode indicar um acúmulo silencioso de compradores, sugerindo uma valorização tardia mas potencialmente significativa.
+Entre os ícones femininos, Birgit Prinz e Christiane Endler merecem destaque por seus desempenhos recentes. Prinz, com 93 rating, subiu 13,4% para 110 mil coins, com 63% de probabilidade de alta, enquanto Endler, de 94 rating, registrou 14,2% de alta para 143 mil coins, com 39% de probabilidade. A alta probabilidade de Prinz a torna uma entrada mais segura do que Endler, apesar da diferença de rating. Ambos os ativos indicam que o mercado está redescobrindo o valor de cartas de defesa e meio-campo femininas, possivelmente devido a metas ou pacotes específicos que aumentam a demanda por esses perfis.
 
-Em resumo, a estratégia ideal para hoje envolve uma carteira diversificada. A prioridade deve ser dada a Ricardo Carvalho e Dominik Szoboszlai pela alta probabilidade de retorno, complementados por Marco van Basten para captura de momentum rápido. Evite compras impulsivas em ativos com alta volatilidade e baixa probabilidade de continuação, como Dybala, a menos que haja uma estratégia de curto prazo muito específica. Monitorar esses indicadores é essencial para navegar no mercado de 19 de junho de 2026 com inteligência e maximizar os lucros em coins.
+Por fim, é essencial descartar Merveille Kanjinga e ter cautela com Allan Saint-Maximin. Kanjinga, apesar de ter 96 rating e alta de 8,7%, possui 0% de probabilidade de alta, o que a torna uma armadilha para investidores que seguem apenas o hype do rating. Saint-Maximin, com 92 rating e alta de 13,6%, tem probabilidade de alta de apenas 17%, indicando que seu preço de 120 mil coins pode estar inflacionado momentaneamente. Portanto, as melhores entradas atuais são Bobby Charlton, Rodri, Birgit Prinz e Iniesta, combinando alta probabilidade estatística com tendências de valorização confirmadas, oferecendo o equilíbrio ideal entre risco e retorno para o dia 19 de junho de 2026.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,34 +45,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Paulo Dybala | 88 | Serie A TIM | 165k coins | +7.4% | +87.1% | 36% |
-| Pierre Kalulu | 91 | Serie A TIM | 89k coins | +9.2% | +79.8% | 31% |
-| Sócrates | 89 | Icons | 137k coins | +23.4% | +77.9% | 28% |
-| Abedi Pelé | 91 | Ligue 1 McDonald's | 164k coins | +2.2% | +73.6% | 52% |
-| Oliver Kahn | 91 | Icons | 169k coins | +16.4% | +63.5% | 37% |
-| Ricardo Carvalho | 89 | Liga Portugal | 92k coins | +16.9% | +50.8% | 69% |
-| Steven Gerrard | 90 | Icons | 154k coins | +21.4% | +41.7% | 52% |
-| Erling Haaland | 92 | Premier League | 250k coins | +35.1% | +39.1% | 30% |
-| Marco van Basten | 91 | Icons | 94k coins | +38.4% | +38.4% | 46% |
-| Dominik Szoboszlai | 90 | Premier League | 175k coins | +2.3% | +36.7% | 64% |
-| Iván Zamorano | 91 | LALIGA EA SPORTS | 99k coins | +23.8% | +35.6% | 25% |
-| Mohamed Salah | 92 | Premier League | 240k coins | +9.1% | +33.3% | 23% |
-| Merveille Kanjinga | 96 | — | 190k coins | +8.9% | +30% | 0% |
-| Iniesta | 92 | Icons | 166k coins | +14.5% | +29.7% | 64% |
-| Alphonso Davies | 89 | Bundesliga | 220k coins | +25% | +26.4% | 58% |
+| Bobby Charlton | 92 | Icons | 110k coins | +37.6% | +59.2% | 24% |
+| Mohamed Salah | 92 | Premier League | 232k coins | +6.9% | +36.5% | 23% |
+| Wayne Rooney | 88 | Icons | 146k coins | +1.4% | +33.9% | 49% |
+| Raphinha | 90 | LALIGA EA SPORTS | 207k coins | +18.3% | +33.5% | 6% |
+| Rodri | 92 | Premier League | 186k coins | +9.4% | +30.1% | 57% |
+| Birgit Prinz | 93 | Icons | 110k coins | +13.4% | +29.4% | 63% |
+| Allan Saint-Maximin | 92 | Ligue 1 McDonald's | 120k coins | +13.6% | +27.6% | 17% |
+| Merveille Kanjinga | 96 | — | 174k coins | +8.7% | +25.3% | 0% |
+| Iniesta | 92 | Icons | 166k coins | +3.4% | +23% | 64% |
+| Christiane Endler | 94 | D1 Arkema | 143k coins | +14.2% | +21.8% | 39% |
+| Laurent Blanc | 88 | Icons | 84k coins | +17.8% | +17.8% | 29% |
+| Declan Rice | 89 | Premier League | 100k coins | +11.1% | +17.6% | 61% |
+| Gerd Müller | 92 | Icons | 94k coins | +11.9% | +17.5% | 71% |
+| Eric Cantona | 92 | — | 98k coins | +15% | +16.2% | 56% |
+| Frank Rijkaard | 89 | Icons | 117k coins | +12.1% | +14.3% | 35% |
 
 
 ## 📈 Análise dos destaques
 
-- **Paulo Dybala (88)** — 165k coins, **+87.1% em 7 dias** (+7.4% em 24h). Preço +44% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Bobby Charlton (92)** — 110k coins, **+59.2% em 7 dias** (+37.6% em 24h). Preço em linha com a média de 7 dias (+7%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Pierre Kalulu (91)** — 89k coins, **+79.8% em 7 dias** (+9.2% em 24h). Preço +32% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Mohamed Salah (92)** — 232k coins, **+36.5% em 7 dias** (+6.9% em 24h). Preço +28% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Sócrates (89)** — 137k coins, **+77.9% em 7 dias** (+23.4% em 24h). Preço +43% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Wayne Rooney (88)** — 146k coins, **+33.9% em 7 dias** (+1.4% em 24h). Preço em linha com a média de 7 dias (+7%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Abedi Pelé (91)** — 164k coins, **+73.6% em 7 dias** (+2.2% em 24h). Preço +14% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Raphinha (90)** — 207k coins, **+33.5% em 7 dias** (+18.3% em 24h). Preço +17% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Oliver Kahn (91)** — 169k coins, **+63.5% em 7 dias** (+16.4% em 24h). Preço +13% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Rodri (92)** — 186k coins, **+30.1% em 7 dias** (+9.4% em 24h). Preço +20% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -90,7 +90,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (19/06/2026) no EA FC?**  
-Paulo Dybala (88, Serie A TIM) lidera, com +87.1% em 7 dias a 165k coins no PC, e o modelo dá 36% de chance de seguir subindo.
+Bobby Charlton (92, Icons) lidera, com +59.2% em 7 dias a 110k coins no PC, e o modelo dá 24% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
