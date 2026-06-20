@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T16:27:38.000Z
+pubDatetime: 2026-06-20T01:26:50.000Z
 title: "Cartas Meta no EA FC hoje (19/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,61 +13,61 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 19/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/06/2026)?"
-    a: "Taylor Flint (88, NWSL), com +57.3% em 24h, a 371k coins no PC."
+    a: "Javier Mascherano (89, LALIGA EA SPORTS), com +51.9% em 24h, a 100k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Ferenc Puskás (93), -41.6% em 24h, a 411k coins."
+    a: "Petr Čech (89), -49.2% em 24h, a 100k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 240 cartas em alta contra 288 em queda (média 0.69%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 116 cartas em alta contra 274 em queda (média -7.93%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado de EA FC Ultimate Team apresenta hoje uma dinâmica extremamente lateral e confusa, caracterizada por uma ausência de direção clara que tem tornado as operações mais arriscadas para os traders que buscam lucros rápidos e consistentes. Com um balanço quase equilibrado entre altas e quedas, registrando 240 cartas em alta contra 288 em queda nas últimas 24 horas, o cenário reflete uma hesitação generalizada da comunidade em definir novos patamares de preço para os ativos mais líquidos. A variação média de apenas 0,69% consolida essa visão de estagnação relativa, onde grandes movimentos são exceção e não regra, exigindo uma leitura mais apurada dos fundamentos por trás de cada oscilação pontual. Neste contexto de incerteza, a volatilidade parece estar concentrada em nichos específicos, como o mercado de ícones e cartas de ligas alternativas, enquanto o mainstream aguarda um gatilho narrativo mais forte para romper a paridade. Traders experientes sabem que momentos de lateralidade são ideais para acumulação estratégica ou venda de ativos superaquecidos, mas exigem disciplina férrea para não ser apanhado por falsos rompimentos que podem drenar o cofre rapidamente.
+O mercado de EA FC Ultimate Team em 19 de junho de 2026 exibe uma dinâmica de venda massiva e desconfiança generalizada, com um saldo negativo expressivo de 274 quedas contra apenas 116 altas, resultando em uma média de desvalorização de -7.93% nas últimas 24 horas. Esse cenário de predomínio das quedas sugere que os traders estão priorizando a liquidez imediata, provavelmente antecipando atualizações de meta ou eventos futuros que possam desvalorizar ativos específicos, criando uma oportunidade para compradores agressivos que buscam ativos de alta liquidez em preços descontados. O sentimento negativo é amplificado pela volatilidade extrema observada em cartas de alto investimento, onde a probabilidade de alta não se traduz necessariamente em ganhos reais devido à baixa demanda orgânica para esses itens específicos no momento atual. Para o trader experiente, o dia exige cautela extrema com especulações de longo prazo e foco em operações de curto prazo, aproveitando a liquidez excessiva para girar capital rapidamente em ativos que ainda mantêm relevância meta ou estão sendo subvalorizados pelo pânico do mercado. A análise dos dados revela que, embora haja oportunidades pontuais de alta, a tendência estrutural é de queda, obrigando os investidores a serem seletivos e baseados estritamente nos números de probabilidade e volume, evitando armadilhas de valorização ilusória.
 
-> 🟢 **Maior alta:** Taylor Flint (88) **+57.3%** · 🔴 **Maior baixa:** Ferenc Puskás (93) **-41.6%**
+> 🟢 **Maior alta:** Javier Mascherano (89) **+51.9%** · 🔴 **Maior baixa:** Petr Čech (89) **-49.2%**
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Taylor Flint | 88 | NWSL | 371k coins | +57.3% | +62.5% |
-| Iniesta | 92 | Icons | 175k coins | +56.5% | +33.3% |
-| Florian Wirtz | 92 | Premier League | 1.39M coins | +54.4% | +114.2% |
-| Jonathan Tah | 88 | Bundesliga | 80k coins | +50.9% | +6.7% |
-| Trinity Rodman | 88 | NWSL | 279k coins | +49.2% | +114.6% |
-| Birgit Prinz | 93 | Icons | 95k coins | +47.3% | +6.1% |
-| Cody Gakpo | 89 | Premier League | 171k coins | +42.5% | +22.1% |
-| Carlos Baleba | 90 | Premier League | 109k coins | +41.6% | +30.5% |
-| Franck Ribéry | 89 | Icons | 295k coins | +39.2% | +5% |
-| Andriy Shevchenko | 93 | — | 89k coins | +38.3% | +18% |
+| Javier Mascherano | 89 | LALIGA EA SPORTS | 100k coins | +51.9% | +10.6% |
+| Marc-André ter Stegen | 89 | LALIGA EA SPORTS | 120k coins | +50.9% | +9.1% |
+| Serhou Guirassy | 89 | Bundesliga | 115k coins | +48.4% | +19.2% |
+| Ousmane Dembélé | 91 | Ligue 1 McDonald's | 1.40M coins | +41.9% | +21.1% |
+| Alex Morgan | 91 | Icons | 1.40M coins | +40.4% | +28.8% |
+| Willian Pacho | 96 | — | 2.88M coins | +39% | +71.4% |
+| Marco van Basten | 91 | Icons | 97k coins | +38.6% | +40.6% |
+| Robert Lewandowski | 88 | LALIGA EA SPORTS | 800k coins | +36.8% | +11.1% |
+| Gerd Müller | 92 | Icons | 109k coins | +34.9% | +19.1% |
+| Désiré Doué | 91 | Ligue 1 McDonald's | 2M coins | +33.3% | +36.1% |
 
 
-Entre os ativos que se destacaram na vertente de compra, Taylor Flint lidera com uma alta impressionante de 57,3% em 24 horas, atingindo 371 mil coins, embora a probabilidade de continuação da alta seja moderada em apenas 26%, sugerindo um possível topo local de curto prazo. Iniesta, com sua carta de 92 rating de Ícone, subiu 56,5% para 175 mil coins e apresenta uma probabilidade de alta de 64%, indicando que o mercado ainda vê força de compra sustentada nesse ativo clássico de SBCs e times de elite. Florian Wirtz, apesar do altíssimo preço de entrada de 1,39 milhão de coins, disparou 54,4% em um dia, movido pela escassez percebida e pela demanda de times competitivos que priorizam atributos superiores, mesmo com probabilidade de alta de apenas 25%. Jonathan Tah ofereceu uma oportunidade de baixo custo com alta de 50,9% para 80 mil coins e probabilidade de alta de 32%, atraindo traders que buscam diversificação em defensores de Bundesliga para metagames específicos. Trinity Rodman completou o top 5 com alta de 49,2% para 279 mil coins e probabilidade de 38%, refletindo o interesse crescente no mercado da NWSL, enquanto Birgit Prinz e Cody Gakpo também registraram aumentos robustos de 47,3% e 42,5% respectivamente, consolidando a tendência de valorização em ativos de média a alta liquidez que parecem ter encontrado um novo fundo de compradores.
+Entre as poucas cartas que conseguiram resistir à pressão vendedora, Javier Mascherano se destaca com uma valorização de 51.9% para 100k coins, impulsionada por uma probabilidade de alta de 70%, o que indica um forte suporte técnico e demanda real de usuários finais para compilações ou squads competitivos. Marc-André ter Stegen também apresenta um movimento robusto, subindo 50.9% para 120k coins com 58% de probabilidade de alta, sugerindo que goleiros de elite continuam sendo ativos de refúgio em mercados voláteis, atraindo compradores que buscam estabilidade de valor. Serhou Guirassy, apesar de ter uma probabilidade de alta modesta de apenas 24%, registrou um aumento de 48.4% para 115k coins, um movimento que pode ser atribuído a flutuações de curto prazo ou manipulação de volume em mercados de menor liquidez, exigindo cautela para entradas. No topo da tabela de investimentos, Ousmane Dembélé subiu 41.9% para 1.40M coins com 28% de probabilidade de alta, enquanto Alex Morgan acompanhou com 40.4% para 1.40M coins mas com apenas 13% de probabilidade, indicando que altas em milhões de coins são frequentemente sustentadas por poucos compradores institucionais ou 'whales' e não por demanda orgânica massiva. Willian Pacho, com 39% de alta para 2.88M coins e probabilidade zero de continuação, representa o perigo máximo de armadilha de valorização, onde o preço sobe artificialmente antes de um colapso iminente, servindo como alerta para traders que perseguem apenas o percentual de alta sem analisar a sustentabilidade do movimento.
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ferenc Puskás | 93 | Icons | 411k coins | -41.6% | -37.3% |
-| Wesley Sneijder | 93 | Serie A TIM | 700k coins | -36.4% | -9.7% |
-| Aurélien Tchouaméni | 92 | — | 389k coins | -31.4% | -37.4% |
-| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 1.89M coins | -30% | -32.5% |
-| Khvicha Kvaratskhelia | 88 | Ligue 1 McDonald's | 623k coins | -29.1% | +12.1% |
-| Mamadou Sangaré | 96 | — | 207k coins | -28.9% | -28.6% |
-| Federico Valverde | 90 | LALIGA EA SPORTS | 616k coins | -27.5% | -23% |
-| Clara Mateo | 92 | D1 Arkema | 176k coins | -27.1% | -2.8% |
-| Lilian Thuram | 93 | Icons | 1.09M coins | -26.7% | +10.1% |
-| Yeremy Pino | 96 | — | 900k coins | -26% | -1.8% |
+| Petr Čech | 89 | Icons | 100k coins | -49.2% | -37.5% |
+| Ezri Konsa | 96 | — | 402k coins | -46.3% | -47.2% |
+| Julian Ryerson | 93 | — | 84k coins | -45.5% | -52.4% |
+| Diego Armando Maradona | 96 | Icons | 1.46M coins | -44.8% | -39.2% |
+| Romée Leuchter | 90 | D1 Arkema | 100k coins | -44.4% | -4.6% |
+| Iniesta | 93 | Icons | 180k coins | -43.2% | -31.7% |
+| Adam Wharton | 96 | — | 1.83M coins | -42% | -49% |
+| Cafu | 91 | Icons | 158k coins | -41.9% | -47.3% |
+| Esther | 96 | — | 140k coins | -41.7% | -26.7% |
+| Lucas Digne | 96 | — | 230k coins | -40.9% | -32.4% |
 
 
-Do outro lado do espectro, Ferenc Puskás sofreu uma queda severa de 41,6% em 24 horas, recuando para 411 mil coins, embora sua alta probabilidade de alta de 61% sugira que esta possa ser uma oportunidade de compra para traders de longo prazo dispostos a esperar a correção. Wesley Sneijder caiu 36,4% para 700 mil coins, mas com uma baixa probabilidade de alta de apenas 20%, indicando que a pressão vendedora pode persistir devido à falta de demanda imediata para sua carta de 93 rating. Aurélien Tchouaméni despencou 31,4% para 389 mil coins, com probabilidade de alta de 19%, refletindo a desconfiança do mercado em relação a cartas sem liga definida que perdem relevância em meta times atualizados. Ousmane Dembélé, com preço elevado de 1,89 milhão de coins, caiu 30% e apresenta apenas 22% de probabilidade de alta, sinalizando que os grandes investidores estão realizando lucros ou evitando ativos de alto risco neste momento de lateralidade. Khvicha Kvaratskhelia e Mamadou Sangaré também registraram quedas significativas de 29,1% e 28,9% respectivamente, com Sangaré apresentando probabilidade de alta de 0%, o que é um sinal de alerta máximo para evitar essa carta de 96 rating até que haja uma mudança fundamental na percepção de valor do mercado.
+O lado das quedas é dominado por vendas de pânico e correções de ativos supercomprados, com Petr Čech liderando as perdas com -49.2% para 100k coins, apesar de manter uma probabilidade de alta de 25%, o que sugere uma oportunidade de compra agressiva para traders de curto prazo que acreditam na médiação de preços. Ezri Konsa despencou 46.3% para 402k coins com probabilidade de alta zero, sinalizando um abandono total do ativo pelo mercado e riscos extremos de perda de capital para quem segurar, indicando que a carta perdeu relevância meta ou foi impactada por uma atualização de meta negativa. Julian Ryerson seguiu a tendência de queda com -45.5% para 84k coins e probabilidade zero, reforçando a ideia de que cartas de defesa sem histórico de demanda consistente são as primeiras a ser liquidadas em mercados de baixa. Diego Armando Maradona, com uma queda de 44.8% para 1.46M coins e apenas 16% de probabilidade de alta, demonstra que até ícones lendários não estão imunes a vendas massivas quando o sentimento do mercado é avesso a risco, especialmente em faixas de preço elevadas onde a liquidez é mais sensível. Romée Leuchter caiu 44.4% para 100k coins, mas com 39% de probabilidade de alta, apresentando um perfil interessante de 'buy the dip' para traders dispostos a assumir riscos calculados em ativos de médio investimento que podem reverter rapidamente se a venda se esgotar.
 
 
 ## 🎯 A estratégia do dia
-A estratégia para hoje deve focar em evitar compras impulsivas nas altas recentes de jogadores como Taylor Flint e Florian Wirtz, pois suas probabilidades de continuação são baixas e o risco de correção imediata é elevado. Recomenda-se monitorar de perto as quedas de ativos com alta probabilidade de recuperação, como Iniesta e Ferenc Puskás, que podem oferecer oportunidades de compra em níveis mais baixos para revenda futura. É crucial manter liquidez em mãos, pois o mercado lateral tende a exaurir as oportunidades de lucro rápido e pode surpreender com volatilidade repentina em qualquer direção. Traders devem considerar a venda de ativos de baixa probabilidade de alta, como Mamadou Sangaré e Wesley Sneijder, para reduzir exposição a carteiras que parecem estar perdendo força de compra. O timing é essencial: aguarde confirmação de suporte em cartas como Federico Valverde e Ousmane Dembélé antes de entrar em posições de compra, pois a incerteza atual favorece os pacientes e pune os ansiosos que tentam adivinhar o fundo sem sinais claros de reversão de tendência.
+A estratégia recomendada para hoje é focar na compra seletiva de ativos com alta probabilidade de alta e queda recente, como Petr Čech e Iniesta, que caiu 43.2% para 180k coins mas mantém 65% de probabilidade de alta, oferecendo um risco-retorno atrativo para operações de intraday. Traders devem evitar completamente a compra de Willian Pacho, Ezri Konsa e Julian Ryerson, pois a probabilidade de alta zero indica que a tendência de baixa é estrutural e sem suporte técnico para reversão imediata. É prudente segurar posições em jogadores como Javier Mascherano e Marco van Basten, que subiu 38.6% para 97k coins com 46% de probabilidade, pois a combinação de alta recente e probabilidade positiva sugere continuidade do movimento de valorização. Evite entradas em Ousmane Dembélé e Alex Morgan por enquanto, pois a baixa probabilidade de alta (28% e 13%, respectivamente) em preços elevados de 1.40M coins indica que o movimento é frágil e suscetível a correções bruscas. O foco deve ser girar capital em ativos de 100k a 200k coins, onde a liquidez é maior e os movimentos de médiação de preços ocorrem mais rapidamente, permitindo lucros consistentes em um mercado predominantemente de venda.
 
 
 ## 📐 Como o FutQuant le o mercado
@@ -77,13 +77,13 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/06/2026)?**  
-Taylor Flint (88, NWSL), com +57.3% em 24h, a 371k coins no PC.
+Javier Mascherano (89, LALIGA EA SPORTS), com +51.9% em 24h, a 100k coins no PC.
 
 **E a maior queda do dia?**  
-Ferenc Puskás (93), -41.6% em 24h, a 411k coins.
+Petr Čech (89), -49.2% em 24h, a 100k coins.
 
 **Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 240 cartas em alta contra 288 em queda (média 0.69%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 116 cartas em alta contra 274 em queda (média -7.93%).
 
 **De onde vêm os preços do FutQuant?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

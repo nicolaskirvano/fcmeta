@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T22:27:03.000Z
+pubDatetime: 2026-06-20T01:26:09.000Z
 title: "Melhores investimentos em Cartas Meta no EA FC (19/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 19/06/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (19/06/2026) no EA FC?"
-    a: "Khadija Shaw (91, Barclays WSL) lidera, com +80% em 7 dias a 108k coins no Console (PS), e o modelo dá 50% de chance de seguir subindo."
+    a: "João Moutinho (88, Liga Portugal) lidera, com +63.5% em 7 dias a 110k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,21 +23,19 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **19/06/2026** no **Console (PS)**:
 
-> 🔝 **Destaque:** Khadija Shaw (91) acumula **+80% em 7 dias** a 108k coins.
+> 🔝 **Destaque:** João Moutinho (88) acumula **+63.5% em 7 dias** a 110k coins.
 
 
 ## 🔎 Análise do mercado hoje
-No cenário atual do EA FC Ultimate Team para consoles PlayStation, datado de 19 de junho de 2026, a análise de mercado focada na tendência de valorização de sete dias revela oportunidades claras de investimento, especialmente entre as cartas meta. Entre os destaques imediatos, Mohamed Salah se posiciona como o ativo mais seguro, com uma variação positiva de 18,9% nas últimas 24 horas. Situado na faixa dos 220 mil moedas, o atacante da Premier League possui uma probabilidade de alta de 95%, o que o torna uma escolha robusta para investidores que buscam estabilidade combinada com retorno significativo em curto prazo, consolidando-se como uma carta meta essencial.
+No cenário atual do EA FC Ultimate Team para consoles PlayStation, datado de 19 de junho de 2026, a análise do mercado revela oportunidades estratégicas claras para investidores que buscam maximizar seus lucros através de cartas meta com tendência de valorização consistente. Ao examinar os dados dos últimos sete dias, destacam-se ativos que não apenas apresentaram crescimento no curto prazo, mas também possuem uma probabilidade estatística robusta de continuarem em alta, oferecendo segurança relativa em um mercado volátil. A seleção das melhores cartas para entrada hoje deve priorizar aqueles jogadores que combinam aumento percentual significativo nas últimas 24 horas com uma alta probabilidade de continuidade dessa trajetória ascendente.
 
-Paralelamente, Florian Wirtz apresenta um perfil de investimento altamente atrativo. Com um aumento de 16,1% em 24 horas e uma probabilidade de alta de 93%, o meio-campista da Premier League está cotado em 198 mil moedas. A confiança do mercado na continuidade da valorização de Wirtz é extremamente elevada, sugerindo que a demanda por suas estatísticas específicas no meta atual supera a oferta disponível, mantendo seu preço firmemente em ascensão e justificando a entrada de capital para quem busca segurança no portfólio.
+O destaque absoluto para investimento imediato recai sobre Mohamed Salah, cuja carta de 92 rating na Premier League registrou um impressionante aumento de 12,9% em apenas 24 horas. Atualmente cotada a 229 mil moedas, a probabilidade de alta é de 95%, o que a torna o ativo mais seguro e promissor da lista. A consistência do desempenho de Salah no meta do jogo, somada à forte demanda por atacantes de elite, sustenta essa valorização, tornando-o uma escolha obrigatória para portfólios focados em liquidez e crescimento rápido.
 
-Outro nome que merece atenção imediata é Sadio Mané. Apesar de ser uma carta da ROSHN Saudi League, o atacante de 88 de rating demonstrou resiliência e força no mercado, com alta de 8% em 24 horas e uma impressionante probabilidade de alta de 95%. Com preço atual de 159 mil moedas, Mané se destaca pela combinação de risco reduzido e potencial de ganho, sendo uma carta meta que muitos analistas consideram subvalorizada em relação à sua performance consistente no mercado de negociações.
+Em paralelo, Pavel Nedvěd emerge como uma das apostas mais sólidas entre os ícones. A carta de 89 rating do jogador da seleção Icons subiu 18% nas últimas 24 horas e está avaliada em 216 mil moedas. Com uma probabilidade de alta de 95%, Nedvěd demonstra que o mercado de ícones históricos continua aquecido, especialmente para aqueles com atributos que se adaptam bem às mecânicas atuais do jogo. A combinação de preço alto e tendência forte indica que investidores experientes estão acumulando este ativo para revenda em períodos de pico de demanda.
 
-Para investidores dispostos a assumir um risco moderado em troca de retornos explosivos, Carlos Baleba surge como uma oportunidade de alto impacto. O meio-campista da Premier League registrou um salto vertiginoso de 32,9% em apenas 24 horas, com preço em 90 mil moedas. Embora a probabilidade de alta seja de 50%, a magnitude do movimento recente indica uma forte especulação ou aumento súbito de demanda, caracterizando-o como uma carta meta volátil, mas com potencial de multiplicação rápida de valor para quem monitora atentamente as flutuações.
+Kevin De Bruyne também merece atenção especial, apesar de sua carta de 88 rating estar listada na Serie A TIM. O meia registrou o maior percentual de alta da lista, com 20,5% em 24 horas, posicionando-se a 176 mil moedas. Com 93% de probabilidade de alta, De Bruyne representa uma oportunidade de entrada com excelente custo-benefício em relação aos ícones de maior rating. Sua capacidade de criar jogadas e sua presença constante no meta garantem que a demanda permaneça elevada, justificando a confiança dos investidores.
 
-Barış Alper Yılmaz também se consolida como uma escolha sólida. Com 23,7% de alta em 24 horas e probabilidade de alta de 84%, o jogador da Trendyol Süper Lig está cotado em 150 mil moedas. A combinação de uma probabilidade de sucesso elevada com um crescimento percentual significativo posiciona Yılmaz como uma carta meta equilibrada, oferecendo um meio-termo atrativo entre a segurança de Salah e a volatilidade de Baleba, ideal para diversificar estratégias de investimento.
-
-Por fim, Khadija Shaw apresenta uma dinâmica interessante para o mercado feminino. Com 11,9% de alta em 24 horas e preço de 108 mil moedas, a atacante da Barclays WSL tem 50% de probabilidade de alta. Embora a incerteza seja maior comparada a Salah ou Mané, o movimento positivo recente sugere que a carta está ganhando tração como meta específica. Investidores devem considerar Shaw como uma aposta de médio risco, potencialmente recompensadora se a tendência de demanda por suas características únicas se mantiver estável nos próximos dias.
+Para aqueles que buscam diversificar com opções de menor valor absoluto, Lauren James é uma escolha inteligente. A atacante da Barclays WSL, com 89 rating, subiu 8,5% em 24 horas e está a 101 mil moedas. Com 95% de probabilidade de alta, ela oferece um risco reduzido e um potencial de retorno percentual atrativo, ideal para investidores que desejam expor menos capital por unidade mas com alta expectativa de sucesso. Por fim, Bremer, da Serie A TIM, com 88 rating e alta de 3,4% a 160 mil moedas, apresenta 68% de probabilidade de alta, servindo como uma aposta defensiva sólida em um mercado onde os zagueiros de elite também estão em evidência.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,34 +43,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Khadija Shaw | 91 | Barclays WSL | 108k coins | +11.9% | +80% | 50% |
-| Carlos Baleba | 90 | Premier League | 90k coins | +32.9% | +75.6% | 50% |
-| Mohamed Salah | 92 | Premier League | 220k coins | +18.9% | +41.9% | 95% |
-| Barış Alper Yılmaz | 88 | Trendyol Süper Lig | 150k coins | +23.7% | +39.3% | 84% |
-| Florian Wirtz | 89 | Premier League | 198k coins | +16.1% | +30% | 93% |
-| Federico Valverde | 89 | LALIGA EA SPORTS | 205k coins | +9% | +29.8% | 23% |
-| Juan Román Riquelme | 88 | Icons | 86k coins | +1.2% | +24.1% | 8% |
-| Sadio Mané | 88 | ROSHN Saudi League | 159k coins | +8% | +23.9% | 95% |
-| Fernando Morientes | 94 | — | 153k coins | +1.3% | +23.4% | 16% |
-| Willian Pacho | 90 | Ligue 1 McDonald's | 118k coins | +5.4% | +22.3% | 33% |
-| Bobby Moore | 91 | Icons | 176k coins | +10.7% | +21.4% | 23% |
-| Marco van Basten | 92 | Icons | 196k coins | +3% | +20.7% | 8% |
-| Ramires | 88 | Premier League | 240k coins | +19% | +16.2% | 44% |
-| Sandro Tonali | 91 | Premier League | 148k coins | +11.4% | +15.6% | 50% |
-| Kevin De Bruyne | 88 | Serie A TIM | 166k coins | +12.2% | +14.5% | 93% |
+| João Moutinho | 88 | Liga Portugal | 110k coins | +2.8% | +63.5% | 5% |
+| Paul Scholes | 91 | Icons | 203k coins | +12.8% | +45% | 16% |
+| Mohamed Salah | 92 | Premier League | 229k coins | +12.9% | +40.9% | 95% |
+| Bremer | 88 | Serie A TIM | 160k coins | +3.4% | +27.5% | 68% |
+| Kevin De Bruyne | 88 | Serie A TIM | 176k coins | +20.5% | +24.8% | 93% |
+| Pavel Nedvěd | 89 | Icons | 216k coins | +18% | +21.3% | 95% |
+| Lauren James | 89 | Barclays WSL | 101k coins | +8.5% | +19.3% | 95% |
+| Julie Foudy | 90 | Icons | 90k coins | +1.3% | +14% | 60% |
+| Eric Cantona | 89 | Icons | 115k coins | +2.6% | +13.2% | 56% |
+| Kaká | 89 | Icons | 130k coins | +2.9% | +11.6% | 16% |
+| Raúl | 90 | Icons | 100k coins | +27.5% | +10.2% | 28% |
+| Donyell Malen | 89 | Serie A TIM | 114k coins | +25% | +10% | 93% |
+| Serhou Guirassy | 89 | Bundesliga | 122k coins | +17.3% | +9.9% | 68% |
+| Ewa Pajor | 89 | Liga F | 107k coins | +20.2% | +8.6% | 27% |
+| Alexia Putellas | 92 | Liga F | 141k coins | +24.8% | +7.6% | 95% |
 
 
 ## 📈 Análise dos destaques
 
-- **Khadija Shaw (91)** — 108k coins, **+80% em 7 dias** (+11.9% em 24h). Preço +17% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **João Moutinho (88)** — 110k coins, **+63.5% em 7 dias** (+2.8% em 24h). Preço +12% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Carlos Baleba (90)** — 90k coins, **+75.6% em 7 dias** (+32.9% em 24h). Preço em linha com a média de 7 dias (-3%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Paul Scholes (91)** — 203k coins, **+45% em 7 dias** (+12.8% em 24h). Preço +18% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Mohamed Salah (92)** — 220k coins, **+41.9% em 7 dias** (+18.9% em 24h). Preço +21% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
+- **Mohamed Salah (92)** — 229k coins, **+40.9% em 7 dias** (+12.9% em 24h). Preço +26% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
 
-- **Barış Alper Yılmaz (88)** — 150k coins, **+39.3% em 7 dias** (+23.7% em 24h). Preço -10% abaixo da média de 7 dias (descontada). 🔮 O modelo reforça a tese: **84% de chance de seguir subindo**.
+- **Bremer (88)** — 160k coins, **+27.5% em 7 dias** (+3.4% em 24h). Preço em linha com a média de 7 dias (+5%). 🔮 O modelo reforça a tese: **68% de chance de seguir subindo**.
 
-- **Florian Wirtz (89)** — 198k coins, **+30% em 7 dias** (+16.1% em 24h). Preço +13% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **93% de chance de seguir subindo**.
+- **Kevin De Bruyne (88)** — 176k coins, **+24.8% em 7 dias** (+20.5% em 24h). Preço +15% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **93% de chance de seguir subindo**.
 
 
 ## Como usar esta lista
@@ -90,7 +88,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (19/06/2026) no EA FC?**  
-Khadija Shaw (91, Barclays WSL) lidera, com +80% em 7 dias a 108k coins no Console (PS), e o modelo dá 50% de chance de seguir subindo.
+João Moutinho (88, Liga Portugal) lidera, com +63.5% em 7 dias a 110k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
