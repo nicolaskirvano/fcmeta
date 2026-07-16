@@ -1,73 +1,94 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T22:25:18.000Z
-title: "Melhores investimentos em Cartas Meta no EA FC (16/07/2026): análise e previsões — PC"
+pubDatetime: 2026-07-16T23:49:40.000Z
+title: "Investimentos EA FC: Cartas Meta em 16/07 — PC"
 draft: false
 featured: true
 tags:
   - investimentos
   - trading
-  - previsoes
+  - momentum
+  - risco
   - pc
-description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 16/07/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
+description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 16/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (16/07/2026) no EA FC?"
-    a: "Khadija Shaw (90, Barclays WSL) lidera, com +88.8% em 7 dias a 169k coins no PC."
+    a: "Khadija Shaw (90, Barclays WSL) lidera, com +88.8% em 7 dias a 169k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
     a: "Várias vezes ao dia, junto com os preços do mercado do EA FC."
 ---
 
-## Por que estas cartas
+## Critério deste radar
 
-Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **16/07/2026** no **PC**:
+Esta lista de **16/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Khadija Shaw (90) acumula **+88.8% em 7 dias** a 169k coins.
+> 🔝 **Destaque:** Khadija Shaw (90) acumula **+88.8% em 7 dias** a 169k coins; leitura atual: **esticada**.
+
+![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas Meta em 16/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-16-pc.svg)
+
+*Visualização gerada com os mesmos valores da tabela deste artigo.*
+
+
+## O que os números desta lista mostram
+
+- A mediana é de **+12.7% em 24h** e **+70.0% em 7 dias**.
+- **14 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
-Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seguir subindo:
+Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de perseguir o movimento:
 
-| Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
+| Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Khadija Shaw | 90 | Barclays WSL | 169k coins | +30% | +88.8% | 0% |
-| Eric Cantona | 92 | — | 160k coins | +23.1% | +88.2% | 0% |
-| Andrea Pirlo | 90 | Icons | 168k coins | +19.7% | +72.6% | 32% |
-| Daniel Muñoz | 94 | — | 95k coins | +4.4% | +72.5% | 0% |
-| Dominik Szoboszlai | 90 | Premier League | 170k coins | +6.2% | +71.7% | 0% |
-| Josip Stanišić | 95 | — | 100k coins | +19% | +69.5% | 0% |
-| Dayot Upamecano | 95 | — | 88k coins | +1.7% | +65.5% | 0% |
-| Marcos Llorente | 90 | LALIGA EA SPORTS | 230k coins | +9.5% | +64.3% | 0% |
-| Kelly Smith | 89 | Icons | 104k coins | +14.3% | +60% | 0% |
-| Hristo Stoichkov | 89 | Icons | 124k coins | +32.7% | +56.6% | 0% |
-| Lotta Schelin | 90 | Icons | 116k coins | +15.2% | +54.1% | 0% |
-| Alessandro Nesta | 92 | — | 80k coins | +18.3% | +53.5% | 0% |
-| Ryan Gravenberch | 93 | Premier League | 224k coins | +36.6% | +48.3% | 0% |
-| Enzo Fernández | 93 | — | 100k coins | +2.5% | +48.2% | 0% |
-| Gheorghe Hagi | 90 | Icons | 110k coins | +37.5% | +46.7% | 0% |
+| Khadija Shaw | 90 | Barclays WSL | 169k coins | +30% | +88.8% | Esticada |
+| Lucy Bronze | 88 | Barclays WSL | 230k coins | +15.6% | +88.5% | Esticada |
+| Eric Cantona | 92 | — | 160k coins | +23.1% | +88.2% | Esticada |
+| Pavel Nedvěd | 88 | Icons | 116k coins | +12.7% | +86.5% | Esticada |
+| Bastian Schweinsteiger | 88 | Icons | 130k coins | +12.1% | +85.7% | Esticada |
+| Ryan Gravenberch | 93 | Premier League | 224k coins | +6.7% | +80.6% | Esticada |
+| Josip Stanišić | 95 | — | 95k coins | +14.4% | +71.6% | Esticada |
+| Dominik Szoboszlai | 90 | Premier League | 170k coins | +6.2% | +70% | Esticada |
+| Andrea Pirlo | 90 | Icons | 165k coins | +17.6% | +69.5% | Esticada |
+| Dayot Upamecano | 95 | — | 95k coins | +5.6% | +67.9% | Esticada |
+| Marcos Llorente | 90 | LALIGA EA SPORTS | 230k coins | +9.5% | +64.3% | Esticada |
+| Lindsey Heaps | 91 | D1 Arkema | 98k coins | +11.5% | +61.7% | Esticada |
+| Hristo Stoichkov | 89 | Icons | 119k coins | +33.7% | +55% | Esticada |
+| Éder Militão | 88 | LALIGA EA SPORTS | 190k coins | +11.1% | +54.5% | Momentum moderado |
+| Bruno Guimarães | 96 | — | 149k coins | +25.2% | +53.6% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Khadija Shaw (90)** — 169k coins, **+88.8% em 7 dias** (+30% em 24h). Preço +74% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Khadija Shaw (90)** — 169k coins, **+88.8% em 7 dias** (+30% em 24h). Preço +72% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Eric Cantona (92)** — 160k coins, **+88.2% em 7 dias** (+23.1% em 24h). Preço +60% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Lucy Bronze (88)** — 230k coins, **+88.5% em 7 dias** (+15.6% em 24h). Preço +57% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Andrea Pirlo (90)** — 168k coins, **+72.6% em 7 dias** (+19.7% em 24h). Preço +38% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Eric Cantona (92)** — 160k coins, **+88.2% em 7 dias** (+23.1% em 24h). Preço +59% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Daniel Muñoz (94)** — 95k coins, **+72.5% em 7 dias** (+4.4% em 24h). Preço +46% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Pavel Nedvěd (88)** — 116k coins, **+86.5% em 7 dias** (+12.7% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Dominik Szoboszlai (90)** — 170k coins, **+71.7% em 7 dias** (+6.2% em 24h). Preço +9% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Bastian Schweinsteiger (88)** — 130k coins, **+85.7% em 7 dias** (+12.1% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
 
 - **24h e 7d positivos juntos** = tendência sustentada, o sinal mais confiável.
 - Prefira entrar em **correções** (quedas curtas dentro da alta) para reduzir risco.
-- **Liquidez importa**: cartas de ligas e ratings populares vendem mais rápido.
-- Use a coluna *Prob. alta* para priorizar: quanto maior, mais o modelo concorda com a tendência.
+- **Liquidez importa**: cartas de ligas e ratings populares tendem a vender mais rápido.
+- Em cartas *esticadas*, espere uma nova cotação ou correção; não trate alta passada como promessa futura.
 
+
+
+
+<!-- content-links:v1 -->
+## Continue a análise
+
+- [Mercado EA FC em 16/07: Cartas Meta — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Ver todas as análises recentes](/posts/)
+- [Conheça a metodologia e os limites dos dados](/about/)
 
 ## 📊 Nossa metodologia em 30 segundos
 Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de **centenas de milhoes de registros**. Removemos cotações irreais, comparamos o agora com a **média móvel** recente e medimos a volatilidade. Por isso o número que você lê vem com contexto: faixa, tendência e projeção.
@@ -76,7 +97,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (16/07/2026) no EA FC?**  
-Khadija Shaw (90, Barclays WSL) lidera, com +88.8% em 7 dias a 169k coins no PC.
+Khadija Shaw (90, Barclays WSL) lidera, com +88.8% em 7 dias a 169k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
