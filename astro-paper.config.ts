@@ -7,7 +7,7 @@ export default defineAstroPaperConfig({
     description:
       "As cartas meta do EA FC Ultimate Team (88+ e premium): preços, valorização e previsões, atualizados todos os dias.",
     author: "Meta Cards",
-    profile: "https://fcmeta.pages.dev/",
+    profile: "https://fcmeta.pages.dev/about/",
     publisher: {
       type: "Organization",
       name: "Meta Cards",
