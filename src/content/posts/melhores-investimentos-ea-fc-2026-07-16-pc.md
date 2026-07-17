@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T23:49:40.000Z
+pubDatetime: 2026-07-17T01:25:18.000Z
 title: "Investimentos EA FC: Cartas Meta em 16/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **16/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.7% em 24h** e **+70.0% em 7 dias**.
-- **14 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+10.9% em 24h** e **+79.2% em 7 dias**.
+- **13 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Barclays WSL** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,32 +45,32 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | --- | --- | --- | --- | --- | --- | --- |
 | Khadija Shaw | 90 | Barclays WSL | 169k coins | +30% | +88.8% | Esticada |
 | Lucy Bronze | 88 | Barclays WSL | 230k coins | +15.6% | +88.5% | Esticada |
-| Eric Cantona | 92 | — | 160k coins | +23.1% | +88.2% | Esticada |
-| Pavel Nedvěd | 88 | Icons | 116k coins | +12.7% | +86.5% | Esticada |
-| Bastian Schweinsteiger | 88 | Icons | 130k coins | +12.1% | +85.7% | Esticada |
-| Ryan Gravenberch | 93 | Premier League | 224k coins | +6.7% | +80.6% | Esticada |
-| Josip Stanišić | 95 | — | 95k coins | +14.4% | +71.6% | Esticada |
+| Eric Cantona | 92 | — | 160k coins | +14.3% | +88.2% | Esticada |
+| Koke | 88 | LALIGA EA SPORTS | 118k coins | +19.2% | +87.3% | Esticada |
+| Pavel Nedvěd | 88 | Icons | 122k coins | +10.9% | +83.5% | Esticada |
+| Ryan Gravenberch | 93 | Premier League | 224k coins | +7.2% | +82.1% | Esticada |
+| Marc Cucurella | 95 | — | 80k coins | +3.8% | +81.2% | Esticada |
+| Fridolina Rolfö | 90 | Barclays WSL | 86k coins | +1.2% | +79.2% | Esticada |
 | Dominik Szoboszlai | 90 | Premier League | 170k coins | +6.2% | +70% | Esticada |
-| Andrea Pirlo | 90 | Icons | 165k coins | +17.6% | +69.5% | Esticada |
-| Dayot Upamecano | 95 | — | 95k coins | +5.6% | +67.9% | Esticada |
+| Dayot Upamecano | 95 | — | 100k coins | +7.3% | +69.6% | Esticada |
+| Andrea Pirlo | 90 | Icons | 162k coins | +14.7% | +66.5% | Esticada |
 | Marcos Llorente | 90 | LALIGA EA SPORTS | 230k coins | +9.5% | +64.3% | Esticada |
-| Lindsey Heaps | 91 | D1 Arkema | 98k coins | +11.5% | +61.7% | Esticada |
-| Hristo Stoichkov | 89 | Icons | 119k coins | +33.7% | +55% | Esticada |
-| Éder Militão | 88 | LALIGA EA SPORTS | 190k coins | +11.1% | +54.5% | Momentum moderado |
-| Bruno Guimarães | 96 | — | 149k coins | +25.2% | +53.6% | Esticada |
+| Lindsey Heaps | 91 | D1 Arkema | 98k coins | +13.2% | +64.2% | Esticada |
+| Mario Kempes | 88 | — | 153k coins | +10.7% | +55.8% | Momentum moderado |
+| Marcel Desailly | 93 | — | 93k coins | +17% | +55% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Khadija Shaw (90)** — 169k coins, **+88.8% em 7 dias** (+30% em 24h). Preço +72% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Khadija Shaw (90)** — 169k coins, **+88.8% em 7 dias** (+30% em 24h). Preço +71% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lucy Bronze (88)** — 230k coins, **+88.5% em 7 dias** (+15.6% em 24h). Preço +57% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lucy Bronze (88)** — 230k coins, **+88.5% em 7 dias** (+15.6% em 24h). Preço +56% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Eric Cantona (92)** — 160k coins, **+88.2% em 7 dias** (+23.1% em 24h). Preço +59% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Eric Cantona (92)** — 160k coins, **+88.2% em 7 dias** (+14.3% em 24h). Preço +58% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Pavel Nedvěd (88)** — 116k coins, **+86.5% em 7 dias** (+12.7% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Koke (88)** — 118k coins, **+87.3% em 7 dias** (+19.2% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Bastian Schweinsteiger (88)** — 130k coins, **+85.7% em 7 dias** (+12.1% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pavel Nedvěd (88)** — 122k coins, **+83.5% em 7 dias** (+10.9% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
