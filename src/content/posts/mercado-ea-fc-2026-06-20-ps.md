@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Meta Cards"
 pubDatetime: 2026-06-21T01:25:42.000Z
-title: "Cartas Meta no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — Console (PS)"
+title: "Cartas Meta no EA FC em 20/06: altas e baixas — PS"
 draft: false
 featured: true
 tags:
@@ -10,19 +10,22 @@ tags:
   - previsoes
   - altas-e-baixas
   - ps
-description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Jamal Musiala (89, Bundesliga), com +59.1% em 24h, a 279k coins no Console (PS)."
-  - q: "E a maior queda do dia?"
-    a: "Kevin De Bruyne (88), -44.7% em 24h, a 106k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Garrincha (92) — 95% de probabilidade de alta, a 155k coins."
-  - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 238 cartas em alta contra 193 em queda (média 3.74%)."
-  - q: "Os dados de preço do FutQuant são confiáveis?"
-    a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
+description: "Snapshot histórico de 20/06/2026 no PS: Jamal Musiala liderou as altas e Kevin De Bruyne as baixas em Cartas Meta. Compare preços, variações, gráfico e riscos."
 ---
+
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 20/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Jamal Musiala** registrou o maior movimento de 24h (+59,1%), enquanto **Kevin De Bruyne** marcou o menor (-44,7%). A distância entre os extremos foi de **103,8 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+8,3%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Cartas Meta no EA FC em 20/06: altas e baixas — PS](/charts/mercado-ea-fc-2026-06-20-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
 
 ## 📈 O mercado hoje, em resumo
 
@@ -84,7 +87,7 @@ Os nomes com **melhor leitura de valorização** segundo o modelo (confiança al
 | Robin van Persie | 88 | 128k coins | 152k coins | 95% |
 
 
-O modelo projeta altas significativas para Garrincha a 155k coins e Lilian Thuram a 149k coins, ambos com 95% de probabilidade, sugerindo que esses Icons estão em fase de acumulação silenciosa. Sandro Tonali e Antonio Di Natale, também com 95% de probabilidade, são indicados para 155k e 140k respectivamente, oferecendo oportunidades de entrada em ligas competitivas. Quaresma e João Neves, ambos com 95% de probabilidade, são projetados para 146k e 161k, respectivamente, embora Neves tenha tido uma queda recente, a previsão de alta sugere uma reversão iminente. Pavel Nedvěd e Robin van Persie, já citados nas altas e baixas, mantêm a projeção de 95% de alta para 119k e 128k, confirmando a consistência do modelo em identificar sustentação nesses ativos específicos, o que valida a estratégia de comprar na correção para esses nomes em particular.
+Naquele snapshot, o modelo projetava altas significativas para Garrincha a 155k coins e Lilian Thuram a 149k coins, ambos com 95% de probabilidade, sugerindo que esses Icons estão em fase de acumulação silenciosa. Sandro Tonali e Antonio Di Natale, também com 95% de probabilidade, são indicados para 155k e 140k respectivamente, oferecendo oportunidades de entrada em ligas competitivas. Quaresma e João Neves, ambos com 95% de probabilidade, são projetados para 146k e 161k, respectivamente, embora Neves tenha tido uma queda recente, a previsão de alta sugere uma reversão iminente. Pavel Nedvěd e Robin van Persie, já citados nas altas e baixas, mantêm a projeção de 95% de alta para 119k e 128k, confirmando a consistência do modelo em identificar sustentação nesses ativos específicos, o que valida a estratégia de comprar na correção para esses nomes em particular.
 
 
 ## ⚠️ Cartas em risco nas próximas 24h
@@ -113,19 +116,19 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (20/06/2026)?**
 Jamal Musiala (89, Bundesliga), com +59.1% em 24h, a 279k coins no Console (PS).
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Kevin De Bruyne (88), -44.7% em 24h, a 106k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Garrincha (92) — 95% de probabilidade de alta, a 155k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Garrincha (92) — 95% de probabilidade de alta, a 155k coins.
 
-**O mercado do Ultimate Team subiu ou caiu hoje?**  
+**O mercado do Ultimate Team subiu ou caiu hoje?**
 Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 238 cartas em alta contra 193 em queda (média 3.74%).
 
-**Os dados de preço do FutQuant são confiáveis?**  
+**Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
 
 
@@ -134,3 +137,12 @@ Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e l
 ---
 
 *Preços de Console (PS), referência de 20/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Momentum de Cartas Meta no EA FC em 20/06 — PS](/posts/melhores-investimentos-ea-fc-2026-06-20-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Momentum de Cartas Meta no EA FC em 16/07 — PS](/posts/melhores-investimentos-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

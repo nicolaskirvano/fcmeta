@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Meta Cards"
 pubDatetime: 2026-06-20T01:26:50.000Z
-title: "Cartas Meta no EA FC hoje (19/06/2026): mercado, altas, baixas e previsões — PC"
+title: "Cartas Meta no EA FC em 19/06: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,19 +10,24 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 19/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (19/06/2026)?"
-    a: "Javier Mascherano (89, LALIGA EA SPORTS), com +51.9% em 24h, a 100k coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Petr Čech (89), -49.2% em 24h, a 100k coins."
-  - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 116 cartas em alta contra 274 em queda (média -7.93%)."
-  - q: "De onde vêm os preços do FutQuant?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 19/06/2026 no PC: Javier Mascherano liderou as altas e Petr Čech as baixas em Cartas Meta. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 19/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Javier Mascherano** registrou o maior movimento de 24h (+51,9%), enquanto **Petr Čech** marcou o menor (-49,2%). A distância entre os extremos foi de **101,1 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **-3,8%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Cartas Meta no EA FC em 19/06: altas e baixas — PC](/charts/mercado-ea-fc-2026-06-19-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
 
 O mercado de EA FC Ultimate Team em 19 de junho de 2026 exibe uma dinâmica de venda massiva e desconfiança generalizada, com um saldo negativo expressivo de 274 quedas contra apenas 116 altas, resultando em uma média de desvalorização de -7.93% nas últimas 24 horas. Esse cenário de predomínio das quedas sugere que os traders estão priorizando a liquidez imediata, provavelmente antecipando atualizações de meta ou eventos futuros que possam desvalorizar ativos específicos, criando uma oportunidade para compradores agressivos que buscam ativos de alta liquidez em preços descontados. O sentimento negativo é amplificado pela volatilidade extrema observada em cartas de alto investimento, onde a probabilidade de alta não se traduz necessariamente em ganhos reais devido à baixa demanda orgânica para esses itens específicos no momento atual. Para o trader experiente, o dia exige cautela extrema com especulações de longo prazo e foco em operações de curto prazo, aproveitando a liquidez excessiva para girar capital rapidamente em ativos que ainda mantêm relevância meta ou estão sendo subvalorizados pelo pânico do mercado. A análise dos dados revela que, embora haja oportunidades pontuais de alta, a tendência estrutural é de queda, obrigando os investidores a serem seletivos e baseados estritamente nos números de probabilidade e volume, evitando armadilhas de valorização ilusória.
 
@@ -76,16 +81,16 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (19/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (19/06/2026)?**
 Javier Mascherano (89, LALIGA EA SPORTS), com +51.9% em 24h, a 100k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Petr Čech (89), -49.2% em 24h, a 100k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 116 cartas em alta contra 274 em queda (média -7.93%).
+**Como está o mercado do EA FC hoje?**
+Naquele dia, o mercado estava em baixa — predominam as quedas, com 116 cartas em alta contra 274 em queda (média -7.93%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -94,3 +99,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de PC, referência de 19/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Momentum de Cartas Meta no EA FC em 19/06 — PC](/posts/melhores-investimentos-ea-fc-2026-06-19-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Momentum de Cartas Meta no EA FC em 16/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

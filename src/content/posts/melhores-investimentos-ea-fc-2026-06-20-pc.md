@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Meta Cards"
 pubDatetime: 2026-06-21T01:27:11.000Z
-title: "Melhores investimentos em Cartas Meta no EA FC (20/06/2026): análise e previsões — PC"
+title: "Momentum de Cartas Meta no EA FC em 20/06 — PC"
 draft: false
 featured: true
 tags:
@@ -9,19 +9,26 @@ tags:
   - trading
   - previsoes
   - pc
-description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 20/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
-faq:
-  - q: "Qual a melhor carta para investir hoje (20/06/2026) no EA FC?"
-    a: "Cody Gakpo (89, Premier League) lidera, com +89.5% em 7 dias a 180k coins no PC, e o modelo dá 51% de chance de seguir subindo."
-  - q: "Investir em FUT dá lucro garantido?"
-    a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
-  - q: "Com que frequência a lista de investimentos atualiza?"
-    a: "Várias vezes ao dia, junto com os preços do mercado do EA FC."
+description: "Ranking histórico de momentum em 20/06/2026 no PC: Cody Gakpo liderou 7d com +89,5%. Compare preços, 24h/7d, gráfico e limites."
 ---
+
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 20/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+**Cody Gakpo** liderou o recorte com **+89,5% em 7d** e +28,6% em 24h. Entre 15 cartas, 15 tinham as duas janelas positivas; a mediana semanal foi **+25,9%**.
+
+Os preços destacados iam de **85k coins** a **195k coins**. O ranking descreve momentum observado naquela data; previsão ausente ou inválida aparece como N/D e não confirma uma compra atual.
+
+![Gráfico de variação em 7 dias para os destaques de Momentum de Cartas Meta no EA FC em 20/06 — PC](/charts/melhores-investimentos-ea-fc-2026-06-20-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
 
 ## Por que estas cartas
 
-Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **20/06/2026** no **PC**:
+Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** e organiza o recorte pelo **momentum observado**. Resultado de **20/06/2026** no **PC**:
 
 > 🔝 **Destaque:** Cody Gakpo (89) acumula **+89.5% em 7 dias** a 180k coins.
 
@@ -41,9 +48,9 @@ Em conclusão, a decisão final deve considerar o perfil de risco do investidor.
 
 ## 💎 Cartas em tendência de alta (84+)
 
-Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seguir subindo:
+Ordenadas pela valorização de 7 dias. *Prob. registrada* preserva a saída histórica do modelo; N/D indica ausência ou leitura inválida:
 
-| Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
+| Jogador | OVR | Liga | Preço | 24h | 7d | Prob. registrada |
 | --- | --- | --- | --- | --- | --- | --- |
 | Cody Gakpo | 89 | Premier League | 180k coins | +28.6% | +89.5% | 51% |
 | Matthias Ginter | 88 | Bundesliga | 85k coins | +13.3% | +65% | 48% |
@@ -64,23 +71,23 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 ## 📈 Análise dos destaques
 
-- **Cody Gakpo (89)** — 180k coins, **+89.5% em 7 dias** (+28.6% em 24h). Preço +29% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Cody Gakpo (89)** — 180k coins, **+89.5% em 7 dias** (+28.6% em 24h). Preço +29% acima da média de 7 dias (aquecida). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
-- **Matthias Ginter (88)** — 85k coins, **+65% em 7 dias** (+13.3% em 24h). Preço +20% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Matthias Ginter (88)** — 85k coins, **+65% em 7 dias** (+13.3% em 24h). Preço +20% acima da média de 7 dias (aquecida). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
-- **Wesley Sneijder (89)** — 191k coins, **+40% em 7 dias** (+12.6% em 24h). Preço -11% abaixo da média de 7 dias (descontada). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Wesley Sneijder (89)** — 191k coins, **+40% em 7 dias** (+12.6% em 24h). Preço -11% abaixo da média de 7 dias (descontada). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
-- **Paul Scholes (91)** — 138k coins, **+36.6% em 7 dias** (+2.2% em 24h). Preço +9% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Paul Scholes (91)** — 138k coins, **+36.6% em 7 dias** (+2.2% em 24h). Preço +9% acima da média de 7 dias (aquecida). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
 - **Patri Guijarro (91)** — 90k coins, **+33.3% em 7 dias** (+37.4% em 24h). Preço +21% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **78% de chance de seguir subindo**.
 
 
 ## Como usar esta lista
 
-- **24h e 7d positivos juntos** = tendência sustentada, o sinal mais confiável.
-- Prefira entrar em **correções** (quedas curtas dentro da alta) para reduzir risco.
+- **24h e 7d positivos juntos** indicavam continuidade naquele recorte, sem garantir uma entrada futura.
+- Naquele contexto, uma correção dentro da alta reduziria o risco; hoje é preciso recalcular a entrada.
 - **Liquidez importa**: cartas de ligas e ratings populares vendem mais rápido.
-- Use a coluna *Prob. alta* para priorizar: quanto maior, mais o modelo concorda com a tendência.
+- A coluna *Prob. registrada* é apenas histórica; revalide preço, liquidez e contexto antes de decidir.
 
 
 ## 🧪 De onde vêm estes números
@@ -89,13 +96,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 
 ## ❓ Perguntas frequentes
 
-**Qual a melhor carta para investir hoje (20/06/2026) no EA FC?**  
-Cody Gakpo (89, Premier League) lidera, com +89.5% em 7 dias a 180k coins no PC, e o modelo dá 51% de chance de seguir subindo.
+**Qual carta liderava o momentum em 20/06/2026 no EA FC?**
+Cody Gakpo (89, Premier League) lidera, com +89.5% em 7 dias a 180k coins no PC. No recorte, isso descrevia momentum observado, não uma recomendação atual.
 
-**Investir em FUT dá lucro garantido?**  
+**Investir em FUT dá lucro garantido?**
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
 
-**Com que frequência a lista de investimentos atualiza?**  
+**Com que frequência a lista de investimentos atualiza?**
 Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
 
@@ -104,3 +111,12 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 ---
 
 *Preços de PC, referência de 20/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Cartas Meta no EA FC em 20/06: altas e baixas — PC](/posts/mercado-ea-fc-2026-06-20-pc/)
+- [Momentum de Cartas Meta no EA FC em 16/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-16-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Meta Cards"
 pubDatetime: 2026-06-18T23:34:15.000Z
-title: "Cartas Meta no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — Console (PS)"
+title: "Cartas Meta no EA FC em 18/06: altas e baixas — PS"
 draft: false
 featured: true
 tags:
@@ -10,19 +10,22 @@ tags:
   - previsoes
   - altas-e-baixas
   - ps
-description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Endrick (91, Ligue 1 McDonald's), com +55.6% em 24h, a 840k coins no Console (PS)."
-  - q: "E a maior queda do dia?"
-    a: "Ramires (88), -36.6% em 24h, a 364k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Sandro Tonali (88) — 95% de probabilidade de alta, a 205k coins."
-  - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 243 cartas em alta contra 349 em queda (média -1.46%)."
-  - q: "Posso confiar nos preços e previsões do FutQuant?"
-    a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
+description: "Snapshot histórico de 18/06/2026 no PS: Endrick liderou as altas e Ramires as baixas em Cartas Meta. Compare preços, variações, gráfico e riscos."
 ---
+
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 18/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Endrick** registrou o maior movimento de 24h (+55,6%), enquanto **Ramires** marcou o menor (-36,6%). A distância entre os extremos foi de **92,2 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **-0,7%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Cartas Meta no EA FC em 18/06: altas e baixas — PS](/charts/mercado-ea-fc-2026-06-18-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
 
 ## 📊 Como está o mercado agora
 
@@ -70,7 +73,7 @@ Do lado das quedas, Ramires (88, Premier League) lidera as perdas com -36.6% em 
 
 ## 🔮 Radar de valorização (24h)
 
-As cartas que o modelo FutQuant aponta com **maior probabilidade de valorização** (sinal de alta, confiança alta):
+Na publicação original, estas cartas receberam as maiores probabilidades de valorização. Os valores expiraram após 24 horas e não representam um sinal atual:
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
@@ -84,12 +87,12 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 | Quaresma | 88 | 142k coins | 175k coins | 95% |
 
 
-O modelo projeta um conjunto robusto de ativos com probabilidade de alta de 95%, liderado por Sandro Tonali (88, Premier League) a 205k coins e Nico Williams (89, LALIGA EA SPORTS) a 174k coins, ambos oferecendo excelente custo-benefício para operações de swing trading. Anatoliy Trubin (88, Liga Portugal) a 171k coins e Pavel Nedvěd (89, Icons) a 183k coins também aparecem com máxima probabilidade de alta, sugerindo que o mercado ainda não precificou adequadamente seu potencial, especialmente para Icons que costumam ter suporte de preço mais forte. Alphonso Davies (89, Bundesliga) a 116k coins e Iñaki Williams (89, LALIGA EA SPORTS) a 360k coins completam a lista de altas probabilidade, com Davies oferecendo uma entrada mais barata e Iñaki Williams uma exposição premium, ambos com expectativa de valorização significativa. Julián Alvarez (88, LALIGA EA SPORTS) a 136k coins e Quaresma (88, Trendyol Süper Lig) a 142k coins fecham a lista com probabilidade de 95%, indicando que o modelo identifica uma convergência de fatores técnicos e fundamentais que favorecem a alta nesses ativos específicos, tornando-os alvos prioritários para carteiras focadas em alta convicção e baixo risco de drawdown prolongado.
+Naquele snapshot, o modelo projetava um conjunto robusto de ativos com probabilidade de alta de 95%, liderado por Sandro Tonali (88, Premier League) a 205k coins e Nico Williams (89, LALIGA EA SPORTS) a 174k coins, ambos oferecendo excelente custo-benefício para operações de swing trading. Anatoliy Trubin (88, Liga Portugal) a 171k coins e Pavel Nedvěd (89, Icons) a 183k coins também aparecem com máxima probabilidade de alta, sugerindo que o mercado ainda não precificou adequadamente seu potencial, especialmente para Icons que costumam ter suporte de preço mais forte. Alphonso Davies (89, Bundesliga) a 116k coins e Iñaki Williams (89, LALIGA EA SPORTS) a 360k coins completam a lista de altas probabilidade, com Davies oferecendo uma entrada mais barata e Iñaki Williams uma exposição premium, ambos com expectativa de valorização significativa. Julián Alvarez (88, LALIGA EA SPORTS) a 136k coins e Quaresma (88, Trendyol Süper Lig) a 142k coins fecham a lista com probabilidade de 95%, indicando que o modelo identifica uma convergência de fatores técnicos e fundamentais que favorecem a alta nesses ativos específicos, tornando-os alvos prioritários para carteiras focadas em alta convicção e baixo risco de drawdown prolongado.
 
 
 ## ⚠️ Cuidado: o modelo projeta queda
 
-O modelo vê **risco de queda** nestas nas próximas 24h — segure a compra:
+Naquele snapshot, o modelo indicava **risco de queda** nestas nas próximas 24h — segure a compra:
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
@@ -113,19 +116,19 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (18/06/2026)?**
 Endrick (91, Ligue 1 McDonald's), com +55.6% em 24h, a 840k coins no Console (PS).
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Ramires (88), -36.6% em 24h, a 364k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Sandro Tonali (88) — 95% de probabilidade de alta, a 205k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Sandro Tonali (88) — 95% de probabilidade de alta, a 205k coins.
 
-**O mercado do EA FC está em alta ou baixa hoje?**  
+**Como estava o mercado do EA FC nesse dia?**
 Hoje o mercado está em dia indefinido — sem tendência dominante, com 243 cartas em alta contra 349 em queda (média -1.46%).
 
-**Posso confiar nos preços e previsões do FutQuant?**  
+**Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
 
 
@@ -134,3 +137,12 @@ Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados co
 ---
 
 *Preços de Console (PS), referência de 18/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Momentum de Cartas Meta no EA FC em 18/06 — PS](/posts/melhores-investimentos-ea-fc-2026-06-18-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Momentum de Cartas Meta no EA FC em 16/07 — PS](/posts/melhores-investimentos-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

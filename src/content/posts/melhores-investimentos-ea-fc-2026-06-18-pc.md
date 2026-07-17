@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Meta Cards"
 pubDatetime: 2026-06-18T23:36:00.000Z
-title: "Melhores investimentos em Cartas Meta no EA FC (18/06/2026): análise e previsões — PC"
+title: "Momentum de Cartas Meta no EA FC em 18/06 — PC"
 draft: false
 featured: true
 tags:
@@ -9,19 +9,26 @@ tags:
   - trading
   - previsoes
   - pc
-description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 18/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
-faq:
-  - q: "Qual a melhor carta para investir hoje (18/06/2026) no EA FC?"
-    a: "Matthias Ginter (88, Bundesliga) lidera, com +73.5% em 7 dias a 85k coins no PC, e o modelo dá 48% de chance de seguir subindo."
-  - q: "Investir em FUT dá lucro garantido?"
-    a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
-  - q: "Com que frequência a lista de investimentos atualiza?"
-    a: "Várias vezes ao dia, junto com os preços do mercado do EA FC."
+description: "Ranking histórico de momentum em 18/06/2026 no PC: Matthias Ginter liderou 7d com +73,5%. Compare preços, 24h/7d, gráfico e limites."
 ---
+
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 18/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+**Matthias Ginter** liderou o recorte com **+73,5% em 7d** e +2,4% em 24h. Entre 15 cartas, 15 tinham as duas janelas positivas; a mediana semanal foi **+59,2%**.
+
+Os preços destacados iam de **85k coins** a **215k coins**. O ranking descreve momentum observado naquela data; previsão ausente ou inválida aparece como N/D e não confirma uma compra atual.
+
+![Gráfico de variação em 7 dias para os destaques de Momentum de Cartas Meta no EA FC em 18/06 — PC](/charts/melhores-investimentos-ea-fc-2026-06-18-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
 
 ## Por que estas cartas
 
-Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **18/06/2026** no **PC**:
+Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** e organiza o recorte pelo **momentum observado**. Resultado de **18/06/2026** no **PC**:
 
 > 🔝 **Destaque:** Matthias Ginter (88) acumula **+73.5% em 7 dias** a 85k coins.
 
@@ -41,12 +48,12 @@ Em suma, as melhores oportunidades de entrada hoje concentram-se em Cha Bum Kun 
 
 ## 💎 Cartas em tendência de alta (84+)
 
-Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seguir subindo:
+Ordenadas pela valorização de 7 dias. *Prob. registrada* preserva a saída histórica do modelo; N/D indica ausência ou leitura inválida:
 
-| Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
+| Jogador | OVR | Liga | Preço | 24h | 7d | Prob. registrada |
 | --- | --- | --- | --- | --- | --- | --- |
 | Matthias Ginter | 88 | Bundesliga | 85k coins | +2.4% | +73.5% | 48% |
-| Yan Diomande | 92 | — | 85k coins | +34.9% | +70% | 0% |
+| Yan Diomande | 92 | — | 85k coins | +34.9% | +70% | N/D |
 | Paulo Dybala | 88 | Serie A TIM | 143k coins | +22.2% | +68.2% | 36% |
 | Abedi Pelé | 90 | Ligue 1 McDonald's | 161k coins | +4.5% | +64% | 18% |
 | Abedi Pelé | 91 | Ligue 1 McDonald's | 185k coins | +23.3% | +60.9% | 52% |
@@ -64,23 +71,23 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 ## 📈 Análise dos destaques
 
-- **Matthias Ginter (88)** — 85k coins, **+73.5% em 7 dias** (+2.4% em 24h). Preço +28% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Matthias Ginter (88)** — 85k coins, **+73.5% em 7 dias** (+2.4% em 24h). Preço +28% acima da média de 7 dias (aquecida). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
-- **Yan Diomande (92)** — 85k coins, **+70% em 7 dias** (+34.9% em 24h). Preço +40% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Yan Diomande (92)** — 85k coins, **+70% em 7 dias** (+34.9% em 24h). Preço +40% acima da média de 7 dias (aquecida). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
-- **Paulo Dybala (88)** — 143k coins, **+68.2% em 7 dias** (+22.2% em 24h). Preço +32% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Paulo Dybala (88)** — 143k coins, **+68.2% em 7 dias** (+22.2% em 24h). Preço +32% acima da média de 7 dias (aquecida). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
-- **Abedi Pelé (90)** — 161k coins, **+64% em 7 dias** (+4.5% em 24h). Preço +16% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Abedi Pelé (90)** — 161k coins, **+64% em 7 dias** (+4.5% em 24h). Preço +16% acima da média de 7 dias (aquecida). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
-- **Abedi Pelé (91)** — 185k coins, **+60.9% em 7 dias** (+23.3% em 24h). Preço +35% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Abedi Pelé (91)** — 185k coins, **+60.9% em 7 dias** (+23.3% em 24h). Preço +35% acima da média de 7 dias (aquecida). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
 
 ## Como usar esta lista
 
-- **24h e 7d positivos juntos** = tendência sustentada, o sinal mais confiável.
-- Prefira entrar em **correções** (quedas curtas dentro da alta) para reduzir risco.
+- **24h e 7d positivos juntos** indicavam continuidade naquele recorte, sem garantir uma entrada futura.
+- Naquele contexto, uma correção dentro da alta reduziria o risco; hoje é preciso recalcular a entrada.
 - **Liquidez importa**: cartas de ligas e ratings populares vendem mais rápido.
-- Use a coluna *Prob. alta* para priorizar: quanto maior, mais o modelo concorda com a tendência.
+- A coluna *Prob. registrada* é apenas histórica; revalide preço, liquidez e contexto antes de decidir.
 
 
 ## ⚙️ A engine por tras deste post
@@ -89,13 +96,13 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 
 ## ❓ Perguntas frequentes
 
-**Qual a melhor carta para investir hoje (18/06/2026) no EA FC?**  
-Matthias Ginter (88, Bundesliga) lidera, com +73.5% em 7 dias a 85k coins no PC, e o modelo dá 48% de chance de seguir subindo.
+**Qual carta liderava o momentum em 18/06/2026 no EA FC?**
+Matthias Ginter (88, Bundesliga) lidera, com +73.5% em 7 dias a 85k coins no PC. No recorte, isso descrevia momentum observado, não uma recomendação atual.
 
-**Investir em FUT dá lucro garantido?**  
+**Investir em FUT dá lucro garantido?**
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
 
-**Com que frequência a lista de investimentos atualiza?**  
+**Com que frequência a lista de investimentos atualiza?**
 Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
 
@@ -104,3 +111,12 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 ---
 
 *Preços de PC, referência de 18/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Cartas Meta no EA FC em 18/06: altas e baixas — PC](/posts/mercado-ea-fc-2026-06-18-pc/)
+- [Momentum de Cartas Meta no EA FC em 16/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-16-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

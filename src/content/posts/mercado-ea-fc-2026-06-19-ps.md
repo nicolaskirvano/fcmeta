@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Meta Cards"
 pubDatetime: 2026-06-19T22:26:25.000Z
-title: "Cartas Meta no EA FC hoje (19/06/2026): mercado, altas, baixas e previsões — Console (PS)"
+title: "Cartas Meta no EA FC em 19/06: altas e baixas — PS"
 draft: false
 featured: true
 tags:
@@ -10,21 +10,24 @@ tags:
   - previsoes
   - altas-e-baixas
   - ps
-description: "Análise completa do mercado do EA FC Ultimate Team em 19/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (19/06/2026)?"
-    a: "Roy Keane (88, Icons), com +33.8% em 24h, a 360k coins no Console (PS)."
-  - q: "E a maior queda do dia?"
-    a: "Federico Valverde (90), -45.8% em 24h, a 192k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Sadio Mané (88) — 95% de probabilidade de alta, a 159k coins."
-  - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 46 cartas em alta contra 230 em queda (média -12.01%)."
-  - q: "De onde vêm os preços do FutQuant?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 19/06/2026 no PS: Roy Keane liderou as altas e Federico Valverde as baixas em Cartas Meta. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 19/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Roy Keane** registrou o maior movimento de 24h (+33,8%), enquanto **Federico Valverde** marcou o menor (-45,8%). A distância entre os extremos foi de **79,6 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **-11,8%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Cartas Meta no EA FC em 19/06: altas e baixas — PS](/charts/mercado-ea-fc-2026-06-19-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
 
 O cenário do mercado de EA FC Ultimate Team para a data de 19 de junho de 2026 exibe uma volatilidade extrema caracterizada por um sentimento predominantemente negativo, onde a força de venda supera a demanda em larga escala, resultando em um desequilíbrio claro com 230 quedas registradas contra apenas 46 altas nas últimas 24 horas, o que traduz uma média de desvalorização de -12.01% para o índice geral do mercado. Para o trader experiente, esse ambiente não é necessariamente um sinal de pânico, mas sim uma oportunidade de caça aos ativos que estão sendo liquidados por medo irracional ou por ajustes de última hora antes de eventos maiores, exigindo uma leitura fria dos dados para identificar quais cartas estão caindo por falta de utilidade real versus aquelas que estão caindo apenas pelo excesso de oferta momentânea. A predominância das quedas indica que a maioria dos jogadores está tentando se aposentar ou converter moedas em ativos mais seguros, criando um vácuo de liquidez que pode ser explorado estrategicamente por quem tem capital em mãos e paciência para esperar a correção de curto prazo. O tom do dia é de cautela extrema, mas com janelas de lucro específicas para aqueles que sabem ler a probabilidade de alta associada a cada movimento, diferenciando ruído de mercado de tendências sustentáveis. É fundamental observar que, apesar da média negativa, existem bolsões de alta significativa que indicam uma revalorização pontual de ativos específicos, sugerindo que o mercado está se reorganizando em torno de novos meta-narrativas ou utilidades de squad. A chave para operar hoje é não seguir a manada que vende no fundo, mas sim identificar os pontos de suporte psicológico onde os compradores institucionais começam a entrar, aproveitando a liquidez gerada pelas vendas em massa dos jogadores menos resilientes.
 
@@ -68,7 +71,7 @@ Entre os ativos que desafiaram a gravidade do mercado, Roy Keane se destaca como
 Do outro lado da moeda, as quedas foram devastadoras para alguns ativos, com Federico Valverde liderando a lista de desvalorizações com uma queda brutal de 45.8% em 24 horas, caindo para 192k coins, um movimento assustador que, paradoxalmente, ainda mantém uma probabilidade de alta de 84%, sugerindo que esta queda pode ser uma venda em pânico irracional que cria uma oportunidade de compra de alto risco e alto retorno, pois o mercado pode estar corrigindo um pico anterior de forma exagerada. Maicon seguiu na esteira das quedas severas com -45.7%, atingindo 110k coins, e com uma probabilidade de alta de 51%, o que indica um terreno neutro onde o trader deve ter cuidado, pois a queda pode continuar se não houver um gatilho de compra imediato, tornando-o um ativo de risco elevado para acumulação a menos que haja uma estratégia de saída rápida. Tabitha Chawinga sofreu uma queda de 45.6% para 93k coins, mas com uma probabilidade de alta de apenas 5%, o que é um sinal de alerta vermelho claro, indicando que o mercado não vê valor de recuperação imediata neste ativo e que ele deve ser evitado a qualquer custo, pois a tendência de baixa parece estrutural e sem suporte próximo. Gianluigi Buffon, um ícone clássico, caiu 43.5% para 118k coins com apenas 18% de probabilidade de alta, reforçando a ideia de que o mercado está abandonando ativos que podem estar fora do meta atual ou que foram impactados por novas releases de cartas mais fortes, tornando-o uma armadilha para quem compra no fundo por apego emocional. Olivia Smith e Adama Traoré completam o quadro sombrio com quedas de 42.3% e 42.1% respectivamente, e probabilidades de alta de 49% e 8%, o que demonstra uma divergência interessante onde Smith pode ter alguma resiliência residual, mas Traoré está claramente em uma espiral descendente sem freios, confirmando que a liquidez está fugindo rapidamente de ativos de médio valor que não conseguem manter a atenção dos traders institucionais em um dia de baixa generalizada.
 
 
-## 🔮 O que o modelo prevê para as próximas 24h
+## 🔮 Previsão registrada naquele snapshot
 
 Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alta confiança):
 
@@ -113,19 +116,19 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (19/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (19/06/2026)?**
 Roy Keane (88, Icons), com +33.8% em 24h, a 360k coins no Console (PS).
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Federico Valverde (90), -45.8% em 24h, a 192k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Sadio Mané (88) — 95% de probabilidade de alta, a 159k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Sadio Mané (88) — 95% de probabilidade de alta, a 159k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 46 cartas em alta contra 230 em queda (média -12.01%).
+**Como está o mercado do EA FC hoje?**
+Naquele dia, o mercado estava em baixa — predominam as quedas, com 46 cartas em alta contra 230 em queda (média -12.01%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -134,3 +137,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de Console (PS), referência de 19/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Momentum de Cartas Meta no EA FC em 19/06 — PS](/posts/melhores-investimentos-ea-fc-2026-06-19-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Momentum de Cartas Meta no EA FC em 16/07 — PS](/posts/melhores-investimentos-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)
