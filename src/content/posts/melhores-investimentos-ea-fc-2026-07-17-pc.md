@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T10:25:18.000Z
+pubDatetime: 2026-07-17T13:25:18.000Z
 title: "Investimentos EA FC: Cartas Meta em 17/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 17/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (17/07/2026) no EA FC?"
-    a: "Khadija Shaw (90, Barclays WSL) lidera, com +88.8% em 7 dias a 169k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Lindsey Heaps (88, D1 Arkema) lidera, com +89.5% em 7 dias a 112k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Khadija Shaw (90) acumula **+88.8% em 7 dias** a 169k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Lindsey Heaps (88) acumula **+89.5% em 7 dias** a 112k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas Meta em 17/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-17-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.9% em 24h** e **+69.7% em 7 dias**.
-- **12 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Barclays WSL** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+14.3% em 24h** e **+74.5% em 7 dias**.
+- **14 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
+| Lindsey Heaps | 88 | D1 Arkema | 112k coins | +11.3% | +89.5% | Esticada |
 | Khadija Shaw | 90 | Barclays WSL | 169k coins | +30% | +88.8% | Esticada |
 | Eric Cantona | 92 | — | 160k coins | +14.3% | +88.2% | Esticada |
-| Josip Stanišić | 95 | — | 94k coins | +23.5% | +84.2% | Esticada |
-| Harry Kane | 90 | Bundesliga | 230k coins | +10.9% | +82.1% | Esticada |
-| Javier Zanetti | 92 | — | 83k coins | +4.4% | +75.7% | Esticada |
-| Hugo Ekitiké | 93 | — | 95k coins | +31.9% | +74.3% | Esticada |
-| Khadija Shaw | 91 | Barclays WSL | 149k coins | +37.6% | +72.4% | Esticada |
-| Daniel Muñoz | 94 | — | 92k coins | +6.3% | +69.7% | Esticada |
-| Dayot Upamecano | 95 | — | 84k coins | +1.1% | +62.7% | Esticada |
-| Mattéo Guendouzi | 91 | Trendyol Süper Lig | 80k coins | +6.7% | +61.6% | Esticada |
-| Bruno Guimarães | 96 | — | 146k coins | +33.6% | +61.4% | Esticada |
-| Enzo Fernández | 93 | — | 128k coins | +6.7% | +61% | Esticada |
+| Marek Hamšík | 88 | Serie A TIM | 98k coins | +32.2% | +87.6% | Esticada |
+| Enzo Fernández | 93 | — | 110k coins | +6.7% | +82.9% | Esticada |
+| Giorgio Chiellini | 89 | Icons | 138k coins | +15% | +79.2% | Esticada |
+| Cody Gakpo | 89 | Premier League | 239k coins | +4.8% | +78.4% | Esticada |
+| Kerstin Casparij | 96 | — | 89k coins | +18.6% | +74.5% | Esticada |
+| Maya Le Tissier | 88 | Barclays WSL | 95k coins | +3.3% | +72.7% | Esticada |
+| Bastian Schweinsteiger | 88 | Icons | 113k coins | +2.7% | +69.9% | Esticada |
+| Hugo Ekitiké | 93 | — | 94k coins | +35.8% | +67% | Esticada |
+| Gabriel | 96 | — | 189k coins | +34.2% | +65.3% | Esticada |
+| Dayot Upamecano | 95 | — | 98k coins | +4.8% | +63.3% | Esticada |
+| Mattéo Guendouzi | 91 | Trendyol Süper Lig | 80k coins | +13.5% | +61.6% | Esticada |
 | Toni Kroos | 90 | Icons | 100k coins | +17.6% | +58.7% | Momentum moderado |
-| Karim Benzema | 88 | ROSHN Saudi League | 156k coins | +4% | +56% | Momentum moderado |
-| Dominik Szoboszlai | 90 | Premier League | 165k coins | +3.1% | +55.7% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Khadija Shaw (90)** — 169k coins, **+88.8% em 7 dias** (+30% em 24h). Preço +64% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lindsey Heaps (88)** — 112k coins, **+89.5% em 7 dias** (+11.3% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Eric Cantona (92)** — 160k coins, **+88.2% em 7 dias** (+14.3% em 24h). Preço +52% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Khadija Shaw (90)** — 169k coins, **+88.8% em 7 dias** (+30% em 24h). Preço +62% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Josip Stanišić (95)** — 94k coins, **+84.2% em 7 dias** (+23.5% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Eric Cantona (92)** — 160k coins, **+88.2% em 7 dias** (+14.3% em 24h). Preço +50% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Harry Kane (90)** — 230k coins, **+82.1% em 7 dias** (+10.9% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marek Hamšík (88)** — 98k coins, **+87.6% em 7 dias** (+32.2% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Javier Zanetti (92)** — 83k coins, **+75.7% em 7 dias** (+4.4% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Enzo Fernández (93)** — 110k coins, **+82.9% em 7 dias** (+6.7% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (17/07/2026) no EA FC?**  
-Khadija Shaw (90, Barclays WSL) lidera, com +88.8% em 7 dias a 169k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Lindsey Heaps (88, D1 Arkema) lidera, com +89.5% em 7 dias a 112k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
