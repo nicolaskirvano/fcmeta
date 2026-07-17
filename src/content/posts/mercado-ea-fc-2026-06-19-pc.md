@@ -75,8 +75,8 @@ O lado das quedas é dominado por vendas de pânico e correções de ativos supe
 A estratégia recomendada para hoje é focar na compra seletiva de ativos com alta probabilidade de alta e queda recente, como Petr Čech e Iniesta, que caiu 43.2% para 180k coins mas mantém 65% de probabilidade de alta, oferecendo um risco-retorno atrativo para operações de intraday. Traders devem evitar completamente a compra de Willian Pacho, Ezri Konsa e Julian Ryerson, pois a probabilidade de alta zero indica que a tendência de baixa é estrutural e sem suporte técnico para reversão imediata. É prudente segurar posições em jogadores como Javier Mascherano e Marco van Basten, que subiu 38.6% para 97k coins com 46% de probabilidade, pois a combinação de alta recente e probabilidade positiva sugere continuidade do movimento de valorização. Evite entradas em Ousmane Dembélé e Alex Morgan por enquanto, pois a baixa probabilidade de alta (28% e 13%, respectivamente) em preços elevados de 1.40M coins indica que o movimento é frágil e suscetível a correções bruscas. O foco deve ser girar capital em ativos de 100k a 200k coins, onde a liquidez é maior e os movimentos de médiação de preços ocorrem mais rapidamente, permitindo lucros consistentes em um mercado predominantemente de venda.
 
 
-## 📐 Como o FutQuant le o mercado
-Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de varias fontes e atualizados ao longo do dia. Antes de publicar, filtramos **anomalias** (cartas extintas, erros de coleta) e cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e tendência. Você vê aqui o que poucos sites mostram: não só o preço, mas **para onde ele tende a ir**.
+## 📐 Como o FutQuant lê o mercado
+Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, de várias fontes e atualizados ao longo do dia. Antes de publicar, filtramos **anomalias** (cartas extintas, erros de coleta) e cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e tendência. Você vê aqui o que poucos sites mostram: não só o preço, mas **para onde ele tende a ir**.
 
 
 ## ❓ Perguntas frequentes
