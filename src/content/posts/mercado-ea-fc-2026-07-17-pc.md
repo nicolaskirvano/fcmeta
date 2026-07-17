@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T19:25:17.000Z
+pubDatetime: 2026-07-17T22:25:17.000Z
 title: "Mercado EA FC em 17/07: Cartas Meta — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 17/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (17/07/2026)?"
-    a: "Ethan Nwaneri (91, Ligue 1 McDonald's), com +57.9% em 24h, a 84k coins no PC."
+    a: "Juan Mata (88, A-League), com +58.3% em 24h, a 95k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Steven Gerrard (88), -42.4% em 24h, a 102k coins."
+    a: "Xavi (91), -48.1% em 24h, a 84k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 206 cartas em alta contra 270 em queda (média 0.5%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 173 cartas em alta contra 332 em queda (média -2.77%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Resumo de **17/07/2026** no PC: mercado **de lado** — altas e quedas se equilibram. **206 valorizações** contra **270 quedas** entre as cartas relevantes, com média de **0.5%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **17/07/2026** no PC: clima **vendedor** — a maioria das cartas recuou. **173 valorizações** contra **332 quedas** entre as cartas relevantes, com média de **-2.77%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Ethan Nwaneri (91) **+57.9%** · 🔴 **Maior baixa:** Steven Gerrard (88) **-42.4%**
+> 🟢 **Maior alta:** Juan Mata (88) **+58.3%** · 🔴 **Maior baixa:** Xavi (91) **-48.1%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 17/07: Cartas Meta — PC](/charts/mercado-ea-fc-2026-07-17-pc.svg)
 
@@ -35,24 +35,24 @@ Resumo de **17/07/2026** no PC: mercado **de lado** — altas e quedas se equili
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 100.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 43.3% entre as cartas que se moveram; o universo observado reúne 610 cartas.
-- **Concentração:** Icons aparece em 8 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 106.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 34.3% entre as cartas que se moveram; o universo observado reúne 630 cartas.
+- **Concentração:** Icons aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 84k coins | +57.9% | +56.5% |
-| Juan Mata | 88 | A-League | 95k coins | +57.5% | +97.9% |
-| Khadija Shaw | 91 | Barclays WSL | 135k coins | +57% | +64.6% |
-| Douglas Luiz | 96 | — | 345k coins | +53.3% | +15% |
-| Marcos Acuña | 89 | LPF | 130k coins | +52.9% | +36.8% |
-| Franck Ribéry | 89 | Icons | 400k coins | +52.1% | +64.6% |
-| Trinity Rodman | 88 | NWSL | 180k coins | +51.3% | +28.6% |
-| Fabio Cannavaro | 89 | Icons | 140k coins | +44.8% | +6.1% |
-| Endrick | 91 | Ligue 1 McDonald's | 1.08M coins | +41.4% | +10.7% |
-| Claudio Marchisio | 88 | Serie A TIM | 409k coins | +40.4% | +21.5% |
+| Juan Mata | 88 | A-League | 95k coins | +58.3% | +99% |
+| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 80k coins | +57% | +52.7% |
+| Marie Katoto | 89 | Frauen-Bundesliga | 110k coins | +55.4% | +64.3% |
+| Selma Bacha | 94 | D1 Arkema | 150k coins | +54.1% | +51% |
+| Warren Zaïre-Emery | 96 | — | 2.05M coins | +51.3% | -4.2% |
+| Kenan Yıldız | 88 | Serie A TIM | 225k coins | +49.2% | +106.7% |
+| Victor Osimhen | 88 | Trendyol Süper Lig | 891k coins | +42.1% | +19% |
+| Trinity Rodman | 88 | NWSL | 180k coins | +39.5% | +3.4% |
+| Rafael Leão | 93 | Serie A TIM | 2M coins | +37.9% | 0% |
+| Selina Cerci | 95 | — | 98k coins | +37.6% | +46.2% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **17/07/2026** no PC: mercado **de lado** — altas e quedas se equili
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Ethan Nwaneri (91)** subiu **+57.9%** em 24h, a **84k coins** (faixa do dia: 50k–85k). Está +38% acima da média de 7 dias (aquecida).
+- **Juan Mata (88)** subiu **+58.3%** em 24h, a **95k coins** (faixa do dia: 60k–95k). Está +53% acima da média de 7 dias (aquecida).
 
-- **Juan Mata (88)** subiu **+57.5%** em 24h, a **95k coins** (faixa do dia: 60k–95k). Está +55% acima da média de 7 dias (aquecida).
+- **Ethan Nwaneri (91)** subiu **+57%** em 24h, a **80k coins** (faixa do dia: 52k–85k). Está +31% acima da média de 7 dias (aquecida).
 
-- **Khadija Shaw (91)** subiu **+57%** em 24h, a **135k coins** (faixa do dia: 70k–150k). Está +42% acima da média de 7 dias (aquecida).
+- **Marie Katoto (89)** subiu **+55.4%** em 24h, a **110k coins** (faixa do dia: 61k–130k). Está +39% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Steven Gerrard | 88 | Icons | 102k coins | -42.4% | -20.9% |
-| Toni Kroos | 90 | Icons | 100k coins | -37.9% | -10.1% |
-| Hristo Stoichkov | 89 | Icons | 82k coins | -37.4% | -13.7% |
-| Petr Čech | 88 | Icons | 86k coins | -36.1% | -6.8% |
-| Scott McTominay | 91 | Serie A TIM | 499k coins | -35.1% | -19% |
-| Bradley Barcola | 96 | — | 800k coins | -35% | -54.3% |
-| Koke | 88 | LALIGA EA SPORTS | 83k coins | -33.6% | -24.5% |
-| Lotta Schelin | 90 | Icons | 87k coins | -32.6% | +18.4% |
-| Andrea Pirlo | 90 | Icons | 117k coins | -32.4% | +23.2% |
-| Marcus Rashford | 92 | — | 378k coins | -30.8% | -18% |
+| Xavi | 91 | Icons | 84k coins | -48.1% | -33.2% |
+| Jairzinho | 89 | Icons | 240k coins | -42.6% | -33.3% |
+| Eric Cantona | 89 | Icons | 200k coins | -40.5% | +14.7% |
+| Orkun Kökçü | 95 | — | 120k coins | -36.2% | -26.9% |
+| Gianluigi Buffon | 91 | Icons | 139k coins | -36% | -10% |
+| Yoane Wissa | 95 | — | 170k coins | -34.6% | -15% |
+| Xavi | 96 | — | 268k coins | -33% | -11.5% |
+| Rivaldo | 90 | Icons | 109k coins | -31.9% | -8.9% |
+| Vitinha | 96 | — | 6M coins | -31.8% | -30.2% |
+| Ousmane Dembélé | 96 | — | 1.80M coins | -31.4% | -35.2% |
 
 
 ### Análise das baixas
 
-- **Steven Gerrard (88)** caiu **-42.4%** em 24h, a **102k coins** (faixa do dia: 102k–180k). Está -20% abaixo da média de 7 dias (descontada).
+- **Xavi (91)** caiu **-48.1%** em 24h, a **84k coins** (faixa do dia: 84k–160k). Está -29% abaixo da média de 7 dias (descontada).
 
-- **Toni Kroos (90)** caiu **-37.9%** em 24h, a **100k coins** (faixa do dia: 84k–150k). Está em linha com a média de 7 dias (+2%).
+- **Jairzinho (89)** caiu **-42.6%** em 24h, a **240k coins** (faixa do dia: 240k–440k). Está -29% abaixo da média de 7 dias (descontada).
 
-- **Hristo Stoichkov (89)** caiu **-37.4%** em 24h, a **82k coins** (faixa do dia: 82k–131k). Está -21% abaixo da média de 7 dias (descontada).
+- **Eric Cantona (89)** caiu **-40.5%** em 24h, a **200k coins** (faixa do dia: 96k–200k). Está +49% acima da média de 7 dias (aquecida).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Ethan Nwaneri já avançou 57.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Juan Mata já avançou 58.3% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Steven Gerrard recuou -42.4%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Xavi recuou -48.1%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (17/07/2026)?**
-Ethan Nwaneri (91, Ligue 1 McDonald's), com +57.9% em 24h, a 84k coins no PC.
+Juan Mata (88, A-League), com +58.3% em 24h, a 95k coins no PC.
 
 **E a maior queda do dia?**
-Steven Gerrard (88), -42.4% em 24h, a 102k coins.
+Xavi (91), -48.1% em 24h, a 84k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está de lado — altas e quedas se equilibram, com 206 cartas em alta contra 270 em queda (média 0.5%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 173 cartas em alta contra 332 em queda (média -2.77%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
