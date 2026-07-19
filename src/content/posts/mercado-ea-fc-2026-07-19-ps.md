@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T19:25:07.000Z
+pubDatetime: 2026-07-19T22:25:07.000Z
 title: "Mercado EA FC em 19/07: Cartas Meta — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 19/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/07/2026)?"
-    a: "Julián Alvarez (89, LALIGA EA SPORTS), com +56.2% em 24h, a 235k coins no Console (PS)."
+    a: "Joe Cole (88, Premier League), com +56.8% em 24h, a 227k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Tyrick Mitchell (96), -34.4% em 24h, a 236k coins."
+    a: "Tyrick Mitchell (96), -38.3% em 24h, a 215k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está lateral — sem direção clara, com 269 cartas em alta contra 323 em queda (média 1.05%)."
+    a: "Hoje o mercado está lateral — sem direção clara, com 253 cartas em alta contra 323 em queda (média 0.03%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **19/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **269 subiram** e **323 caíram**, com variação média de **1.05%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **19/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **253 subiram** e **323 caíram**, com variação média de **0.03%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Julián Alvarez (89) **+56.2%** · 🔴 **Maior baixa:** Tyrick Mitchell (96) **-34.4%**
+> 🟢 **Maior alta:** Joe Cole (88) **+56.8%** · 🔴 **Maior baixa:** Tyrick Mitchell (96) **-38.3%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 19/07: Cartas Meta — Console (PS)](/charts/mercado-ea-fc-2026-07-19-ps.svg)
 
@@ -35,24 +35,24 @@ Em **19/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 90.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 45.4% entre as cartas que se moveram; o universo observado reúne 645 cartas.
-- **Concentração:** Icons aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 95.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 43.9% entre as cartas que se moveram; o universo observado reúne 593 cartas.
+- **Concentração:** Icons aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Julián Alvarez | 89 | LALIGA EA SPORTS | 235k coins | +56.2% | +47.1% |
-| Paul Scholes | 91 | Icons | 203k coins | +53.3% | +16% |
-| Lauren James | 89 | Barclays WSL | 80k coins | +52.1% | +15.6% |
-| Mallory Swanson | 88 | NWSL | 81k coins | +51.4% | +176.9% |
-| Lionel Messi | 90 | MLS | 3.50M coins | +45.8% | +9.4% |
-| Paolo Maldini | 94 | Icons | 1.01M coins | +41.8% | +39.4% |
-| Florian Wirtz | 91 | — | 87k coins | +41.7% | +42.9% |
-| Álvaro Carreras | 90 | LALIGA EA SPORTS | 225k coins | +40.6% | +10.6% |
-| Ferenc Puskás | 92 | Icons | 236k coins | +40.5% | -4.5% |
-| Joe Cole | 88 | Premier League | 238k coins | +39.2% | -23.2% |
+| Joe Cole | 88 | Premier League | 227k coins | +56.8% | -26.1% |
+| Cesc Fàbregas | 91 | Premier League | 255k coins | +55.9% | +72.6% |
+| Antoine Griezmann | 91 | LALIGA EA SPORTS | 240k coins | +52.4% | +47.1% |
+| Jamal Musiala | 93 | — | 290k coins | +51.2% | +4.1% |
+| Debinha | 89 | NWSL | 156k coins | +47.9% | -5.9% |
+| Quaresma | 88 | Trendyol Süper Lig | 354k coins | +47.1% | +59.6% |
+| Fabio Cannavaro | 90 | Icons | 600k coins | +44.9% | +58.3% |
+| Warren Zaïre-Emery | 93 | Ligue 1 McDonald's | 180k coins | +44.9% | +25% |
+| Alexander Sørloth | 89 | LALIGA EA SPORTS | 142k coins | +43.1% | +53.7% |
+| Federico Valverde | 90 | LALIGA EA SPORTS | 160k coins | +41.8% | +20% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **19/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Julián Alvarez (89)** subiu **+56.2%** em 24h, a **235k coins** (faixa do dia: 150k–300k). Está em linha com a média de 7 dias (+6%).
+- **Joe Cole (88)** subiu **+56.8%** em 24h, a **227k coins** (faixa do dia: 139k–360k). Está -15% abaixo da média de 7 dias (descontada).
 
-- **Paul Scholes (91)** subiu **+53.3%** em 24h, a **203k coins** (faixa do dia: 135k–250k). Está em linha com a média de 7 dias (-2%).
+- **Cesc Fàbregas (91)** subiu **+55.9%** em 24h, a **255k coins** (faixa do dia: 169k–290k). Está +13% acima da média de 7 dias (aquecida).
 
-- **Lauren James (89)** subiu **+52.1%** em 24h, a **80k coins** (faixa do dia: 42k–125k). Está +9% acima da média de 7 dias (aquecida).
+- **Antoine Griezmann (91)** subiu **+52.4%** em 24h, a **240k coins** (faixa do dia: 143k–280k). Está +26% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Tyrick Mitchell | 96 | — | 236k coins | -34.4% | -12.6% |
-| Didier Drogba | 91 | Icons | 433k coins | -32.7% | -9.8% |
-| Zlatan Ibrahimović | 92 | Icons | 3.89M coins | -30.5% | -23.7% |
-| Kyle Walker | 89 | Premier League | 230k coins | -29.7% | -22.6% |
-| Luis Díaz | 89 | Bundesliga | 88k coins | -29.2% | -12.4% |
-| Lionel Messi | 98 | — | 2M coins | -28.3% | — |
-| João Félix | 93 | ROSHN Saudi League | 479k coins | -26.7% | -2% |
-| Anthony Gordon | 88 | Premier League | 175k coins | -26.5% | +4.8% |
-| Harry Kane | 91 | Bundesliga | 294k coins | -25.8% | -21.8% |
-| Erling Haaland | 91 | Premier League | 294k coins | -23.6% | +55.3% |
+| Tyrick Mitchell | 96 | — | 215k coins | -38.3% | -20% |
+| Kyle Walker | 89 | Premier League | 256k coins | -34.2% | -28.6% |
+| Richard Ríos | 88 | Liga Portugal | 145k coins | -33.8% | -36.2% |
+| Kenny Dalglish | 89 | Icons | 142k coins | -33.2% | -3.9% |
+| Didier Drogba | 91 | Icons | 422k coins | -32.9% | -16.7% |
+| Wesley Sneijder | 93 | Serie A TIM | 160k coins | -31.1% | -37.2% |
+| Nuno Mendes | 96 | — | 390k coins | -29.8% | -11.3% |
+| Scott McTominay | 91 | Serie A TIM | 219k coins | -29.4% | -25.1% |
+| Michael Olise | 88 | Bundesliga | 489k coins | -28.6% | -0.2% |
+| Zlatan Ibrahimović | 92 | Icons | 4.15M coins | -27.8% | -23.7% |
 
 
 ### Análise das baixas
 
-- **Tyrick Mitchell (96)** caiu **-34.4%** em 24h, a **236k coins** (faixa do dia: 236k–390k). Está -28% abaixo da média de 7 dias (descontada).
+- **Tyrick Mitchell (96)** caiu **-38.3%** em 24h, a **215k coins** (faixa do dia: 215k–350k). Está -34% abaixo da média de 7 dias (descontada).
 
-- **Didier Drogba (91)** caiu **-32.7%** em 24h, a **433k coins** (faixa do dia: 429k–598k). Está -13% abaixo da média de 7 dias (descontada).
+- **Kyle Walker (89)** caiu **-34.2%** em 24h, a **256k coins** (faixa do dia: 210k–360k). Está -20% abaixo da média de 7 dias (descontada).
 
-- **Zlatan Ibrahimović (92)** caiu **-30.5%** em 24h, a **3.89M coins** (faixa do dia: 3.89M–7M). Está -26% abaixo da média de 7 dias (descontada).
+- **Richard Ríos (88)** caiu **-33.8%** em 24h, a **145k coins** (faixa do dia: 144k–234k). Está -31% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Julián Alvarez já avançou 56.2% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Joe Cole já avançou 56.8% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Tyrick Mitchell recuou -34.4%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Tyrick Mitchell recuou -38.3%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/07/2026)?**
-Julián Alvarez (89, LALIGA EA SPORTS), com +56.2% em 24h, a 235k coins no Console (PS).
+Joe Cole (88, Premier League), com +56.8% em 24h, a 227k coins no Console (PS).
 
 **E a maior queda do dia?**
-Tyrick Mitchell (96), -34.4% em 24h, a 236k coins.
+Tyrick Mitchell (96), -38.3% em 24h, a 215k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está lateral — sem direção clara, com 269 cartas em alta contra 323 em queda (média 1.05%).
+Hoje o mercado está lateral — sem direção clara, com 253 cartas em alta contra 323 em queda (média 0.03%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
