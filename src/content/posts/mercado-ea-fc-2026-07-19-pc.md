@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T16:25:18.000Z
+pubDatetime: 2026-07-19T19:25:17.000Z
 title: "Mercado EA FC em 19/07: Cartas Meta — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 19/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/07/2026)?"
-    a: "Dominik Szoboszlai (94, sem liga), com +58.9% em 24h, a 150k coins no PC."
+    a: "Marcelo (89, Icons), com +57.9% em 24h, a 120k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Toni Kroos (90), -43.6% em 24h, a 141k coins."
+    a: "Rafael Leão (93), -49.3% em 24h, a 1.01M coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 241 cartas em alta contra 285 em queda (média 2.44%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 231 cartas em alta contra 272 em queda (média 2.65%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **19/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **241 subiram** e **285 caíram**, com variação média de **2.44%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **19/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **231 subiram** e **272 caíram**, com variação média de **2.65%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Dominik Szoboszlai (94) **+58.9%** · 🔴 **Maior baixa:** Toni Kroos (90) **-43.6%**
+> 🟢 **Maior alta:** Marcelo (89) **+57.9%** · 🔴 **Maior baixa:** Rafael Leão (93) **-49.3%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 19/07: Cartas Meta — PC](/charts/mercado-ea-fc-2026-07-19-pc.svg)
 
@@ -35,24 +35,24 @@ Em **19/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em alt
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 102.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 45.8% entre as cartas que se moveram; o universo observado reúne 650 cartas.
-- **Concentração:** Premier League aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 107.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 45.9% entre as cartas que se moveram; o universo observado reúne 634 cartas.
+- **Concentração:** Icons aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Dominik Szoboszlai | 94 | — | 150k coins | +58.9% | +42.7% |
-| Marcos Senesi | 88 | Premier League | 84k coins | +58.1% | +118.4% |
-| Alex Scott | 93 | — | 116k coins | +57.8% | +17.2% |
-| Kyle Walker | 89 | Premier League | 377k coins | +50.6% | +6.7% |
-| Roberto Baggio | 91 | Icons | 138k coins | +49.5% | +80.1% |
-| Moussa Sissoko | 88 | EFL Championship | 349k coins | +47.9% | +2.3% |
-| Declan Rice | 94 | Premier League | 225k coins | +45% | +51% |
-| Tim Cahill | 89 | Premier League | 108k coins | +45% | -28.9% |
-| Nuno Mendes | 97 | Ligue 1 McDonald's | 2.60M coins | +44.4% | -10.1% |
-| Francesco Totti | 89 | Icons | 235k coins | +44.2% | +37.4% |
+| Marcelo | 89 | Icons | 120k coins | +57.9% | +20% |
+| Laurent Blanc | 88 | Icons | 105k coins | +57.9% | +22.8% |
+| Lúcio | 89 | Serie A TIM | 109k coins | +54.6% | +24.6% |
+| Declan Rice | 89 | Premier League | 106k coins | +54% | +42.7% |
+| Dominik Szoboszlai | 94 | — | 133k coins | +53.9% | +37% |
+| Francesco Totti | 89 | Icons | 250k coins | +48.8% | +46.2% |
+| Sócrates | 89 | Icons | 139k coins | +47.4% | +7.7% |
+| Victor Osimhen | 88 | Trendyol Süper Lig | 120k coins | +46.3% | +62.2% |
+| De Gea | 89 | Serie A TIM | 190k coins | +46.2% | +35.7% |
+| Nuno Mendes | 97 | Ligue 1 McDonald's | 2.60M coins | +44.4% | -9.8% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **19/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em alt
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Dominik Szoboszlai (94)** subiu **+58.9%** em 24h, a **150k coins** (faixa do dia: 79k–150k). Está +31% acima da média de 7 dias (aquecida).
+- **Marcelo (89)** subiu **+57.9%** em 24h, a **120k coins** (faixa do dia: 76k–140k). Está +15% acima da média de 7 dias (aquecida).
 
-- **Marcos Senesi (88)** subiu **+58.1%** em 24h, a **84k coins** (faixa do dia: 47k–85k). Está +22% acima da média de 7 dias (aquecida).
+- **Laurent Blanc (88)** subiu **+57.9%** em 24h, a **105k coins** (faixa do dia: 89k–110k). Está em linha com a média de 7 dias (-4%).
 
-- **Alex Scott (93)** subiu **+57.8%** em 24h, a **116k coins** (faixa do dia: 74k–140k). Está em linha com a média de 7 dias (+7%).
+- **Lúcio (89)** subiu **+54.6%** em 24h, a **109k coins** (faixa do dia: 64k–109k). Está +18% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Toni Kroos | 90 | Icons | 141k coins | -43.6% | +19.5% |
-| Raphinha | 91 | LALIGA EA SPORTS | 84k coins | -36.9% | -29.6% |
-| Malik Tillman | 88 | Bundesliga | 107k coins | -35.9% | -47.8% |
-| Julián Alvarez | 88 | LALIGA EA SPORTS | 130k coins | -35% | -35% |
-| Ollie Watkins | 96 | — | 250k coins | -33.7% | -38.1% |
-| Yeremy Pino | 96 | — | 281k coins | -30.8% | -38.1% |
-| Raphinha | 90 | LALIGA EA SPORTS | 88k coins | -30.8% | -7.7% |
-| Juan Román Riquelme | 88 | Icons | 86k coins | -30% | +31.6% |
-| Ewa Pajor | 96 | Liga F | 320k coins | -29.6% | -12.9% |
-| Deniz Undav | 95 | — | 130k coins | -29.3% | -23.5% |
+| Rafael Leão | 93 | Serie A TIM | 1.01M coins | -49.3% | -32.4% |
+| Jude Bellingham | 96 | — | 1.68M coins | -35.3% | -63.6% |
+| Carlos Alberto | 91 | Icons | 143k coins | -34.9% | +1.3% |
+| Marco van Basten | 94 | — | 95k coins | -32.1% | -29.6% |
+| Salma Paralluelo | 96 | — | 3.20M coins | -28.9% | +10.3% |
+| Bradley Barcola | 96 | — | 658k coins | -28.7% | -53.1% |
+| Deniz Undav | 91 | Bundesliga | 98k coins | -28.5% | -2.1% |
+| Jaydee Canvot | 96 | — | 195k coins | -27.9% | -62.1% |
+| Alessia Russo | 97 | Barclays WSL | 235k coins | -26.3% | -32.7% |
+| Emiliano Martínez | 96 | — | 394k coins | -25.7% | +19.3% |
 
 
 ### Análise das baixas
 
-- **Toni Kroos (90)** caiu **-43.6%** em 24h, a **141k coins** (faixa do dia: 101k–180k). Está +21% acima da média de 7 dias (aquecida).
+- **Rafael Leão (93)** caiu **-49.3%** em 24h, a **1.01M coins** (faixa do dia: 1M–2M). Está -36% abaixo da média de 7 dias (descontada).
 
-- **Raphinha (91)** caiu **-36.9%** em 24h, a **84k coins** (faixa do dia: 82k–134k). Está -34% abaixo da média de 7 dias (descontada).
+- **Jude Bellingham (96)** caiu **-35.3%** em 24h, a **1.68M coins** (faixa do dia: 1.68M–2.78M). Está -55% abaixo da média de 7 dias (descontada).
 
-- **Malik Tillman (88)** caiu **-35.9%** em 24h, a **107k coins** (faixa do dia: 107k–167k). Está -37% abaixo da média de 7 dias (descontada).
+- **Carlos Alberto (91)** caiu **-34.9%** em 24h, a **143k coins** (faixa do dia: 140k–255k). Está -22% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Dominik Szoboszlai já avançou 58.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Marcelo já avançou 57.9% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Toni Kroos recuou -43.6%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Rafael Leão recuou -49.3%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/07/2026)?**
-Dominik Szoboszlai (94, sem liga), com +58.9% em 24h, a 150k coins no PC.
+Marcelo (89, Icons), com +57.9% em 24h, a 120k coins no PC.
 
 **E a maior queda do dia?**
-Toni Kroos (90), -43.6% em 24h, a 141k coins.
+Rafael Leão (93), -49.3% em 24h, a 1.01M coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 241 cartas em alta contra 285 em queda (média 2.44%).
+Hoje o mercado está em alta — predominam as valorizações, com 231 cartas em alta contra 272 em queda (média 2.65%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
