@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T13:25:18.000Z
+pubDatetime: 2026-07-19T16:25:20.000Z
 title: "Investimentos EA FC: Cartas Meta em 19/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 19/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (19/07/2026) no EA FC?"
-    a: "Selina Cerci (90, GPFBL) lidera, com +86% em 7 dias a 80k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Dennis Bergkamp (90, Icons) lidera, com +75% em 7 dias a 110k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **19/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Selina Cerci (90) acumula **+86% em 7 dias** a 80k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Dennis Bergkamp (90) acumula **+75% em 7 dias** a 110k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas Meta em 19/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-19-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **19/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+21.8% em 24h** e **+78.8% em 7 dias**.
-- **14 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+22.1% em 24h** e **+66.7% em 7 dias**.
+- **11 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Selina Cerci | 90 | GPFBL | 80k coins | +1.9% | +86% | Esticada |
-| Ryan Gravenberch | 93 | Premier League | 234k coins | +11.4% | +85.7% | Esticada |
-| Hugo Sánchez | 89 | Icons | 189k coins | +27.3% | +85.4% | Esticada |
-| Charles De Ketelaere | 88 | Serie A TIM | 103k coins | +20% | +84.2% | Esticada |
-| Dennis Bergkamp | 90 | Icons | 122k coins | +24% | +82.4% | Esticada |
-| Xavi | 91 | Icons | 179k coins | +21.8% | +80.8% | Esticada |
-| Ivan Perišić | 90 | Eredivisie | 85k coins | +23.2% | +78.9% | Esticada |
-| Declan Rice | 89 | Premier League | 112k coins | +24.2% | +78.8% | Esticada |
-| Gerd Müller | 92 | Icons | 125k coins | +29.2% | +78.4% | Esticada |
-| Troy Parrott | 91 | — | 80k coins | +21.2% | +77.8% | Esticada |
-| Selma Bacha | 94 | — | 80k coins | +32.2% | +73% | Esticada |
-| Harry Kane | 90 | Bundesliga | 242k coins | +13.6% | +72.9% | Esticada |
+| Dennis Bergkamp | 90 | Icons | 110k coins | +22.1% | +75% | Esticada |
+| Hugo Sánchez | 89 | Icons | 174k coins | +28.8% | +73.8% | Esticada |
+| Harry Kane | 90 | Bundesliga | 210k coins | +29.7% | +71.4% | Esticada |
+| Mapi León | 91 | — | 80k coins | +29% | +71.1% | Esticada |
+| Eric Cantona | 89 | Icons | 200k coins | +3.6% | +70.9% | Esticada |
+| Xavi | 91 | Icons | 164k coins | +35.2% | +70.7% | Esticada |
+| Charles De Ketelaere | 88 | Serie A TIM | 101k coins | +15.4% | +68.3% | Esticada |
 | Raphinha | 90 | LALIGA EA SPORTS | 250k coins | +1.6% | +66.7% | Esticada |
-| George Best | 90 | Icons | 232k coins | +6.3% | +58.8% | Momentum moderado |
-| Nicolas Pépé | 95 | — | 172k coins | +35.4% | +57.8% | Esticada |
+| Gerd Müller | 92 | Icons | 106k coins | +22.5% | +56.8% | Esticada |
+| George Best | 90 | Icons | 221k coins | +6.6% | +52% | Momentum moderado |
+| Josip Stanišić | 95 | — | 95k coins | +9.7% | +50.8% | Momentum moderado |
+| Declan Rice | 89 | Premier League | 109k coins | +22.5% | +47.3% | Esticada |
+| Selina Cerci | 95 | — | 126k coins | +18.9% | +42.4% | Momentum moderado |
+| Pedro Neto | 88 | Premier League | 96k coins | +10.6% | +41.9% | Momentum moderado |
+| Nicolas Pépé | 95 | — | 140k coins | +23% | +40.9% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Selina Cerci (90)** — 80k coins, **+86% em 7 dias** (+1.9% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Dennis Bergkamp (90)** — 110k coins, **+75% em 7 dias** (+22.1% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ryan Gravenberch (93)** — 234k coins, **+85.7% em 7 dias** (+11.4% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Hugo Sánchez (89)** — 174k coins, **+73.8% em 7 dias** (+28.8% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Hugo Sánchez (89)** — 189k coins, **+85.4% em 7 dias** (+27.3% em 24h). Preço +47% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Harry Kane (90)** — 210k coins, **+71.4% em 7 dias** (+29.7% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Charles De Ketelaere (88)** — 103k coins, **+84.2% em 7 dias** (+20% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mapi León (91)** — 80k coins, **+71.1% em 7 dias** (+29% em 24h). Preço +44% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Dennis Bergkamp (90)** — 122k coins, **+82.4% em 7 dias** (+24% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Eric Cantona (89)** — 200k coins, **+70.9% em 7 dias** (+3.6% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (19/07/2026) no EA FC?**  
-Selina Cerci (90, GPFBL) lidera, com +86% em 7 dias a 80k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Dennis Bergkamp (90, Icons) lidera, com +75% em 7 dias a 110k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

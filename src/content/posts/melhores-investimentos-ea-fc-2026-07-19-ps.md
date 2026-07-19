@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T13:25:08.000Z
+pubDatetime: 2026-07-19T16:25:09.000Z
 title: "Investimentos EA FC: Cartas Meta em 19/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 19/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (19/07/2026) no EA FC?"
-    a: "Jobe Bellingham (89, Bundesliga) lidera, com +81.8% em 7 dias a 230k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Henrik Larsson (88, Icons) lidera, com +86.9% em 7 dias a 185k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **19/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Jobe Bellingham (89) acumula **+81.8% em 7 dias** a 230k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Henrik Larsson (88) acumula **+86.9% em 7 dias** a 185k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas Meta em 19/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-19-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **19/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+9.1% em 24h** e **+63.0% em 7 dias**.
-- **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+9.4% em 24h** e **+54.7% em 7 dias**.
+- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 8 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Jobe Bellingham | 89 | Bundesliga | 230k coins | +11.6% | +81.8% | Esticada |
-| Rodri | 92 | Premier League | 229k coins | +7% | +79.7% | Esticada |
-| Steffi Jones | 91 | Icons | 82k coins | +18% | +76.3% | Esticada |
-| Ewa Pajor | 89 | Liga F | 215k coins | +9.1% | +75.6% | Esticada |
-| James Milner | 88 | Premier League | 132k coins | +22% | +74.3% | Esticada |
-| Jari Litmanen | 90 | Eredivisie | 98k coins | +1.9% | +64.3% | Esticada |
-| Debinha | 89 | NWSL | 140k coins | +40% | +63.7% | Esticada |
-| Sadio Mané | 88 | ROSHN Saudi League | 163k coins | +8.7% | +63% | Esticada |
-| Paulo Futre | 89 | LALIGA EA SPORTS | 244k coins | +8.4% | +58.4% | Momentum moderado |
-| Julián Alvarez | 88 | LALIGA EA SPORTS | 146k coins | +1.4% | +55.8% | Momentum moderado |
-| Cha Bum Kun | 88 | Icons | 150k coins | +3.9% | +54.9% | Momentum moderado |
-| Eric Cantona | 89 | Icons | 126k coins | +22.5% | +54.3% | Esticada |
-| Julián Alvarez | 88 | LALIGA EA SPORTS | 83k coins | +38.2% | +53.4% | Esticada |
-| Federico Valverde | 89 | LALIGA EA SPORTS | 208k coins | +1.4% | +52.4% | Momentum moderado |
-| Geoff Hurst | 90 | Icons | 100k coins | +13% | +50.7% | Momentum moderado |
+| Henrik Larsson | 88 | Icons | 185k coins | +9.4% | +86.9% | Esticada |
+| Raúl | 90 | Icons | 150k coins | +9.7% | +73.6% | Esticada |
+| Rodri | 92 | Premier League | 230k coins | +9.5% | +72.9% | Esticada |
+| Julián Alvarez | 88 | LALIGA EA SPORTS | 169k coins | +3.3% | +64.2% | Esticada |
+| Ewa Pajor | 89 | Liga F | 208k coins | +19.4% | +57.1% | Momentum moderado |
+| Ronald Koeman | 91 | Icons | 117k coins | +5.3% | +56.7% | Momentum moderado |
+| Xavi | 92 | Icons | 209k coins | +27.9% | +56% | Esticada |
+| Carlos Alberto | 91 | Icons | 139k coins | +1.4% | +54.7% | Momentum moderado |
+| Cha Bum Kun | 88 | Icons | 154k coins | +2.7% | +54% | Momentum moderado |
+| João Moutinho | 88 | Liga Portugal | 163k coins | +2% | +53% | Momentum moderado |
+| Khadija Shaw | 90 | Barclays WSL | 181k coins | +12.3% | +51.2% | Momentum moderado |
+| Federico Valverde | 89 | LALIGA EA SPORTS | 208k coins | +4.8% | +50.7% | Momentum moderado |
+| Khadija Shaw | 91 | — | 94k coins | +17.1% | +48.7% | Momentum moderado |
+| Hristo Stoichkov | 89 | Icons | 108k coins | +36.6% | +43.5% | Esticada |
+| Roberto Baggio | 91 | Icons | 98k coins | +5.9% | +42.8% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Jobe Bellingham (89)** — 230k coins, **+81.8% em 7 dias** (+11.6% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Henrik Larsson (88)** — 185k coins, **+86.9% em 7 dias** (+9.4% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rodri (92)** — 229k coins, **+79.7% em 7 dias** (+7% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Raúl (90)** — 150k coins, **+73.6% em 7 dias** (+9.7% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Steffi Jones (91)** — 82k coins, **+76.3% em 7 dias** (+18% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rodri (92)** — 230k coins, **+72.9% em 7 dias** (+9.5% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ewa Pajor (89)** — 215k coins, **+75.6% em 7 dias** (+9.1% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Julián Alvarez (88)** — 169k coins, **+64.2% em 7 dias** (+3.3% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **James Milner (88)** — 132k coins, **+74.3% em 7 dias** (+22% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ewa Pajor (89)** — 208k coins, **+57.1% em 7 dias** (+19.4% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (19/07/2026) no EA FC?**  
-Jobe Bellingham (89, Bundesliga) lidera, com +81.8% em 7 dias a 230k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Henrik Larsson (88, Icons) lidera, com +86.9% em 7 dias a 185k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
