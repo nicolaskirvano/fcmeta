@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T10:25:07.000Z
+pubDatetime: 2026-07-20T13:25:07.000Z
 title: "Mercado EA FC em 20/07: Cartas Meta — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 20/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/07/2026)?"
-    a: "Marinette Pichon (90, Icons), com +54.5% em 24h, a 85k coins no Console (PS)."
+    a: "Jari Litmanen (90, Eredivisie), com +59.5% em 24h, a 116k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Emiliano Martínez (96), -42.7% em 24h, a 147k coins."
+    a: "Emiliano Martínez (96), -48.7% em 24h, a 153k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 254 cartas em alta contra 327 em queda (média -0.47%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 225 cartas em alta contra 339 em queda (média -0.81%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Panorama de **20/07/2026** (Console (PS)): mercado **de lado** — altas e quedas se equilibram. Entre as cartas relevantes (80+ e acima de 5k coins), foram **254 em alta** e **327 em queda**, média de **-0.47%** no dia. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Panorama de **20/07/2026** (Console (PS)): clima **vendedor** — a maioria das cartas recuou. Entre as cartas relevantes (80+ e acima de 5k coins), foram **225 em alta** e **339 em queda**, média de **-0.81%** no dia. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Marinette Pichon (90) **+54.5%** · 🔴 **Maior baixa:** Emiliano Martínez (96) **-42.7%**
+> 🟢 **Maior alta:** Jari Litmanen (90) **+59.5%** · 🔴 **Maior baixa:** Emiliano Martínez (96) **-48.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 20/07: Cartas Meta — Console (PS)](/charts/mercado-ea-fc-2026-07-20-ps.svg)
 
@@ -35,24 +35,24 @@ Panorama de **20/07/2026** (Console (PS)): mercado **de lado** — altas e queda
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 97.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 43.7% entre as cartas que se moveram; o universo observado reúne 599 cartas.
-- **Concentração:** Icons aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 108.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 39.9% entre as cartas que se moveram; o universo observado reúne 609 cartas.
+- **Concentração:** Premier League aparece em 2 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Marinette Pichon | 90 | Icons | 85k coins | +54.5% | +104.8% |
-| Mallory Swanson | 88 | NWSL | 142k coins | +48.2% | — |
-| Aurélien Tchouaméni | 92 | — | 172k coins | +47.9% | -43.2% |
-| Alexander Sørloth | 89 | LALIGA EA SPORTS | 134k coins | +45.5% | +25.9% |
-| Charles De Ketelaere | 88 | Serie A TIM | 153k coins | +44% | +101.3% |
-| Cora Zicai | 88 | GPFBL | 126k coins | +41.3% | +65.6% |
-| Nico Williams | 89 | LALIGA EA SPORTS | 164k coins | +40.3% | +36.9% |
-| Steven Gerrard | 88 | Icons | 147k coins | +40% | +47.7% |
-| Willian Pacho | 96 | — | 394k coins | +38.7% | -1.3% |
-| Ronald Koeman | 91 | Icons | 136k coins | +38.7% | +89% |
+| Jari Litmanen | 90 | Eredivisie | 116k coins | +59.5% | +18% |
+| Deniz Undav | 91 | Bundesliga | 102k coins | +56.1% | +13.4% |
+| Carlos Tévez | 89 | Premier League | 399k coins | +47.1% | -4.1% |
+| Darwin Núñez | 90 | ROSHN Saudi League | 98k coins | +46.6% | +21% |
+| Azzedine Ounahi | 95 | — | 447k coins | +40.5% | +24% |
+| Mallory Swanson | 88 | NWSL | 128k coins | +38.5% | — |
+| Willian Pacho | 96 | — | 370k coins | +38% | -4.8% |
+| Steven Gerrard | 88 | Icons | 146k coins | +37.9% | +43.4% |
+| Kenan Yıldız | 88 | Serie A TIM | 194k coins | +37.1% | +4.8% |
+| Nico Schlotterbeck | 96 | — | 157k coins | +36.8% | -8.2% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Panorama de **20/07/2026** (Console (PS)): mercado **de lado** — altas e queda
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Marinette Pichon (90)** subiu **+54.5%** em 24h, a **85k coins** (faixa do dia: 55k–85k). Está +31% acima da média de 7 dias (aquecida).
+- **Jari Litmanen (90)** subiu **+59.5%** em 24h, a **116k coins** (faixa do dia: 72k–149k). Está em linha com a média de 7 dias (+3%).
 
-- **Mallory Swanson (88)** subiu **+48.2%** em 24h, a **142k coins** (faixa do dia: 81k–170k). Está +68% acima da média de 7 dias (aquecida).
+- **Deniz Undav (91)** subiu **+56.1%** em 24h, a **102k coins** (faixa do dia: 61k–145k). Está -11% abaixo da média de 7 dias (descontada).
 
-- **Aurélien Tchouaméni (92)** subiu **+47.9%** em 24h, a **172k coins** (faixa do dia: 112k–249k). Está -23% abaixo da média de 7 dias (descontada).
+- **Carlos Tévez (89)** subiu **+47.1%** em 24h, a **399k coins** (faixa do dia: 257k–400k). Está em linha com a média de 7 dias (+6%).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Emiliano Martínez | 96 | — | 147k coins | -42.7% | -23.3% |
-| Richard Ríos | 88 | Liga Portugal | 144k coins | -40.6% | -36.8% |
-| Lucas Digne | 96 | — | 88k coins | -40.1% | -83.6% |
-| Jamal Musiala | 89 | Bundesliga | 200k coins | -33.1% | -23.7% |
-| David Ginola | 90 | Ligue 1 McDonald's | 3.70M coins | -32.6% | +5.7% |
-| Marcelo | 96 | — | 88k coins | -32.5% | -27.5% |
-| Harry Kewell | 91 | Premier League | 444k coins | -30.7% | -7% |
-| Eric Cantona | 92 | — | 105k coins | -30.2% | -1% |
-| Nico O'Reilly | 96 | — | 91k coins | -30.2% | -17.2% |
-| Alyssa Thompson | 91 | Barclays WSL | 141k coins | -30% | +23.9% |
+| Emiliano Martínez | 96 | — | 153k coins | -48.7% | -24.4% |
+| Lucas Digne | 96 | — | 82k coins | -43.3% | -58.3% |
+| Mario Lemina | 89 | Trendyol Süper Lig | 102k coins | -40.4% | +18.4% |
+| Erling Haaland | 91 | Premier League | 240k coins | -33.7% | +32.7% |
+| Emily van Egmond | 88 | Barclays WSL | 85k coins | -32.7% | -20.4% |
+| Lucas Digne | 96 | — | 85k coins | -32% | -81.1% |
+| Piero Hincapié | 96 | — | 92k coins | -28.1% | -38.7% |
+| Nico O'Reilly | 96 | — | 98k coins | -27% | -11% |
+| Cristiano Ronaldo | 89 | ROSHN Saudi League | 1.19M coins | -26.8% | -11.9% |
+| Franco Baresi | 92 | Icons | 229k coins | -25.6% | +2.7% |
 
 
 ### Análise das baixas
 
-- **Emiliano Martínez (96)** caiu **-42.7%** em 24h, a **147k coins** (faixa do dia: 114k–288k). Está -33% abaixo da média de 7 dias (descontada).
+- **Emiliano Martínez (96)** caiu **-48.7%** em 24h, a **153k coins** (faixa do dia: 114k–288k). Está -30% abaixo da média de 7 dias (descontada).
 
-- **Richard Ríos (88)** caiu **-40.6%** em 24h, a **144k coins** (faixa do dia: 139k–234k). Está -30% abaixo da média de 7 dias (descontada).
+- **Lucas Digne (96)** caiu **-43.3%** em 24h, a **82k coins** (faixa do dia: 60k–120k). Está -34% abaixo da média de 7 dias (descontada).
 
-- **Lucas Digne (96)** caiu **-40.1%** em 24h, a **88k coins** (faixa do dia: 82k–148k). Está -58% abaixo da média de 7 dias (descontada).
+- **Mario Lemina (89)** caiu **-40.4%** em 24h, a **102k coins** (faixa do dia: 100k–157k). Está +15% acima da média de 7 dias (aquecida).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Marinette Pichon já avançou 54.5% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Jari Litmanen já avançou 59.5% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Emiliano Martínez recuou -42.7%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Emiliano Martínez recuou -48.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/07/2026)?**
-Marinette Pichon (90, Icons), com +54.5% em 24h, a 85k coins no Console (PS).
+Jari Litmanen (90, Eredivisie), com +59.5% em 24h, a 116k coins no Console (PS).
 
 **E a maior queda do dia?**
-Emiliano Martínez (96), -42.7% em 24h, a 147k coins.
+Emiliano Martínez (96), -48.7% em 24h, a 153k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está de lado — altas e quedas se equilibram, com 254 cartas em alta contra 327 em queda (média -0.47%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 225 cartas em alta contra 339 em queda (média -0.81%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

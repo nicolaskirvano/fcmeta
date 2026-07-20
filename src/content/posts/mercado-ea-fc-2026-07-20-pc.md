@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T10:25:17.000Z
+pubDatetime: 2026-07-20T13:25:17.000Z
 title: "Mercado EA FC em 20/07: Cartas Meta — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 20/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/07/2026)?"
-    a: "Chloe Kelly (88, Barclays WSL), com +57.1% em 24h, a 110k coins no PC."
+    a: "Clara Mateo (92, D1 Arkema), com +60% em 24h, a 310k coins no PC."
   - q: "E a maior queda do dia?"
     a: "Rafael Leão (93), -49.1% em 24h, a 1.01M coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 239 cartas em alta contra 283 em queda (média 1.66%)."
+    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 232 cartas em alta contra 292 em queda (média 0.78%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Panorama de **20/07/2026** (PC): clima **comprador** — a maioria das cartas subiu. Entre as cartas relevantes (80+ e acima de 5k coins), foram **239 em alta** e **283 em queda**, média de **1.66%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **20/07/2026** (PC): mercado **de lado** — altas e quedas se equilibram. Entre as cartas relevantes (80+ e acima de 5k coins), foram **232 em alta** e **292 em queda**, média de **0.78%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Chloe Kelly (88) **+57.1%** · 🔴 **Maior baixa:** Rafael Leão (93) **-49.1%**
+> 🟢 **Maior alta:** Clara Mateo (92) **+60%** · 🔴 **Maior baixa:** Rafael Leão (93) **-49.1%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 20/07: Cartas Meta — PC](/charts/mercado-ea-fc-2026-07-20-pc.svg)
 
@@ -35,24 +35,24 @@ Panorama de **20/07/2026** (PC): clima **comprador** — a maioria das cartas su
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 106.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 45.8% entre as cartas que se moveram; o universo observado reúne 645 cartas.
-- **Concentração:** Barclays WSL aparece em 2 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 109.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 44.3% entre as cartas que se moveram; o universo observado reúne 636 cartas.
+- **Concentração:** Icons aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Chloe Kelly | 88 | Barclays WSL | 110k coins | +57.1% | +29.4% |
-| Karim Benzema | 88 | ROSHN Saudi League | 158k coins | +57% | +69.7% |
-| Marcelo | 95 | — | 660k coins | +53.1% | +10% |
-| Marcos Acuña | 89 | LPF | 130k coins | +52.9% | +38.3% |
+| Clara Mateo | 92 | D1 Arkema | 310k coins | +60% | +60% |
+| Marcelo | 95 | — | 660k coins | +59% | +32% |
+| Emilio Butragueño | 90 | — | 82k coins | +58.3% | +24.2% |
+| Jonathan David | 95 | — | 194k coins | +57.3% | -11.4% |
+| Andrea Pirlo | 91 | Icons | 1.10M coins | +57.1% | +27.3% |
+| Marcos Acuña | 89 | LPF | 130k coins | +55.7% | +36.8% |
+| Jonathan Tah | 95 | — | 122k coins | +54.1% | +3.7% |
+| Antonio Di Natale | 88 | Serie A TIM | 90k coins | +53.8% | +25% |
+| Lucy Bronze | 95 | Barclays WSL | 154k coins | +53.6% | -12.4% |
 | Harry Maguire | 90 | Premier League | 272k coins | +52.8% | +7.1% |
-| Mariona | 96 | Barclays WSL | 290k coins | +52.5% | +72.8% |
-| Christian Pulisic | 96 | — | 197k coins | +52.3% | +21.5% |
-| Bastian Schweinsteiger | 88 | Icons | 168k coins | +51.4% | +90.9% |
-| Sadio Mané | 88 | ROSHN Saudi League | 190k coins | +49.6% | +15.2% |
-| Jens Petter Hauge | 88 | Eliteserien | 111k coins | +48% | +37.9% |
 
 
 ### Análise das altas
@@ -61,11 +61,11 @@ Panorama de **20/07/2026** (PC): clima **comprador** — a maioria das cartas su
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Chloe Kelly (88)** subiu **+57.1%** em 24h, a **110k coins** (faixa do dia: 64k–110k). Está +21% acima da média de 7 dias (aquecida).
+- **Clara Mateo (92)** subiu **+60%** em 24h, a **310k coins** (faixa do dia: 250k–400k). Está em linha com a média de 7 dias (+7%).
 
-- **Karim Benzema (88)** subiu **+57%** em 24h, a **158k coins** (faixa do dia: 100k–160k). Está +26% acima da média de 7 dias (aquecida).
+- **Marcelo (95)** subiu **+59%** em 24h, a **660k coins** (faixa do dia: 397k–660k). Está +12% acima da média de 7 dias (aquecida).
 
-- **Marcelo (95)** subiu **+53.1%** em 24h, a **660k coins** (faixa do dia: 397k–660k). Está +12% acima da média de 7 dias (aquecida).
+- **Emilio Butragueño (90)** subiu **+58.3%** em 24h, a **82k coins** (faixa do dia: 57k–95k). Está em linha com a média de 7 dias (+2%).
 
 
 ## 🔴 Maiores baixas (24h)
@@ -73,29 +73,29 @@ Panorama de **20/07/2026** (PC): clima **comprador** — a maioria das cartas su
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Rafael Leão | 93 | Serie A TIM | 1.01M coins | -49.1% | -30.1% |
+| Julian Araujo | 89 | Scottish Premiership | 110k coins | -48.4% | -26.7% |
+| Emilio Butragueño | 89 | Icons | 82k coins | -47.8% | -7.2% |
 | Erling Haaland | 91 | Premier League | 176k coins | -45.8% | -20% |
+| Willian Pacho | 96 | — | 275k coins | -45% | -29.1% |
 | Federico Valverde | 89 | LALIGA EA SPORTS | 222k coins | -43.1% | -14.9% |
-| Nahuel Molina | 91 | — | 80k coins | -42.5% | -11% |
-| Sócrates | 89 | Icons | 94k coins | -42.1% | -31.8% |
-| Illia Zabarnyi | 96 | — | 243k coins | -39.9% | 0% |
-| Vanessa Fudalla | 96 | — | 104k coins | -38.2% | -21.5% |
-| Alexander Sørloth | 89 | LALIGA EA SPORTS | 131k coins | -35.3% | -31.2% |
-| Taylor Flint | 88 | NWSL | 130k coins | -35% | -31.9% |
-| Ian Maatsen | 96 | — | 200k coins | -34.9% | -24.4% |
+| Vitinha | 96 | — | 7.10M coins | -41.8% | +7.6% |
+| Sócrates | 89 | Icons | 90k coins | -41.8% | -29.2% |
+| Virgil van Dijk | 95 | Premier League | 1.13M coins | -36.9% | -35.2% |
+| Mario Lemina | 89 | Trendyol Süper Lig | 121k coins | -36.3% | -24.4% |
 
 
 ### Análise das baixas
 
 - **Rafael Leão (93)** caiu **-49.1%** em 24h, a **1.01M coins** (faixa do dia: 1.01M–1.99M). Está -34% abaixo da média de 7 dias (descontada).
 
-- **Erling Haaland (91)** caiu **-45.8%** em 24h, a **176k coins** (faixa do dia: 176k–380k). Está -43% abaixo da média de 7 dias (descontada).
+- **Julian Araujo (89)** caiu **-48.4%** em 24h, a **110k coins** (faixa do dia: 110k–220k). Está -36% abaixo da média de 7 dias (descontada).
 
-- **Federico Valverde (89)** caiu **-43.1%** em 24h, a **222k coins** (faixa do dia: 222k–390k). Está -37% abaixo da média de 7 dias (descontada).
+- **Emilio Butragueño (89)** caiu **-47.8%** em 24h, a **82k coins** (faixa do dia: 75k–161k). Está -30% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Chloe Kelly já avançou 57.1% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Clara Mateo já avançou 60% em 24h; espere nova cotação antes de entrar.
 
 - **Queda não é compra automática:** Rafael Leão recuou -49.1%; confirme estabilização e liquidez.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/07/2026)?**
-Chloe Kelly (88, Barclays WSL), com +57.1% em 24h, a 110k coins no PC.
+Clara Mateo (92, D1 Arkema), com +60% em 24h, a 310k coins no PC.
 
 **E a maior queda do dia?**
 Rafael Leão (93), -49.1% em 24h, a 1.01M coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 239 cartas em alta contra 283 em queda (média 1.66%).
+Hoje o mercado está de lado — altas e quedas se equilibram, com 232 cartas em alta contra 292 em queda (média 0.78%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
