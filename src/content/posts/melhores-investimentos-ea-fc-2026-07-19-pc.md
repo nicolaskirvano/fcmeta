@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T22:25:18.000Z
+pubDatetime: 2026-07-20T01:25:18.000Z
 title: "Investimentos EA FC: Cartas Meta em 19/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 19/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (19/07/2026) no EA FC?"
-    a: "Marcos Senesi (88, Premier League) lidera, com +88.9% em 7 dias a 85k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Issa Diop (95, sem liga) lidera, com +88.9% em 7 dias a 170k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **19/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Marcos Senesi (88) acumula **+88.9% em 7 dias** a 85k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Issa Diop (95) acumula **+88.9% em 7 dias** a 170k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas Meta em 19/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-19-pc.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **19/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+15.4% em 24h** e **+52.5% em 7 dias**.
-- **11 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+9.6% em 24h** e **+58.5% em 7 dias**.
+- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Icons** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Marcos Senesi | 88 | Premier League | 85k coins | +25.9% | +88.9% | Esticada |
-| Eric Cantona | 89 | Icons | 190k coins | +7.5% | +68.1% | Esticada |
-| Marta | 90 | NWSL | 80k coins | +21.8% | +67.8% | Esticada |
-| Raphinha | 90 | LALIGA EA SPORTS | 250k coins | +8.2% | +66.7% | Esticada |
-| Lucy Bronze | 88 | Barclays WSL | 229k coins | +5.5% | +65.9% | Esticada |
-| Juan Mata | 88 | A-League | 93k coins | +29.3% | +63.8% | Esticada |
+| Issa Diop | 95 | — | 170k coins | +3% | +88.9% | Esticada |
+| Khadija Shaw | 91 | Barclays WSL | 150k coins | +29.3% | +87.5% | Esticada |
+| Ryan Gravenberch | 93 | Premier League | 241k coins | +1.3% | +84% | Esticada |
+| Paulo Dybala | 88 | Serie A TIM | 189k coins | +2.2% | +71.8% | Esticada |
+| Lucy Bronze | 88 | Barclays WSL | 229k coins | +7% | +65.9% | Esticada |
 | Victor Osimhen | 88 | Trendyol Süper Lig | 120k coins | +10.1% | +62.2% | Esticada |
-| Maya Le Tissier | 88 | Barclays WSL | 88k coins | +2.3% | +52.5% | Momentum moderado |
-| Cody Gakpo | 89 | Premier League | 240k coins | +3% | +51.9% | Momentum moderado |
-| Harry Kane | 90 | Bundesliga | 203k coins | +33.3% | +45.7% | Esticada |
-| Viktor Gyökeres | 88 | — | 86k coins | +35.9% | +45% | Esticada |
-| Emilio Butragueño | 89 | Icons | 123k coins | +33.7% | +43.7% | Esticada |
-| Nikola Katić | 90 | — | 142k coins | +15.4% | +43.4% | Momentum moderado |
-| Nico Paz | 90 | Serie A TIM | 95k coins | +6.7% | +40.7% | Momentum moderado |
-| Steven Gerrard | 89 | Icons | 140k coins | +32.1% | +40% | Esticada |
+| Nikola Katić | 90 | — | 150k coins | +22% | +60.4% | Esticada |
+| Julian Ryerson | 93 | — | 106k coins | +9.6% | +58.5% | Momentum moderado |
+| Raúl | 90 | Icons | 160k coins | +25% | +58.4% | Esticada |
+| Lautaro Martínez | 90 | Serie A TIM | 139k coins | +3.7% | +57.1% | Momentum moderado |
+| Xavi | 91 | Icons | 159k coins | +17.6% | +56.9% | Momentum moderado |
+| Bastian Schweinsteiger | 88 | Icons | 108k coins | +10.5% | +52.6% | Momentum moderado |
+| Cody Gakpo | 89 | Premier League | 240k coins | +3.9% | +51.9% | Momentum moderado |
+| Alexander Sørloth | 92 | — | 95k coins | +4% | +50.8% | Momentum moderado |
+| Juan Mata | 88 | A-League | 87k coins | +25.4% | +48.3% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Marcos Senesi (88)** — 85k coins, **+88.9% em 7 dias** (+25.9% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Issa Diop (95)** — 170k coins, **+88.9% em 7 dias** (+3% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Eric Cantona (89)** — 190k coins, **+68.1% em 7 dias** (+7.5% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Khadija Shaw (91)** — 150k coins, **+87.5% em 7 dias** (+29.3% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marta (90)** — 80k coins, **+67.8% em 7 dias** (+21.8% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ryan Gravenberch (93)** — 241k coins, **+84% em 7 dias** (+1.3% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Raphinha (90)** — 250k coins, **+66.7% em 7 dias** (+8.2% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Paulo Dybala (88)** — 189k coins, **+71.8% em 7 dias** (+2.2% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lucy Bronze (88)** — 229k coins, **+65.9% em 7 dias** (+5.5% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lucy Bronze (88)** — 229k coins, **+65.9% em 7 dias** (+7% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (19/07/2026) no EA FC?**  
-Marcos Senesi (88, Premier League) lidera, com +88.9% em 7 dias a 85k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Issa Diop (95, sem liga) lidera, com +88.9% em 7 dias a 170k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

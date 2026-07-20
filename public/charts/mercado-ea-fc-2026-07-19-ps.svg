@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Joe Cole</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+56.8%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Cesc Fàbregas</text>
-<rect x="285" y="153" width="472" height="28" rx="7" fill="#22c55e"/>
-<text x="767" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+55.9%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Antoine Griezmann</text>
-<rect x="285" y="211" width="443" height="28" rx="7" fill="#22c55e"/>
-<text x="738" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+52.4%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jamal Musiala</text>
-<rect x="285" y="269" width="433" height="28" rx="7" fill="#22c55e"/>
-<text x="728" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+51.2%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Debinha</text>
-<rect x="285" y="327" width="405" height="28" rx="7" fill="#22c55e"/>
-<text x="700" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+47.9%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Quaresma</text>
-<rect x="285" y="385" width="398" height="28" rx="7" fill="#22c55e"/>
-<text x="693" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+47.1%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+57.0%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rodrygo</text>
+<rect x="285" y="153" width="374" height="28" rx="7" fill="#22c55e"/>
+<text x="669" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+44.4%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Warren Zaïre-Emery</text>
+<rect x="285" y="211" width="339" height="28" rx="7" fill="#22c55e"/>
+<text x="634" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.3%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alexia Putellas</text>
+<rect x="285" y="269" width="337" height="28" rx="7" fill="#22c55e"/>
+<text x="632" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.0%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Carlos Tévez</text>
+<rect x="285" y="327" width="325" height="28" rx="7" fill="#22c55e"/>
+<text x="620" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+38.6%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Clint Dempsey</text>
+<rect x="285" y="385" width="314" height="28" rx="7" fill="#22c55e"/>
+<text x="609" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+37.3%</text>
 </svg>
