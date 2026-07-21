@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ewa Pajor</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Cora Zicai</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+82.2%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Homare Sawa</text>
-<rect x="285" y="153" width="443" height="28" rx="7" fill="#22c55e"/>
-<text x="738" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+75.9%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Wesley</text>
-<rect x="285" y="211" width="419" height="28" rx="7" fill="#22c55e"/>
-<text x="714" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+71.7%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Patri Guijarro</text>
-<rect x="285" y="269" width="401" height="28" rx="7" fill="#22c55e"/>
-<text x="696" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+68.6%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nico Williams</text>
-<rect x="285" y="327" width="382" height="28" rx="7" fill="#22c55e"/>
-<text x="677" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+65.5%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Khadija Shaw</text>
-<rect x="285" y="385" width="373" height="28" rx="7" fill="#22c55e"/>
-<text x="668" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+63.9%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+88.0%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Patri Guijarro</text>
+<rect x="285" y="153" width="436" height="28" rx="7" fill="#22c55e"/>
+<text x="731" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+80.0%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Cha Bum Kun</text>
+<rect x="285" y="211" width="363" height="28" rx="7" fill="#22c55e"/>
+<text x="658" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+66.5%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Khadija Shaw</text>
+<rect x="285" y="269" width="344" height="28" rx="7" fill="#22c55e"/>
+<text x="639" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+63.0%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Erling Haaland</text>
+<rect x="285" y="327" width="327" height="28" rx="7" fill="#22c55e"/>
+<text x="622" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+60.0%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Carlos Baleba</text>
+<rect x="285" y="385" width="323" height="28" rx="7" fill="#22c55e"/>
+<text x="618" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+59.3%</text>
 </svg>
