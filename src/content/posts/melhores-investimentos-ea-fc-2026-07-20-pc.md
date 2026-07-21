@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T22:25:18.000Z
+pubDatetime: 2026-07-21T01:25:18.000Z
 title: "Investimentos EA FC: Cartas Meta em 20/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **20/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.7% em 24h** e **+63.6% em 7 dias**.
-- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+15.0% em 24h** e **+69.2% em 7 dias**.
+- **14 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,33 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Steven Gerrard | 89 | Icons | 190k coins | +35.7% | +90% | Esticada |
-| Bruno Fernandes | 89 | Premier League | 130k coins | +30.2% | +80.3% | Esticada |
-| Sveindís Jane Jónsdóttir | 88 | — | 96k coins | +1.1% | +73% | Esticada |
-| Igor Thiago | 89 | Premier League | 86k coins | +3.5% | +71.8% | Esticada |
-| Trinity Rodman | 88 | NWSL | 200k coins | +33.3% | +66.7% | Esticada |
-| Mariona | 90 | Barclays WSL | 86k coins | +1.8% | +65.4% | Esticada |
-| Josip Stanišić | 95 | — | 85k coins | +16.5% | +65% | Esticada |
-| Fridolina Rolfö | 90 | Barclays WSL | 100k coins | +34.2% | +63.6% | Esticada |
-| Steffi Jones | 91 | Icons | 80k coins | +11.3% | +58.6% | Momentum moderado |
-| Juan Román Riquelme | 88 | Icons | 98k coins | +13.4% | +42.3% | Momentum moderado |
-| Andrea Pirlo | 90 | Icons | 117k coins | +2.1% | +40.4% | Momentum moderado |
-| Steven Gerrard | 88 | Icons | 156k coins | +13.7% | +39.8% | Momentum moderado |
-| Marcos Acuña | 89 | LPF | 130k coins | +4% | +36.8% | Momentum moderado |
-| Petr Čech | 89 | Icons | 150k coins | +28.2% | +36.4% | Esticada |
-| Steven Gerrard | 90 | Icons | 239k coins | +19.5% | +34.3% | Momentum moderado |
+| Dennis Bergkamp | 91 | Icons | 117k coins | +21% | +89.1% | Esticada |
+| Maicon | 88 | Serie A TIM | 110k coins | +10.6% | +84.9% | Esticada |
+| Steffi Jones | 91 | Icons | 80k coins | +31.1% | +83.9% | Esticada |
+| Andrea Pirlo | 90 | Icons | 176k coins | +27.3% | +75% | Esticada |
+| Marcelo | 89 | Icons | 160k coins | +23.1% | +74.9% | Esticada |
+| Eberechi Eze | 88 | Premier League | 91k coins | +20.4% | +71% | Esticada |
+| Harry Kane | 91 | Bundesliga | 200k coins | +5.3% | +69.2% | Esticada |
+| Trinity Rodman | 88 | NWSL | 200k coins | +11.1% | +66.7% | Esticada |
+| Mariona | 90 | Barclays WSL | 86k coins | +8.2% | +65.4% | Esticada |
+| Nuno Tavares | 91 | Serie A TIM | 100k coins | +4.6% | +64.8% | Esticada |
+| Selma Bacha | 94 | — | 80k coins | +1.3% | +64.1% | Esticada |
+| Eric Cantona | 89 | Icons | 185k coins | +2.8% | +60.9% | Esticada |
+| Kerolin Nicoli | 89 | Barclays WSL | 113k coins | +15% | +56.5% | Momentum moderado |
+| Deniz Undav | 91 | Bundesliga | 170k coins | +30.8% | +54.5% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Steven Gerrard (89)** — 190k coins, **+90% em 7 dias** (+35.7% em 24h). Preço +55% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Steven Gerrard (89)** — 190k coins, **+90% em 7 dias** (+35.7% em 24h). Preço +53% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Bruno Fernandes (89)** — 130k coins, **+80.3% em 7 dias** (+30.2% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Dennis Bergkamp (91)** — 117k coins, **+89.1% em 7 dias** (+21% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sveindís Jane Jónsdóttir (88)** — 96k coins, **+73% em 7 dias** (+1.1% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Maicon (88)** — 110k coins, **+84.9% em 7 dias** (+10.6% em 24h). Preço +36% acima da média de 7 dias (aquecida). O modelo recente está neutro; a tese depende do momentum observado.
 
-- **Igor Thiago (89)** — 86k coins, **+71.8% em 7 dias** (+3.5% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Steffi Jones (91)** — 80k coins, **+83.9% em 7 dias** (+31.1% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Trinity Rodman (88)** — 200k coins, **+66.7% em 7 dias** (+33.3% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Andrea Pirlo (90)** — 176k coins, **+75% em 7 dias** (+27.3% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
