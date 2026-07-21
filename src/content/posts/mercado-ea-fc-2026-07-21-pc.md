@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T16:25:17.000Z
+pubDatetime: 2026-07-21T19:25:17.000Z
 title: "Mercado EA FC em 21/07: Cartas Meta — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 21/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (21/07/2026)?"
-    a: "Franz Beckenbauer (94, sem liga), com +53.6% em 24h, a 410k coins no PC."
+    a: "Ousmane Dembélé (90, Ligue 1 McDonald's), com +57.7% em 24h, a 4.10M coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Willian Pacho (96), -48% em 24h, a 260k coins."
+    a: "Carlos Alberto (91), -50% em 24h, a 102k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 241 cartas em alta contra 294 em queda (média 2.08%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 221 cartas em alta contra 290 em queda (média 1.22%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O mercado do **EA FC** abre **21/07/2026** no PC com mercado **aquecido** — as altas dominam o dia: **241 cartas subiram** e **294 caíram** (80+ acima de 5k coins), variação média de **2.08%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **21/07/2026** no PC com dia **indefinido** — sem tendência dominante: **221 cartas subiram** e **290 caíram** (80+ acima de 5k coins), variação média de **1.22%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Franz Beckenbauer (94) **+53.6%** · 🔴 **Maior baixa:** Willian Pacho (96) **-48%**
+> 🟢 **Maior alta:** Ousmane Dembélé (90) **+57.7%** · 🔴 **Maior baixa:** Carlos Alberto (91) **-50%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 21/07: Cartas Meta — PC](/charts/mercado-ea-fc-2026-07-21-pc.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **21/07/2026** no PC com mercado **aquecido** — as
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 101.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 45.0% entre as cartas que se moveram; o universo observado reúne 635 cartas.
-- **Concentração:** Icons aparece em 7 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 107.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 43.2% entre as cartas que se moveram; o universo observado reúne 607 cartas.
+- **Concentração:** Icons aparece em 6 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Franz Beckenbauer | 94 | — | 410k coins | +53.6% | +25.8% |
-| Maicon | 94 | — | 399k coins | +53.1% | +15.7% |
-| Harry Kane | 97 | — | 1.30M coins | +52.9% | -44.6% |
-| Franck Ribéry | 88 | Icons | 258k coins | +52.7% | +76.7% |
-| Julian Ryerson | 93 | — | 90k coins | +52.5% | +50% |
-| Laurent Blanc | 88 | Icons | 144k coins | +50.9% | +48.1% |
-| Thierry Henry | 96 | — | 1.50M coins | +50% | +0.7% |
-| Eden Hazard | 88 | Premier League | 595k coins | +50% | +25% |
-| Mariona | 96 | Barclays WSL | 295k coins | +49.5% | +1.7% |
-| Petr Čech | 88 | Icons | 134k coins | +48.4% | +35.7% |
+| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 4.10M coins | +57.7% | 0% |
+| João Neves | 88 | Ligue 1 McDonald's | 223k coins | +55.9% | +17.4% |
+| Olivier Giroud | 89 | Ligue 1 McDonald's | 84k coins | +55.6% | +19.1% |
+| Leah Williamson | 95 | Barclays WSL | 216k coins | +54.5% | +47.4% |
+| Lotta Schelin | 90 | Icons | 152k coins | +53% | +121.7% |
+| Franck Ribéry | 88 | Icons | 269k coins | +51.8% | +76.7% |
+| Harry Kane | 97 | — | 1.26M coins | +50.5% | -45.5% |
+| Jay-Jay Okocha | 90 | Premier League | 185k coins | +49.2% | -39.9% |
+| Khvicha Kvaratskhelia | 91 | Ligue 1 McDonald's | 1.20M coins | +46.3% | +21.3% |
+| Xavi Simons | 91 | Premier League | 109k coins | +43.4% | +15.3% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **21/07/2026** no PC com mercado **aquecido** — as
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Franz Beckenbauer (94)** subiu **+53.6%** em 24h, a **410k coins** (faixa do dia: 216k–410k). Está +18% acima da média de 7 dias (aquecida).
+- **Ousmane Dembélé (90)** subiu **+57.7%** em 24h, a **4.10M coins** (faixa do dia: 2.50M–4.10M). Está +10% acima da média de 7 dias (aquecida).
 
-- **Maicon (94)** subiu **+53.1%** em 24h, a **399k coins** (faixa do dia: 265k–600k). Está em linha com a média de 7 dias (+1%).
+- **João Neves (88)** subiu **+55.9%** em 24h, a **223k coins** (faixa do dia: 143k–248k). Está +17% acima da média de 7 dias (aquecida).
 
-- **Harry Kane (97)** subiu **+52.9%** em 24h, a **1.30M coins** (faixa do dia: 771k–1.65M). Está -23% abaixo da média de 7 dias (descontada).
+- **Olivier Giroud (89)** subiu **+55.6%** em 24h, a **84k coins** (faixa do dia: 48k–84k). Está +30% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Willian Pacho | 96 | — | 260k coins | -48% | -54.4% |
-| Steven Gerrard | 89 | Icons | 105k coins | -44.7% | +5% |
-| Adam Wharton | 96 | — | 770k coins | -43% | -45.8% |
-| Daniele De Rossi | 91 | Serie A TIM | 209k coins | -40.1% | -29.9% |
-| Pavel Nedvěd | 88 | Icons | 108k coins | -40% | -13.6% |
-| Ousmane Dembélé | 91 | Ligue 1 McDonald's | 1.08M coins | -39.4% | -4.9% |
-| Harry Kane | 90 | Bundesliga | 188k coins | -36% | +23.1% |
-| David Beckham | 88 | Icons | 98k coins | -35.3% | +2.6% |
+| Carlos Alberto | 91 | Icons | 102k coins | -50% | -23.2% |
+| Steven Gerrard | 88 | Icons | 88k coins | -48.3% | -35.5% |
+| Christiane Endler | 94 | D1 Arkema | 92k coins | -45.9% | -26.6% |
+| Diego Armando Maradona | 96 | Icons | 6.70M coins | -44.9% | -31.7% |
+| Declan Rice | 94 | Premier League | 155k coins | -43.7% | -41.3% |
+| Hristo Stoichkov | 89 | Icons | 103k coins | -42.3% | -25.8% |
+| Daniele De Rossi | 91 | Serie A TIM | 209k coins | -41.3% | -29.9% |
+| Eric Cantona | 92 | — | 187k coins | -40.5% | -19.7% |
+| Fernando Morientes | 94 | — | 82k coins | -36.9% | -41.8% |
 | Erling Haaland | 92 | Premier League | 324k coins | -35.2% | +35% |
-| Diego Armando Maradona | 95 | Icons | 3.90M coins | -35.1% | +230.4% |
 
 
 ### Análise das baixas
 
-- **Willian Pacho (96)** caiu **-48%** em 24h, a **260k coins** (faixa do dia: 248k–510k). Está -41% abaixo da média de 7 dias (descontada).
+- **Carlos Alberto (91)** caiu **-50%** em 24h, a **102k coins** (faixa do dia: 88k–214k). Está -48% abaixo da média de 7 dias (descontada).
 
-- **Steven Gerrard (89)** caiu **-44.7%** em 24h, a **105k coins** (faixa do dia: 105k–190k). Está -18% abaixo da média de 7 dias (descontada).
+- **Steven Gerrard (88)** caiu **-48.3%** em 24h, a **88k coins** (faixa do dia: 67k–159k). Está -36% abaixo da média de 7 dias (descontada).
 
-- **Adam Wharton (96)** caiu **-43%** em 24h, a **770k coins** (faixa do dia: 770k–1.35M). Está -29% abaixo da média de 7 dias (descontada).
+- **Christiane Endler (94)** caiu **-45.9%** em 24h, a **92k coins** (faixa do dia: 92k–179k). Está -32% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Franz Beckenbauer já avançou 53.6% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Ousmane Dembélé já avançou 57.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Willian Pacho recuou -48%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Carlos Alberto recuou -50%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -118,13 +118,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (21/07/2026)?**
-Franz Beckenbauer (94, sem liga), com +53.6% em 24h, a 410k coins no PC.
+Ousmane Dembélé (90, Ligue 1 McDonald's), com +57.7% em 24h, a 4.10M coins no PC.
 
 **E a maior queda do dia?**
-Willian Pacho (96), -48% em 24h, a 260k coins.
+Carlos Alberto (91), -50% em 24h, a 102k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 241 cartas em alta contra 294 em queda (média 2.08%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 221 cartas em alta contra 290 em queda (média 1.22%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
