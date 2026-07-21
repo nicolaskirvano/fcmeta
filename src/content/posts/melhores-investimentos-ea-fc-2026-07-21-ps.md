@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T13:25:09.000Z
+pubDatetime: 2026-07-21T16:25:09.000Z
 title: "Investimentos EA FC: Cartas Meta em 21/07 — Console (PS)"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **21/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+19.3% em 24h** e **+54.1% em 7 dias**.
-- **11 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+15.3% em 24h** e **+55.4% em 7 dias**.
+- **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Cora Zicai | 88 | GPFBL | 125k coins | +11.6% | +88% | Esticada |
-| Patri Guijarro | 90 | Liga F | 87k coins | +11.1% | +80% | Esticada |
-| Cha Bum Kun | 88 | Icons | 164k coins | +6.5% | +66.5% | Esticada |
-| Khadija Shaw | 90 | Barclays WSL | 88k coins | +25.7% | +63% | Esticada |
-| Erling Haaland | 91 | Premier League | 198k coins | +5.3% | +60% | Esticada |
-| Carlos Baleba | 90 | Premier League | 136k coins | +17.1% | +59.3% | Momentum moderado |
-| Mario Lemina | 89 | Trendyol Süper Lig | 114k coins | +27.8% | +57.7% | Esticada |
+| Cora Zicai | 88 | GPFBL | 125k coins | +14.7% | +88% | Esticada |
+| Dodi Lukébakio | 94 | — | 111k coins | +13.7% | +75% | Esticada |
+| Patri Guijarro | 90 | Liga F | 86k coins | +15.3% | +73% | Esticada |
+| Homare Sawa | 91 | Icons | 128k coins | +6.9% | +68.7% | Esticada |
+| Giorgio Chiellini | 89 | Icons | 126k coins | +26.5% | +68.6% | Esticada |
+| Cha Bum Kun | 88 | Icons | 167k coins | +4.7% | +59.4% | Momentum moderado |
+| Carlos Baleba | 90 | Premier League | 134k coins | +8.9% | +57% | Momentum moderado |
+| Xavi | 92 | Icons | 218k coins | +9.5% | +55.4% | Momentum moderado |
 | Khadija Shaw | 91 | Barclays WSL | 188k coins | +20.5% | +54.1% | Esticada |
-| Nico Williams | 89 | LALIGA EA SPORTS | 210k coins | +19.3% | +48.9% | Momentum moderado |
-| Xavi | 91 | Icons | 116k coins | +36.5% | +45.9% | Esticada |
-| Geoff Hurst | 90 | Icons | 100k coins | +8.4% | +45.9% | Momentum moderado |
-| Nico Williams | 89 | LALIGA EA SPORTS | 208k coins | +12.4% | +44.7% | Momentum moderado |
-| Roberto Baggio | 91 | Icons | 115k coins | +27.6% | +40.5% | Esticada |
-| Cesc Fàbregas | 91 | Premier League | 240k coins | +39.3% | +40.1% | Esticada |
-| Trinity Rodman | 88 | NWSL | 126k coins | +32% | +37.6% | Esticada |
+| Erling Haaland | 91 | Premier League | 200k coins | +2.3% | +50% | Momentum moderado |
+| Kevin De Bruyne | 88 | Serie A TIM | 147k coins | +24.6% | +48.5% | Esticada |
+| Paulo Dybala | 88 | Serie A TIM | 165k coins | +22.5% | +44.4% | Esticada |
+| Sandro Tonali | 91 | Premier League | 135k coins | +17.4% | +39.9% | Momentum moderado |
+| Roberto Baggio | 91 | Icons | 117k coins | +29.1% | +37% | Esticada |
+| Sakina Karchaoui | 91 | D1 Arkema | 100k coins | +27.2% | +33.3% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Cora Zicai (88)** — 125k coins, **+88% em 7 dias** (+11.6% em 24h). Preço +56% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Cora Zicai (88)** — 125k coins, **+88% em 7 dias** (+14.7% em 24h). Preço +54% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Patri Guijarro (90)** — 87k coins, **+80% em 7 dias** (+11.1% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Dodi Lukébakio (94)** — 111k coins, **+75% em 7 dias** (+13.7% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Cha Bum Kun (88)** — 164k coins, **+66.5% em 7 dias** (+6.5% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Patri Guijarro (90)** — 86k coins, **+73% em 7 dias** (+15.3% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Khadija Shaw (90)** — 88k coins, **+63% em 7 dias** (+25.7% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Homare Sawa (91)** — 128k coins, **+68.7% em 7 dias** (+6.9% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Erling Haaland (91)** — 198k coins, **+60% em 7 dias** (+5.3% em 24h). Preço -22% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Giorgio Chiellini (89)** — 126k coins, **+68.6% em 7 dias** (+26.5% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
