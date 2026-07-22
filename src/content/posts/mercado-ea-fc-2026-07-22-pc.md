@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T10:25:17.000Z
+pubDatetime: 2026-07-22T13:25:17.000Z
 title: "Mercado EA FC em 22/07: Cartas Meta — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 22/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (22/07/2026)?"
-    a: "Erling Haaland (92, Premier League), com +54.3% em 24h, a 500k coins no PC."
+    a: "Miguel Ángel Merentiel (88, LPF), com +56.7% em 24h, a 99k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Salma Paralluelo (96), -50% em 24h, a 1.90M coins."
+    a: "Alex Morgan (91), -46.6% em 24h, a 1.01M coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em baixa — predominam as quedas, com 213 cartas em alta contra 341 em queda (média -0.39%)."
+    a: "Hoje o mercado está em baixa — predominam as quedas, com 193 cartas em alta contra 347 em queda (média -2.66%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Resumo de **22/07/2026** no PC: mercado **em baixa** — predominam as quedas. **213 valorizações** contra **341 quedas** entre as cartas relevantes, com média de **-0.39%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Resumo de **22/07/2026** no PC: mercado **em baixa** — predominam as quedas. **193 valorizações** contra **347 quedas** entre as cartas relevantes, com média de **-2.66%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Erling Haaland (92) **+54.3%** · 🔴 **Maior baixa:** Salma Paralluelo (96) **-50%**
+> 🟢 **Maior alta:** Miguel Ángel Merentiel (88) **+56.7%** · 🔴 **Maior baixa:** Alex Morgan (91) **-46.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 22/07: Cartas Meta — PC](/charts/mercado-ea-fc-2026-07-22-pc.svg)
 
@@ -35,24 +35,24 @@ Resumo de **22/07/2026** no PC: mercado **em baixa** — predominam as quedas. *
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 104.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 38.4% entre as cartas que se moveram; o universo observado reúne 639 cartas.
-- **Concentração:** Icons aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 103.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 35.7% entre as cartas que se moveram; o universo observado reúne 623 cartas.
+- **Concentração:** Icons aparece em 8 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
+| Miguel Ángel Merentiel | 88 | LPF | 99k coins | +56.7% | +17.1% |
+| Zlatan Ibrahimović | 95 | Icons | 7.78M coins | +56.4% | +16.5% |
+| Pavel Nedvěd | 88 | Icons | 190k coins | +56% | +45.3% |
 | Erling Haaland | 92 | Premier League | 500k coins | +54.3% | +85.2% |
-| Ricardo Carvalho | 89 | Liga Portugal | 100k coins | +53.8% | +42.9% |
-| Tara McKeown | 95 | — | 100k coins | +53.8% | +1% |
+| Xavi | 91 | Icons | 195k coins | +53.5% | +71.1% |
 | Iván Zamorano | 91 | LALIGA EA SPORTS | 120k coins | +50% | +40.4% |
-| Alessandro Bastoni | 91 | Serie A TIM | 100k coins | +49.3% | +108.3% |
-| Lewis Hall | 89 | Premier League | 84k coins | +49.1% | +42.7% |
-| Alex Morgan | 93 | Icons | 750k coins | +47.1% | +15.4% |
-| Bobby Charlton | 92 | Icons | 149k coins | +45.7% | +3.4% |
-| Denise O'Sullivan | 91 | Barclays WSL | 80k coins | +45.5% | +46.8% |
-| Amadou Onana | 96 | — | 319k coins | +40.5% | +33.3% |
+| Iniesta | 92 | Icons | 270k coins | +50% | +67.6% |
+| Eden Hazard | 90 | Premier League | 1.49M coins | +49.4% | +25.1% |
+| Millie Bright | 94 | Barclays WSL | 129k coins | +49.4% | +64.2% |
+| Lewis Hall | 89 | Premier League | 83k coins | +48.2% | +40.7% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **22/07/2026** no PC: mercado **em baixa** — predominam as quedas. *
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Erling Haaland (92)** subiu **+54.3%** em 24h, a **500k coins** (faixa do dia: 324k–500k). Está +40% acima da média de 7 dias (aquecida).
+- **Miguel Ángel Merentiel (88)** subiu **+56.7%** em 24h, a **99k coins** (faixa do dia: 41k–100k). Está +80% acima da média de 7 dias (aquecida).
 
-- **Ricardo Carvalho (89)** subiu **+53.8%** em 24h, a **100k coins** (faixa do dia: 65k–100k). Está +50% acima da média de 7 dias (aquecida).
+- **Zlatan Ibrahimović (95)** subiu **+56.4%** em 24h, a **7.78M coins** (faixa do dia: 4.49M–11.05M). Está +12% acima da média de 7 dias (aquecida).
 
-- **Tara McKeown (95)** subiu **+53.8%** em 24h, a **100k coins** (faixa do dia: 48k–100k). Está em linha com a média de 7 dias (+2%).
+- **Pavel Nedvěd (88)** subiu **+56%** em 24h, a **190k coins** (faixa do dia: 91k–220k). Está +55% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Salma Paralluelo | 96 | — | 1.90M coins | -50% | -53.6% |
-| Jairzinho | 89 | Icons | 243k coins | -48.7% | -31.2% |
-| Vini Jr. | 98 | — | 846k coins | -46.2% | — |
-| Mariona | 96 | Barclays WSL | 166k coins | -46.1% | -43.7% |
-| Paolo Maldini | 97 | — | 1.39M coins | -45.3% | -63.1% |
-| Alex Morgan | 91 | Icons | 1.05M coins | -44.7% | -25% |
-| Morgan Rogers | 96 | — | 239k coins | -44.3% | -33.6% |
-| Daniel Muñoz | 97 | — | 110k coins | -44.1% | — |
-| Emiliano Martínez | 96 | — | 160k coins | -43.9% | -67.4% |
-| Franz Beckenbauer | 97 | — | 900k coins | -43.8% | -54.5% |
+| Alex Morgan | 91 | Icons | 1.01M coins | -46.6% | -27.5% |
+| Florian Wirtz | 89 | Premier League | 218k coins | -45.5% | -29.9% |
+| Paolo Maldini | 97 | — | 1.65M coins | -43.8% | -62.1% |
+| Roberto Carlos | 90 | Icons | 99k coins | -43.6% | -61.5% |
+| Vini Jr. | 97 | — | 1.35M coins | -43.5% | -70.7% |
+| Jairzinho | 89 | Icons | 300k coins | -43.4% | -23.8% |
+| Nuno Mendes | 97 | — | 520k coins | -43.1% | -48.3% |
+| Declan Rice | 97 | — | 395k coins | -40.2% | -38.4% |
+| Jude Bellingham | 98 | — | 1.35M coins | -40% | — |
+| Zico | 91 | Icons | 192k coins | -39.4% | -4% |
 
 
 ### Análise das baixas
 
-- **Salma Paralluelo (96)** caiu **-50%** em 24h, a **1.90M coins** (faixa do dia: 1.75M–3.80M). Está -48% abaixo da média de 7 dias (descontada).
+- **Alex Morgan (91)** caiu **-46.6%** em 24h, a **1.01M coins** (faixa do dia: 963k–1.90M). Está -38% abaixo da média de 7 dias (descontada).
 
-- **Jairzinho (89)** caiu **-48.7%** em 24h, a **243k coins** (faixa do dia: 200k–440k). Está -29% abaixo da média de 7 dias (descontada).
+- **Florian Wirtz (89)** caiu **-45.5%** em 24h, a **218k coins** (faixa do dia: 218k–400k). Está -36% abaixo da média de 7 dias (descontada).
 
-- **Vini Jr. (98)** caiu **-46.2%** em 24h, a **846k coins** (faixa do dia: 800k–1.48M). Está -53% abaixo da média de 7 dias (descontada).
+- **Paolo Maldini (97)** caiu **-43.8%** em 24h, a **1.65M coins** (faixa do dia: 1.20M–2.70M). Está -46% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Erling Haaland já avançou 54.3% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Miguel Ángel Merentiel já avançou 56.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Salma Paralluelo recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Alex Morgan recuou -46.6%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (22/07/2026)?**
-Erling Haaland (92, Premier League), com +54.3% em 24h, a 500k coins no PC.
+Miguel Ángel Merentiel (88, LPF), com +56.7% em 24h, a 99k coins no PC.
 
 **E a maior queda do dia?**
-Salma Paralluelo (96), -50% em 24h, a 1.90M coins.
+Alex Morgan (91), -46.6% em 24h, a 1.01M coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em baixa — predominam as quedas, com 213 cartas em alta contra 341 em queda (média -0.39%).
+Hoje o mercado está em baixa — predominam as quedas, com 193 cartas em alta contra 347 em queda (média -2.66%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
