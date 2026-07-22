@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T16:25:07.000Z
+pubDatetime: 2026-07-22T19:25:07.000Z
 title: "Mercado EA FC em 22/07: Cartas Meta — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 22/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (22/07/2026)?"
-    a: "Khadija Shaw (90, Barclays WSL), com +59.5% em 24h, a 319k coins no Console (PS)."
+    a: "Samuel Eto'o (90, Icons), com +52% em 24h, a 570k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Paolo Maldini (95), -49.4% em 24h, a 460k coins."
+    a: "Jay-Jay Okocha (90), -48.2% em 24h, a 113k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em baixa — predominam as quedas, com 112 cartas em alta contra 428 em queda (média -10.59%)."
+    a: "Hoje o mercado está em baixa — predominam as quedas, com 113 cartas em alta contra 417 em queda (média -7.47%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Resumo de **22/07/2026** no Console (PS): mercado **em baixa** — predominam as quedas. **112 valorizações** contra **428 quedas** entre as cartas relevantes, com média de **-10.59%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Resumo de **22/07/2026** no Console (PS): mercado **em baixa** — predominam as quedas. **113 valorizações** contra **417 quedas** entre as cartas relevantes, com média de **-7.47%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Khadija Shaw (90) **+59.5%** · 🔴 **Maior baixa:** Paolo Maldini (95) **-49.4%**
+> 🟢 **Maior alta:** Samuel Eto'o (90) **+52%** · 🔴 **Maior baixa:** Jay-Jay Okocha (90) **-48.2%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 22/07: Cartas Meta — Console (PS)](/charts/mercado-ea-fc-2026-07-22-ps.svg)
 
@@ -35,24 +35,24 @@ Resumo de **22/07/2026** no Console (PS): mercado **em baixa** — predominam as
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 108.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 20.7% entre as cartas que se moveram; o universo observado reúne 554 cartas.
-- **Concentração:** Premier League aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 100.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 21.3% entre as cartas que se moveram; o universo observado reúne 569 cartas.
+- **Concentração:** Premier League aparece em 8 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Khadija Shaw | 90 | Barclays WSL | 319k coins | +59.5% | +112.7% |
-| Yaya Touré | 93 | Premier League | 1.64M coins | +45.8% | +27.9% |
-| Bobby Moore | 90 | Icons | 98k coins | +45.6% | +37.5% |
-| Emily van Egmond | 88 | Barclays WSL | 164k coins | +43.3% | +29.3% |
-| Anatoliy Trubin | 88 | Liga Portugal | 259k coins | +42.5% | -3.8% |
-| Jonathan David | 95 | — | 120k coins | +42.2% | -32.3% |
-| Sandro Tonali | 88 | Premier League | 287k coins | +39.6% | +5.3% |
-| Deniz Undav | 91 | Bundesliga | 106k coins | +36.6% | -22.4% |
-| Raphinha | 91 | LALIGA EA SPORTS | 107k coins | +35.4% | -1.8% |
-| Paulo Futre | 92 | Liga Portugal | 80k coins | +34.9% | -18.3% |
+| Samuel Eto'o | 90 | Icons | 570k coins | +52% | +26.4% |
+| Steph Catley | 90 | Barclays WSL | 85k coins | +51.8% | +18.1% |
+| Bobby Moore | 90 | Icons | 90k coins | +51.3% | +51.3% |
+| Lotta Schelin | 90 | Icons | 101k coins | +48.3% | +45.3% |
+| Eden Hazard | 90 | Premier League | 947k coins | +43% | +13.7% |
+| Richard Ríos | 88 | Liga Portugal | 192k coins | +42% | -2% |
+| Yaya Touré | 93 | Premier League | 1.50M coins | +38.2% | +3.4% |
+| Sandro Tonali | 88 | Premier League | 281k coins | +38% | +0.7% |
+| Dominik Szoboszlai | 90 | Premier League | 98k coins | +37.8% | +7.8% |
+| Désiré Doué | 91 | Ligue 1 McDonald's | 969k coins | +36.7% | -35.4% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **22/07/2026** no Console (PS): mercado **em baixa** — predominam as
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Khadija Shaw (90)** subiu **+59.5%** em 24h, a **319k coins** (faixa do dia: 100k–320k). Está +57% acima da média de 7 dias (aquecida).
+- **Samuel Eto'o (90)** subiu **+52%** em 24h, a **570k coins** (faixa do dia: 368k–621k). Está +31% acima da média de 7 dias (aquecida).
 
-- **Yaya Touré (93)** subiu **+45.8%** em 24h, a **1.64M coins** (faixa do dia: 1.06M–1.85M). Está +16% acima da média de 7 dias (aquecida).
+- **Steph Catley (90)** subiu **+51.8%** em 24h, a **85k coins** (faixa do dia: 49k–105k). Está +11% acima da média de 7 dias (aquecida).
 
-- **Bobby Moore (90)** subiu **+45.6%** em 24h, a **98k coins** (faixa do dia: 72k–116k). Está +14% acima da média de 7 dias (aquecida).
+- **Bobby Moore (90)** subiu **+51.3%** em 24h, a **90k coins** (faixa do dia: 76k–122k). Está em linha com a média de 7 dias (+4%).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Paolo Maldini | 95 | — | 460k coins | -49.4% | -54.3% |
-| Matvey Safonov | 96 | — | 317k coins | -48.8% | -63.5% |
-| Dani Olmo | 99 | — | 1.92M coins | -47.5% | — |
-| Mohamed Salah | 92 | Premier League | 207k coins | -46.8% | -46.2% |
-| Jules Koundé | 98 | — | 838k coins | -45.5% | -52.3% |
-| Adam Wharton | 96 | — | 500k coins | -45.4% | -40.1% |
-| Jude Bellingham | 96 | — | 860k coins | -45% | -61.5% |
-| Nuno Mendes | 97 | Ligue 1 McDonald's | 699k coins | -42.7% | -50% |
-| Bobby Moore | 91 | Icons | 277k coins | -42.7% | -29% |
-| Julián Alvarez | 89 | LALIGA EA SPORTS | 112k coins | -41.5% | -46.7% |
+| Jay-Jay Okocha | 90 | Premier League | 113k coins | -48.2% | -56.2% |
+| Khvicha Kvaratskhelia | 91 | Ligue 1 McDonald's | 470k coins | -46% | -41.1% |
+| Dean Huijsen | 91 | LALIGA EA SPORTS | 346k coins | -45.5% | -47.3% |
+| Marc Cucurella | 99 | — | 540k coins | -44.6% | — |
+| Bobby Moore | 91 | Icons | 277k coins | -40% | -29% |
+| Ramires | 88 | Premier League | 150k coins | -39.8% | -46.2% |
+| Ramires | 88 | Premier League | 173k coins | -39.6% | -20.5% |
+| Maicon | 89 | Serie A TIM | 138k coins | -37.8% | -53.2% |
+| Pau Cubarsí | 99 | — | 601k coins | -37.1% | — |
+| Joe Cole | 88 | Premier League | 132k coins | -36.8% | -64.7% |
 
 
 ### Análise das baixas
 
-- **Paolo Maldini (95)** caiu **-49.4%** em 24h, a **460k coins** (faixa do dia: 456k–923k). Está -57% abaixo da média de 7 dias (descontada).
+- **Jay-Jay Okocha (90)** caiu **-48.2%** em 24h, a **113k coins** (faixa do dia: 113k–219k). Está -47% abaixo da média de 7 dias (descontada).
 
-- **Matvey Safonov (96)** caiu **-48.8%** em 24h, a **317k coins** (faixa do dia: 313k–664k). Está -59% abaixo da média de 7 dias (descontada).
+- **Khvicha Kvaratskhelia (91)** caiu **-46%** em 24h, a **470k coins** (faixa do dia: 390k–950k). Está -28% abaixo da média de 7 dias (descontada).
 
-- **Dani Olmo (99)** caiu **-47.5%** em 24h, a **1.92M coins** (faixa do dia: 1.75M–4.22M). Está -11% abaixo da média de 7 dias (descontada).
+- **Dean Huijsen (91)** caiu **-45.5%** em 24h, a **346k coins** (faixa do dia: 310k–750k). Está -50% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Khadija Shaw já avançou 59.5% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Samuel Eto'o já avançou 52% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Paolo Maldini recuou -49.4%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Jay-Jay Okocha recuou -48.2%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (22/07/2026)?**
-Khadija Shaw (90, Barclays WSL), com +59.5% em 24h, a 319k coins no Console (PS).
+Samuel Eto'o (90, Icons), com +52% em 24h, a 570k coins no Console (PS).
 
 **E a maior queda do dia?**
-Paolo Maldini (95), -49.4% em 24h, a 460k coins.
+Jay-Jay Okocha (90), -48.2% em 24h, a 113k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em baixa — predominam as quedas, com 112 cartas em alta contra 428 em queda (média -10.59%).
+Hoje o mercado está em baixa — predominam as quedas, com 113 cartas em alta contra 417 em queda (média -7.47%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
