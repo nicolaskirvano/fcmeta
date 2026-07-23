@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T10:25:17.000Z
+pubDatetime: 2026-07-23T13:25:17.000Z
 title: "Mercado EA FC em 23/07: Cartas Meta — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 23/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (23/07/2026)?"
-    a: "Theo Hernández (88, ROSHN Saudi League), com +60% em 24h, a 160k coins no PC."
+    a: "Pernille Harder (96, sem liga), com +59.8% em 24h, a 98k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Khvicha Kvaratskhelia (91), -50% em 24h, a 600k coins."
+    a: "Ferran Torres (99), -48.9% em 24h, a 999k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 244 cartas em alta contra 334 em queda (média 2.6%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 250 cartas em alta contra 314 em queda (média 2.77%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Hoje (**23/07/2026**, PC) o Ultimate Team está em clima **comprador** — a maioria das cartas subiu — **244 subiram**, **334 caíram** (80+ e 5k+ coins), média de **2.6%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**23/07/2026**, PC) o Ultimate Team está em clima **comprador** — a maioria das cartas subiu — **250 subiram**, **314 caíram** (80+ e 5k+ coins), média de **2.77%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Theo Hernández (88) **+60%** · 🔴 **Maior baixa:** Khvicha Kvaratskhelia (91) **-50%**
+> 🟢 **Maior alta:** Pernille Harder (96) **+59.8%** · 🔴 **Maior baixa:** Ferran Torres (99) **-48.9%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 23/07: Cartas Meta — PC](/charts/mercado-ea-fc-2026-07-23-pc.svg)
 
@@ -35,24 +35,24 @@ Hoje (**23/07/2026**, PC) o Ultimate Team está em clima **comprador** — a mai
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 110.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 42.2% entre as cartas que se moveram; o universo observado reúne 657 cartas.
-- **Concentração:** Icons aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 108.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 44.3% entre as cartas que se moveram; o universo observado reúne 645 cartas.
+- **Concentração:** Icons aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Theo Hernández | 88 | ROSHN Saudi League | 160k coins | +60% | +39.1% |
-| Michael Olise | 88 | Bundesliga | 990k coins | +57.1% | +37.5% |
-| Claudio Marchisio | 88 | Serie A TIM | 337k coins | +56.7% | -16.2% |
-| Ronaldinho | 93 | Icons | 1.67M coins | +54.5% | -14.4% |
-| Deniz Undav | 91 | Bundesliga | 123k coins | +53.8% | -4.7% |
-| Hristo Stoichkov | 89 | Icons | 141k coins | +53.5% | +9.2% |
-| Warren Zaïre-Emery | 95 | — | 398k coins | +51.9% | -0.3% |
-| Deniz Undav | 95 | — | 240k coins | +51.2% | +17.6% |
-| Raphinha | 90 | LALIGA EA SPORTS | 120k coins | +50.6% | +39.1% |
-| Daniel Muñoz | 96 | — | 826k coins | +50.2% | -16.1% |
+| Pernille Harder | 96 | — | 98k coins | +59.8% | -16.7% |
+| Karim Benzema | 88 | ROSHN Saudi League | 220k coins | +59.4% | +46.7% |
+| Gheorghe Hagi | 88 | Icons | 144k coins | +59.2% | +121.9% |
+| Claudio Marchisio | 88 | Serie A TIM | 337k coins | +56.7% | -17.6% |
+| Diego Armando Maradona | 96 | Icons | 2.30M coins | +53.9% | +0.5% |
+| Alessia Russo | 90 | — | 84k coins | +52.9% | +27.2% |
+| Wesley Sneijder | 89 | Serie A TIM | 125k coins | +50.6% | +8.5% |
+| Daniel Muñoz | 96 | — | 823k coins | +49.8% | -12.3% |
+| Carles Puyol | 90 | Icons | 950k coins | +49.1% | +66% |
+| Thomas Müller | 89 | MLS | 600k coins | +48.5% | +36.4% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**23/07/2026**, PC) o Ultimate Team está em clima **comprador** — a mai
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Theo Hernández (88)** subiu **+60%** em 24h, a **160k coins** (faixa do dia: 69k–160k). Está +43% acima da média de 7 dias (aquecida).
+- **Pernille Harder (96)** subiu **+59.8%** em 24h, a **98k coins** (faixa do dia: 58k–100k). Está em linha com a média de 7 dias (+5%).
 
-- **Michael Olise (88)** subiu **+57.1%** em 24h, a **990k coins** (faixa do dia: 700k–1.10M). Está +16% acima da média de 7 dias (aquecida).
+- **Karim Benzema (88)** subiu **+59.4%** em 24h, a **220k coins** (faixa do dia: 120k–220k). Está +41% acima da média de 7 dias (aquecida).
 
-- **Claudio Marchisio (88)** subiu **+56.7%** em 24h, a **337k coins** (faixa do dia: 136k–341k). Está em linha com a média de 7 dias (+2%).
+- **Gheorghe Hagi (88)** subiu **+59.2%** em 24h, a **144k coins** (faixa do dia: 66k–166k). Está +81% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Khvicha Kvaratskhelia | 91 | Ligue 1 McDonald's | 600k coins | -50% | -36.8% |
-| Nahuel Molina | 91 | — | 100k coins | -44.4% | -28.1% |
-| Amadou Onana | 96 | — | 180k coins | -44.3% | -25.9% |
-| Lamine Yamal | 99 | — | 2.30M coins | -44.3% | — |
-| Anthony Gordon | 88 | Premier League | 189k coins | -41.8% | -33.5% |
-| Harry Kane | 97 | — | 799k coins | -39.2% | -72.2% |
-| Jørgen Strand Larsen | 96 | — | 168k coins | -39.1% | -58% |
-| Álex Baena | 99 | — | 401k coins | -38.3% | — |
-| Matvey Safonov | 96 | — | 679k coins | -37.6% | -46.5% |
-| Iniesta | 92 | Icons | 159k coins | -37.4% | +3.5% |
+| Ferran Torres | 99 | — | 999k coins | -48.9% | — |
+| Lamine Yamal | 99 | — | 2M coins | -45.1% | — |
+| David Beckham | 88 | Icons | 90k coins | -44.6% | -14.8% |
+| Tijjani Reijnders | 93 | Premier League | 250k coins | -44.4% | -54.5% |
+| Nuno Mendes | 97 | Ligue 1 McDonald's | 1.50M coins | -44.4% | -49.7% |
+| Willian Pacho | 96 | — | 249k coins | -44.1% | -56.3% |
+| Franck Ribéry | 88 | Icons | 130k coins | -43.2% | -21.7% |
+| Jean-Philippe Mateta | 96 | — | 300k coins | -42.1% | -49.9% |
+| Marc Cucurella | 99 | — | 380k coins | -42% | — |
+| Cora Zicai | 88 | GPFBL | 140k coins | -38.6% | -30% |
 
 
 ### Análise das baixas
 
-- **Khvicha Kvaratskhelia (91)** caiu **-50%** em 24h, a **600k coins** (faixa do dia: 600k–1.20M). Está -35% abaixo da média de 7 dias (descontada).
+- **Ferran Torres (99)** caiu **-48.9%** em 24h, a **999k coins** (faixa do dia: 901k–2.02M). Está -46% abaixo da média de 7 dias (descontada).
 
-- **Nahuel Molina (91)** caiu **-44.4%** em 24h, a **100k coins** (faixa do dia: 80k–209k). Está -31% abaixo da média de 7 dias (descontada).
+- **Lamine Yamal (99)** caiu **-45.1%** em 24h, a **2M coins** (faixa do dia: 2M–3.79M). Está -45% abaixo da média de 7 dias (descontada).
 
-- **Amadou Onana (96)** caiu **-44.3%** em 24h, a **180k coins** (faixa do dia: 153k–319k). Está -21% abaixo da média de 7 dias (descontada).
+- **David Beckham (88)** caiu **-44.6%** em 24h, a **90k coins** (faixa do dia: 78k–166k). Está -20% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Theo Hernández já avançou 60% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Pernille Harder já avançou 59.8% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Khvicha Kvaratskhelia recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Ferran Torres recuou -48.9%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (23/07/2026)?**
-Theo Hernández (88, ROSHN Saudi League), com +60% em 24h, a 160k coins no PC.
+Pernille Harder (96, sem liga), com +59.8% em 24h, a 98k coins no PC.
 
 **E a maior queda do dia?**
-Khvicha Kvaratskhelia (91), -50% em 24h, a 600k coins.
+Ferran Torres (99), -48.9% em 24h, a 999k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 244 cartas em alta contra 334 em queda (média 2.6%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 250 cartas em alta contra 314 em queda (média 2.77%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
