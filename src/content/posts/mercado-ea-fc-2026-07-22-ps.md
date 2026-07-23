@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T22:25:07.000Z
+pubDatetime: 2026-07-23T01:25:07.000Z
 title: "Mercado EA FC em 22/07: Cartas Meta — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 22/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (22/07/2026)?"
-    a: "Oliver Kahn (91, Icons), com +59.2% em 24h, a 108k coins no Console (PS)."
+    a: "Carlos Tévez (89, Premier League), com +54.7% em 24h, a 529k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Jaap Stam (91), -48.1% em 24h, a 614k coins."
+    a: "Joe Cole (88), -48.6% em 24h, a 114k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em baixa — predominam as quedas, com 186 cartas em alta contra 364 em queda (média -3.12%)."
+    a: "Hoje o mercado está em baixa — predominam as quedas, com 202 cartas em alta contra 368 em queda (média -3.38%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Resumo de **22/07/2026** no Console (PS): mercado **em baixa** — predominam as quedas. **186 valorizações** contra **364 quedas** entre as cartas relevantes, com média de **-3.12%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Resumo de **22/07/2026** no Console (PS): mercado **em baixa** — predominam as quedas. **202 valorizações** contra **368 quedas** entre as cartas relevantes, com média de **-3.38%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Oliver Kahn (91) **+59.2%** · 🔴 **Maior baixa:** Jaap Stam (91) **-48.1%**
+> 🟢 **Maior alta:** Carlos Tévez (89) **+54.7%** · 🔴 **Maior baixa:** Joe Cole (88) **-48.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 22/07: Cartas Meta — Console (PS)](/charts/mercado-ea-fc-2026-07-22-ps.svg)
 
@@ -35,24 +35,24 @@ Resumo de **22/07/2026** no Console (PS): mercado **em baixa** — predominam as
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 107.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 33.8% entre as cartas que se moveram; o universo observado reúne 564 cartas.
-- **Concentração:** Icons aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 103.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 35.4% entre as cartas que se moveram; o universo observado reúne 611 cartas.
+- **Concentração:** Icons aparece em 6 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Oliver Kahn | 91 | Icons | 108k coins | +59.2% | +20.6% |
-| Mapi León | 90 | Liga F | 88k coins | +57% | +81.7% |
-| Fermín | 90 | LALIGA EA SPORTS | 94k coins | +52.4% | +57.5% |
-| Paolo Maldini | 97 | — | 1.58M coins | +49.5% | -38.2% |
-| Nico Williams | 89 | LALIGA EA SPORTS | 220k coins | +49.1% | +42.9% |
-| Jari Litmanen | 90 | Eredivisie | 100k coins | +48.7% | +1.8% |
-| Alyssa Thompson | 91 | Barclays WSL | 149k coins | +48.1% | +3.9% |
-| Julie Foudy | 90 | Icons | 102k coins | +45.8% | +54.4% |
-| Patri Guijarro | 90 | Liga F | 88k coins | +43.4% | +47.1% |
-| Nico Paz | 90 | Serie A TIM | 108k coins | +42.5% | +76.3% |
+| Carlos Tévez | 89 | Premier League | 529k coins | +54.7% | -0.8% |
+| Jill Scott | 91 | Barclays WSL | 86k coins | +53.8% | -16.7% |
+| Fermín | 90 | LALIGA EA SPORTS | 120k coins | +52.4% | +29.5% |
+| Douglas Luiz | 90 | Premier League | 80k coins | +52.4% | +33.3% |
+| Oliver Kahn | 91 | Icons | 110k coins | +49.7% | +12.2% |
+| Mapi León | 90 | Liga F | 80k coins | +40.5% | +53.9% |
+| Steffi Jones | 91 | Icons | 81k coins | +39.7% | +16.5% |
+| Dennis Bergkamp | 90 | Icons | 108k coins | +36.7% | +35% |
+| Malik Tillman | 88 | Bundesliga | 180k coins | +34.3% | -17.8% |
+| Andriy Shevchenko | 90 | Icons | 95k coins | +32.9% | +46.2% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **22/07/2026** no Console (PS): mercado **em baixa** — predominam as
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Oliver Kahn (91)** subiu **+59.2%** em 24h, a **108k coins** (faixa do dia: 69k–117k). Está +13% acima da média de 7 dias (aquecida).
+- **Carlos Tévez (89)** subiu **+54.7%** em 24h, a **529k coins** (faixa do dia: 208k–529k). Está +49% acima da média de 7 dias (aquecida).
 
-- **Mapi León (90)** subiu **+57%** em 24h, a **88k coins** (faixa do dia: 56k–95k). Está +29% acima da média de 7 dias (aquecida).
+- **Jill Scott (91)** subiu **+53.8%** em 24h, a **86k coins** (faixa do dia: 58k–141k). Está -17% abaixo da média de 7 dias (descontada).
 
-- **Fermín (90)** subiu **+52.4%** em 24h, a **94k coins** (faixa do dia: 48k–120k). Está +15% acima da média de 7 dias (aquecida).
+- **Fermín (90)** subiu **+52.4%** em 24h, a **120k coins** (faixa do dia: 56k–120k). Está +46% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jaap Stam | 91 | Eredivisie | 614k coins | -48.1% | -45.8% |
-| Declan Rice | 91 | Premier League | 181k coins | -46.2% | -45% |
-| Warren Zaïre-Emery | 96 | — | 560k coins | -42.8% | -63.5% |
-| Jay-Jay Okocha | 90 | Premier League | 117k coins | -42.2% | -53.9% |
-| Andrea Pirlo | 91 | Icons | 492k coins | -41.6% | -40.1% |
-| Ferran Torres | 99 | — | 1.15M coins | -41.4% | — |
-| Ramires | 88 | Premier League | 155k coins | -40.9% | -51.9% |
-| Matvey Safonov | 96 | — | 300k coins | -40.8% | -63.8% |
-| Geoff Hurst | 90 | Icons | 82k coins | -39.8% | +18.7% |
-| Federico Valverde | 90 | LALIGA EA SPORTS | 225k coins | -39.7% | -24% |
+| Joe Cole | 88 | Premier League | 114k coins | -48.6% | -68.1% |
+| Federico Valverde | 90 | LALIGA EA SPORTS | 210k coins | -44.4% | -30% |
+| Maicon | 89 | Serie A TIM | 124k coins | -44.2% | -62.8% |
+| Eusébio | 94 | Icons | 1.46M coins | -43.8% | -27% |
+| Harry Kane | 92 | Bundesliga | 100k coins | -41.5% | -65% |
+| David Ginola | 90 | Ligue 1 McDonald's | 3.29M coins | -41.4% | -25.5% |
+| Harry Kane | 91 | Bundesliga | 165k coins | -41.1% | -58.8% |
+| Andrea Pirlo | 91 | Icons | 550k coins | -39.5% | -39% |
+| Jaap Stam | 91 | Eredivisie | 589k coins | -37.4% | -48.7% |
+| Vitinha | 96 | — | 1.35M coins | -36.8% | -62.5% |
 
 
 ### Análise das baixas
 
-- **Jaap Stam (91)** caiu **-48.1%** em 24h, a **614k coins** (faixa do dia: 614k–1.35M). Está -36% abaixo da média de 7 dias (descontada).
+- **Joe Cole (88)** caiu **-48.6%** em 24h, a **114k coins** (faixa do dia: 114k–222k). Está -47% abaixo da média de 7 dias (descontada).
 
-- **Declan Rice (91)** caiu **-46.2%** em 24h, a **181k coins** (faixa do dia: 150k–323k). Está -35% abaixo da média de 7 dias (descontada).
+- **Federico Valverde (90)** caiu **-44.4%** em 24h, a **210k coins** (faixa do dia: 210k–380k). Está -31% abaixo da média de 7 dias (descontada).
 
-- **Warren Zaïre-Emery (96)** caiu **-42.8%** em 24h, a **560k coins** (faixa do dia: 559k–1.05M). Está -51% abaixo da média de 7 dias (descontada).
+- **Maicon (89)** caiu **-44.2%** em 24h, a **124k coins** (faixa do dia: 110k–250k). Está -48% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Oliver Kahn já avançou 59.2% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Carlos Tévez já avançou 54.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Jaap Stam recuou -48.1%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Joe Cole recuou -48.6%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (22/07/2026)?**
-Oliver Kahn (91, Icons), com +59.2% em 24h, a 108k coins no Console (PS).
+Carlos Tévez (89, Premier League), com +54.7% em 24h, a 529k coins no Console (PS).
 
 **E a maior queda do dia?**
-Jaap Stam (91), -48.1% em 24h, a 614k coins.
+Joe Cole (88), -48.6% em 24h, a 114k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em baixa — predominam as quedas, com 186 cartas em alta contra 364 em queda (média -3.12%).
+Hoje o mercado está em baixa — predominam as quedas, com 202 cartas em alta contra 368 em queda (média -3.38%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
