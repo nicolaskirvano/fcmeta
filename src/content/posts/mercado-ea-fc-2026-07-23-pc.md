@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T16:25:17.000Z
+pubDatetime: 2026-07-23T19:25:17.000Z
 title: "Mercado EA FC em 23/07: Cartas Meta — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 23/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (23/07/2026)?"
-    a: "Daniel Muñoz (96, sem liga), com +59.2% em 24h, a 794k coins no PC."
+    a: "Pelé (95, Icons), com +59.8% em 24h, a 202k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Youri Tielemans (96), -48.4% em 24h, a 147k coins."
+    a: "Tara McKeown (95), -49.7% em 24h, a 95k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 254 cartas em alta contra 289 em queda (média 2.63%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 241 cartas em alta contra 258 em queda (média 2.85%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Hoje (**23/07/2026**, PC) o Ultimate Team está em clima **comprador** — a maioria das cartas subiu — **254 subiram**, **289 caíram** (80+ e 5k+ coins), média de **2.63%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**23/07/2026**, PC) o Ultimate Team está em clima **comprador** — a maioria das cartas subiu — **241 subiram**, **258 caíram** (80+ e 5k+ coins), média de **2.85%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Daniel Muñoz (96) **+59.2%** · 🔴 **Maior baixa:** Youri Tielemans (96) **-48.4%**
+> 🟢 **Maior alta:** Pelé (95) **+59.8%** · 🔴 **Maior baixa:** Tara McKeown (95) **-49.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 23/07: Cartas Meta — PC](/charts/mercado-ea-fc-2026-07-23-pc.svg)
 
@@ -35,24 +35,24 @@ Hoje (**23/07/2026**, PC) o Ultimate Team está em clima **comprador** — a mai
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 107.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 46.8% entre as cartas que se moveram; o universo observado reúne 631 cartas.
+- **Amplitude do dia:** 109.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 48.3% entre as cartas que se moveram; o universo observado reúne 587 cartas.
 - **Concentração:** Icons aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Daniel Muñoz | 96 | — | 794k coins | +59.2% | -5.4% |
-| Vini Jr. | 90 | LALIGA EA SPORTS | 1.40M coins | +54.2% | -12.5% |
-| Gerd Müller | 93 | Icons | 98k coins | +53.3% | -16.1% |
-| Ollie Watkins | 96 | — | 240k coins | +51.9% | -24.5% |
-| Kenan Yıldız | 96 | — | 299k coins | +51.4% | +11.9% |
-| Endrick | 93 | — | 141k coins | +49.7% | -6.7% |
-| Daniele De Rossi | 89 | Serie A TIM | 126k coins | +47.5% | -7.7% |
-| Sakina Karchaoui | 89 | — | 100k coins | +47.4% | +42.1% |
-| Kika Nazareth | 96 | — | 1.45M coins | +45.8% | -20.5% |
-| Khadija Shaw | 90 | Barclays WSL | 84k coins | +43.6% | -50.3% |
+| Pelé | 95 | Icons | 202k coins | +59.8% | -11.2% |
+| Gabriel Sara | 89 | Trendyol Süper Lig | 94k coins | +56.7% | +11.9% |
+| Mallory Swanson | 88 | NWSL | 119k coins | +55.6% | -0.8% |
+| Daniel Muñoz | 96 | — | 489k coins | +55.1% | -16.9% |
+| Petr Čech | 89 | Icons | 159k coins | +51.4% | +14.4% |
+| Rodrygo | 89 | LALIGA EA SPORTS | 997k coins | +50.2% | +10.4% |
+| Warren Zaïre-Emery | 96 | — | 1.20M coins | +49.6% | -11.7% |
+| Vanessa Fudalla | 88 | GPFBL | 90k coins | +48.2% | +12.7% |
+| Caroline Graham Hansen | 96 | — | 529k coins | +47.2% | -9.4% |
+| Mattéo Guendouzi | 91 | Trendyol Süper Lig | 100k coins | +45.1% | +5% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**23/07/2026**, PC) o Ultimate Team está em clima **comprador** — a mai
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Daniel Muñoz (96)** subiu **+59.2%** em 24h, a **794k coins** (faixa do dia: 450k–898k). Está em linha com a média de 7 dias (+1%).
+- **Pelé (95)** subiu **+59.8%** em 24h, a **202k coins** (faixa do dia: 157k–415k). Está -34% abaixo da média de 7 dias (descontada).
 
-- **Vini Jr. (90)** subiu **+54.2%** em 24h, a **1.40M coins** (faixa do dia: 702k–1.40M). Está +10% acima da média de 7 dias (aquecida).
+- **Gabriel Sara (89)** subiu **+56.7%** em 24h, a **94k coins** (faixa do dia: 50k–94k). Está +13% acima da média de 7 dias (aquecida).
 
-- **Gerd Müller (93)** subiu **+53.3%** em 24h, a **98k coins** (faixa do dia: 70k–160k). Está -13% abaixo da média de 7 dias (descontada).
+- **Mallory Swanson (88)** subiu **+55.6%** em 24h, a **119k coins** (faixa do dia: 72k–150k). Está em linha com a média de 7 dias (-4%).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Youri Tielemans | 96 | — | 147k coins | -48.4% | -62.3% |
-| Steven Gerrard | 90 | Icons | 120k coins | -47.6% | -40% |
-| Kelly Smith | 89 | Icons | 93k coins | -47.2% | -35.4% |
-| Pedro Porro | 99 | — | 729k coins | -45.9% | — |
-| Ferran Torres | 99 | — | 950k coins | -44.1% | — |
-| Jill Scott | 94 | — | 100k coins | -43.8% | -31.8% |
-| Rodri | 99 | — | 2M coins | -43.8% | — |
-| Pavel Nedvěd | 88 | Icons | 93k coins | -43.3% | -29.6% |
-| Ane Azkona | 88 | Liga F | 90k coins | -42.1% | +1.1% |
+| Tara McKeown | 95 | — | 95k coins | -49.7% | -58.4% |
+| Mapi León | 96 | — | 252k coins | -46.1% | -35.6% |
+| Achraf Hakimi | 96 | — | 2.31M coins | -43.3% | -43.3% |
 | Gareth Bale | 94 | Icons | 3.50M coins | -41.7% | +6.1% |
+| Claudia Pina | 92 | Liga F | 885k coins | -41.3% | -43.3% |
+| Francesco Totti | 89 | Icons | 147k coins | -41.2% | -17.9% |
+| Raphinha | 90 | LALIGA EA SPORTS | 125k coins | -41.2% | -15.8% |
+| Mariona | 96 | Barclays WSL | 183k coins | -41% | -12.4% |
+| Homare Sawa | 91 | Icons | 134k coins | -40.8% | -5.5% |
+| Khadija Shaw | 91 | Barclays WSL | 109k coins | -39.4% | +22.5% |
 
 
 ### Análise das baixas
 
-- **Youri Tielemans (96)** caiu **-48.4%** em 24h, a **147k coins** (faixa do dia: 106k–276k). Está -58% abaixo da média de 7 dias (descontada).
+- **Tara McKeown (95)** caiu **-49.7%** em 24h, a **95k coins** (faixa do dia: 50k–100k). Está em linha com a média de 7 dias (-1%).
 
-- **Steven Gerrard (90)** caiu **-47.6%** em 24h, a **120k coins** (faixa do dia: 118k–237k). Está -38% abaixo da média de 7 dias (descontada).
+- **Mapi León (96)** caiu **-46.1%** em 24h, a **252k coins** (faixa do dia: 247k–499k). Está -35% abaixo da média de 7 dias (descontada).
 
-- **Kelly Smith (89)** caiu **-47.2%** em 24h, a **93k coins** (faixa do dia: 68k–192k). Está em linha com a média de 7 dias (+1%).
+- **Achraf Hakimi (96)** caiu **-43.3%** em 24h, a **2.31M coins** (faixa do dia: 1.60M–3M). Está -19% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Daniel Muñoz já avançou 59.2% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Pelé já avançou 59.8% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Youri Tielemans recuou -48.4%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Tara McKeown recuou -49.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (23/07/2026)?**
-Daniel Muñoz (96, sem liga), com +59.2% em 24h, a 794k coins no PC.
+Pelé (95, Icons), com +59.8% em 24h, a 202k coins no PC.
 
 **E a maior queda do dia?**
-Youri Tielemans (96), -48.4% em 24h, a 147k coins.
+Tara McKeown (95), -49.7% em 24h, a 95k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 254 cartas em alta contra 289 em queda (média 2.63%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 241 cartas em alta contra 258 em queda (média 2.85%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
