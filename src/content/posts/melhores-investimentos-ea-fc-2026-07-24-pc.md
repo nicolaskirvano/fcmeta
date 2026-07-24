@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T10:25:18.000Z
+pubDatetime: 2026-07-24T13:25:18.000Z
 title: "Investimentos EA FC: Cartas Meta em 24/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 24/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (24/07/2026) no EA FC?"
-    a: "Mapi León (90, Liga F) lidera, com +69.3% em 7 dias a 80k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Amaiur Sarriegi (88, Liga F) lidera, com +88.1% em 7 dias a 95k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **24/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Mapi León (90) acumula **+69.3% em 7 dias** a 80k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Amaiur Sarriegi (88) acumula **+88.1% em 7 dias** a 95k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas Meta em 24/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-24-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **24/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+19.0% em 24h** e **+45.5% em 7 dias**.
-- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+16.1% em 24h** e **+45.1% em 7 dias**.
+- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Mapi León | 90 | Liga F | 80k coins | +5.3% | +69.3% | Esticada |
-| Dodi Lukébakio | 94 | — | 210k coins | +7.1% | +66.7% | Esticada |
-| Ollie Watkins | 90 | Premier League | 80k coins | +33.3% | +66.7% | Esticada |
-| Sissi | 88 | Icons | 95k coins | +14.8% | +61.7% | Esticada |
-| Dennis Bergkamp | 90 | Icons | 106k coins | +2.9% | +48.6% | Momentum moderado |
-| David Beckham | 88 | Icons | 112k coins | +22.9% | +47.5% | Esticada |
-| Noa Lang | 91 | Trendyol Süper Lig | 89k coins | +24.3% | +47.5% | Esticada |
+| Amaiur Sarriegi | 88 | Liga F | 95k coins | +31.9% | +88.1% | Esticada |
+| Klara Bühl | 93 | — | 84k coins | +12.7% | +87.8% | Esticada |
+| Ollie Watkins | 90 | Premier League | 80k coins | +28% | +66.7% | Esticada |
+| Sissi | 88 | Icons | 89k coins | +7.7% | +65.5% | Esticada |
+| Geoff Hurst | 90 | Icons | 94k coins | +21.2% | +48.8% | Esticada |
 | Mapi León | 91 | — | 80k coins | +5.3% | +45.5% | Momentum moderado |
-| Geoff Hurst | 90 | Icons | 94k coins | +20.4% | +45.4% | Esticada |
-| Petr Čech | 88 | Icons | 160k coins | +20.4% | +36.1% | Esticada |
-| Alessia Russo | 90 | — | 84k coins | +19.3% | +35.8% | Momentum moderado |
-| Rivellino | 90 | — | 151k coins | +18.8% | +32.2% | Momentum moderado |
-| Fermín | 90 | LALIGA EA SPORTS | 109k coins | +16% | +29.8% | Momentum moderado |
-| Deniz Undav | 91 | Bundesliga | 152k coins | +23.6% | +27.7% | Esticada |
-| Nico O'Reilly | 96 | — | 120k coins | +19% | +27.6% | Momentum moderado |
+| Marie Katoto | 89 | Frauen-Bundesliga | 160k coins | +2.6% | +45.5% | Momentum moderado |
+| Ryan Yates | 92 | — | 96k coins | +18.4% | +45.1% | Momentum moderado |
+| Ashley Sanchez | 88 | NWSL | 100k coins | +10.6% | +41.1% | Momentum moderado |
+| Noa Lang | 91 | Trendyol Süper Lig | 89k coins | +23.8% | +36.4% | Esticada |
+| Vanessa Fudalla | 88 | GPFBL | 103k coins | +39% | +34.6% | Esticada |
+| Marco van Basten | 94 | — | 188k coins | +11.9% | +34.3% | Momentum moderado |
+| Laurent Blanc | 88 | Icons | 126k coins | +16.1% | +33.3% | Momentum moderado |
+| Issa Diop | 95 | — | 170k coins | +13.3% | +30.8% | Momentum moderado |
+| Abedi Pelé | 91 | Ligue 1 McDonald's | 139k coins | +20.9% | +29.9% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Mapi León (90)** — 80k coins, **+69.3% em 7 dias** (+5.3% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Amaiur Sarriegi (88)** — 95k coins, **+88.1% em 7 dias** (+31.9% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Dodi Lukébakio (94)** — 210k coins, **+66.7% em 7 dias** (+7.1% em 24h). Preço +74% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Klara Bühl (93)** — 84k coins, **+87.8% em 7 dias** (+12.7% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ollie Watkins (90)** — 80k coins, **+66.7% em 7 dias** (+33.3% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ollie Watkins (90)** — 80k coins, **+66.7% em 7 dias** (+28% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sissi (88)** — 95k coins, **+61.7% em 7 dias** (+14.8% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sissi (88)** — 89k coins, **+65.5% em 7 dias** (+7.7% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Dennis Bergkamp (90)** — 106k coins, **+48.6% em 7 dias** (+2.9% em 24h). Preço -16% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Geoff Hurst (90)** — 94k coins, **+48.8% em 7 dias** (+21.2% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (24/07/2026) no EA FC?**  
-Mapi León (90, Liga F) lidera, com +69.3% em 7 dias a 80k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Amaiur Sarriegi (88, Liga F) lidera, com +88.1% em 7 dias a 95k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
