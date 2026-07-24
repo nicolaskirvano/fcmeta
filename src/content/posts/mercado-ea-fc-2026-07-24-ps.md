@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T19:25:07.000Z
+pubDatetime: 2026-07-24T22:25:07.000Z
 title: "Mercado EA FC em 24/07: Cartas Meta — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 24/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (24/07/2026)?"
-    a: "Anthony Gordon (88, Premier League), com +53.6% em 24h, a 165k coins no Console (PS)."
+    a: "Stephan El Shaarawy (88, Serie A TIM), com +54.5% em 24h, a 850k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Lotta Schelin (92), -44.9% em 24h, a 306k coins."
+    a: "Warren Zaïre-Emery (96), -49.7% em 24h, a 302k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 79 cartas em alta contra 187 em queda (média -4.98%)."
+    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 77 cartas em alta contra 245 em queda (média -11.65%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Em **24/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **pressionado** — as quedas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **79 subiram** e **187 caíram**, com variação média de **-4.98%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Em **24/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **pressionado** — as quedas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **77 subiram** e **245 caíram**, com variação média de **-11.65%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Anthony Gordon (88) **+53.6%** · 🔴 **Maior baixa:** Lotta Schelin (92) **-44.9%**
+> 🟢 **Maior alta:** Stephan El Shaarawy (88) **+54.5%** · 🔴 **Maior baixa:** Warren Zaïre-Emery (96) **-49.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 24/07: Cartas Meta — Console (PS)](/charts/mercado-ea-fc-2026-07-24-ps.svg)
 
@@ -35,24 +35,24 @@ Em **24/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 98.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 29.7% entre as cartas que se moveram; o universo observado reúne 311 cartas.
-- **Concentração:** Icons aparece em 9 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 104.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 23.9% entre as cartas que se moveram; o universo observado reúne 328 cartas.
+- **Concentração:** Icons aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Anthony Gordon | 88 | Premier League | 165k coins | +53.6% | -15.5% |
-| Giorgio Chiellini | 89 | Icons | 179k coins | +49.2% | +53% |
-| N'Golo Kanté | 89 | ROSHN Saudi League | 130k coins | +39.1% | +13.2% |
-| Marie Katoto | 89 | Frauen-Bundesliga | 140k coins | +36.6% | +122.6% |
-| Maicon | 89 | Serie A TIM | 202k coins | +35.1% | -12.4% |
-| Gabriel Batistuta | 92 | Icons | 289k coins | +33% | -15.2% |
-| Mia Hamm | 94 | Icons | 880k coins | +32.4% | -2.2% |
-| Gheorghe Hagi | 90 | Icons | 90k coins | +31.3% | +23.1% |
-| Alyssa Thompson | 91 | Barclays WSL | 210k coins | +31.2% | +32.9% |
-| Karim Benzema | 88 | ROSHN Saudi League | 97k coins | +30% | -26.5% |
+| Stephan El Shaarawy | 88 | Serie A TIM | 850k coins | +54.5% | +27.4% |
+| Gabriel Batistuta | 92 | Icons | 248k coins | +52.2% | -10.4% |
+| Carles Puyol | 94 | — | 105k coins | +49.7% | -15.4% |
+| Dennis Bergkamp | 93 | Icons | 270k coins | +49% | +36.6% |
+| Achraf Hakimi | 96 | — | 2.50M coins | +46.2% | -8.8% |
+| Matvey Safonov | 88 | Ligue 1 McDonald's | 156k coins | +43.1% | +9.9% |
+| Frenkie de Jong | 89 | LALIGA EA SPORTS | 390k coins | +39.5% | -11.1% |
+| Thierry Henry | 93 | Icons | 964k coins | +38.9% | -4.5% |
+| João Pedro | 89 | Premier League | 273k coins | +37% | +45.7% |
+| Bukayo Saka | 90 | Premier League | 571k coins | +33.3% | +0.2% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **24/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Anthony Gordon (88)** subiu **+53.6%** em 24h, a **165k coins** (faixa do dia: 108k–188k). Está em linha com a média de 7 dias (-7%).
+- **Stephan El Shaarawy (88)** subiu **+54.5%** em 24h, a **850k coins** (faixa do dia: 438k–850k). Está +44% acima da média de 7 dias (aquecida).
 
-- **Giorgio Chiellini (89)** subiu **+49.2%** em 24h, a **179k coins** (faixa do dia: 123k–210k). Está +33% acima da média de 7 dias (aquecida).
+- **Gabriel Batistuta (92)** subiu **+52.2%** em 24h, a **248k coins** (faixa do dia: 136k–288k). Está em linha com a média de 7 dias (+2%).
 
-- **N'Golo Kanté (89)** subiu **+39.1%** em 24h, a **130k coins** (faixa do dia: 59k–140k). Está em linha com a média de 7 dias (+5%).
+- **Carles Puyol (94)** subiu **+49.7%** em 24h, a **105k coins** (faixa do dia: 68k–117k). Está -9% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Lotta Schelin | 92 | Icons | 306k coins | -44.9% | -64.6% |
-| Ramires | 88 | Premier League | 164k coins | -42.5% | -23.7% |
-| Pavel Nedvěd | 89 | Icons | 176k coins | -41.6% | -44.2% |
-| Zico | 92 | Icons | 185k coins | -41% | -18.2% |
-| Lotta Schelin | 91 | Icons | 153k coins | -39.9% | -49.1% |
-| Matty Cash | 96 | — | 170k coins | -38.2% | -66.5% |
-| Djed Spence | 96 | — | 331k coins | -37.2% | -43.4% |
-| Jay-Jay Okocha | 90 | Premier League | 189k coins | -34.3% | -17.4% |
-| Moussa Sissoko | 88 | EFL Championship | 100k coins | -33.8% | -45.9% |
-| Javier Zanetti | 91 | Icons | 80k coins | -33.6% | -48% |
+| Warren Zaïre-Emery | 96 | — | 302k coins | -49.7% | -75.5% |
+| João Félix | 93 | ROSHN Saudi League | 219k coins | -46.9% | -53.1% |
+| Juan Román Riquelme | 89 | Icons | 314k coins | -46.6% | -29.4% |
+| Antonio Di Natale | 89 | Serie A TIM | 131k coins | -45.8% | -25% |
+| Malik Tillman | 88 | Bundesliga | 149k coins | -45.8% | -12.4% |
+| Lilian Thuram | 95 | — | 115k coins | -44.5% | -59.6% |
+| Paolo Maldini | 95 | — | 594k coins | -44.2% | -55.4% |
+| Ewa Pajor | 89 | Liga F | 144k coins | -44.2% | -40% |
+| Roberto Carlos | 91 | Icons | 190k coins | -43.7% | -55.4% |
+| Folarin Balogun | 97 | — | 116k coins | -43.6% | -56.2% |
 
 
 ### Análise das baixas
 
-- **Lotta Schelin (92)** caiu **-44.9%** em 24h, a **306k coins** (faixa do dia: 118k–349k). Está +14% acima da média de 7 dias (aquecida).
+- **Warren Zaïre-Emery (96)** caiu **-49.7%** em 24h, a **302k coins** (faixa do dia: 302k–600k). Está -65% abaixo da média de 7 dias (descontada).
 
-- **Ramires (88)** caiu **-42.5%** em 24h, a **164k coins** (faixa do dia: 164k–316k). Está -34% abaixo da média de 7 dias (descontada).
+- **João Félix (93)** caiu **-46.9%** em 24h, a **219k coins** (faixa do dia: 218k–457k). Está -53% abaixo da média de 7 dias (descontada).
 
-- **Pavel Nedvěd (89)** caiu **-41.6%** em 24h, a **176k coins** (faixa do dia: 176k–360k). Está -46% abaixo da média de 7 dias (descontada).
+- **Juan Román Riquelme (89)** caiu **-46.6%** em 24h, a **314k coins** (faixa do dia: 240k–600k). Está -32% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Anthony Gordon já avançou 53.6% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Stephan El Shaarawy já avançou 54.5% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Lotta Schelin recuou -44.9%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Warren Zaïre-Emery recuou -49.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (24/07/2026)?**
-Anthony Gordon (88, Premier League), com +53.6% em 24h, a 165k coins no Console (PS).
+Stephan El Shaarawy (88, Serie A TIM), com +54.5% em 24h, a 850k coins no Console (PS).
 
 **E a maior queda do dia?**
-Lotta Schelin (92), -44.9% em 24h, a 306k coins.
+Warren Zaïre-Emery (96), -49.7% em 24h, a 302k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está pressionado — as quedas dominam o dia, com 79 cartas em alta contra 187 em queda (média -4.98%).
+Hoje o mercado está pressionado — as quedas dominam o dia, com 77 cartas em alta contra 245 em queda (média -11.65%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
@@ -130,6 +130,5 @@ Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados co
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Investimentos EA FC: Cartas Meta em 24/07 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-07-24-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
