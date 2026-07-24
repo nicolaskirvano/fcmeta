@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T22:25:18.000Z
+pubDatetime: 2026-07-24T01:25:18.000Z
 title: "Investimentos EA FC: Cartas Meta em 23/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **23/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+16.7% em 24h** e **+47.5% em 7 dias**.
-- **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+16.7% em 24h** e **+30.4% em 7 dias**.
+- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,33 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Sofyan Amrabat | 91 | LALIGA EA SPORTS | 110k coins | +13.4% | +83.3% | Esticada |
-| Geoff Hurst | 90 | Icons | 89k coins | +11.2% | +78% | Esticada |
-| Lindsey Heaps | 88 | D1 Arkema | 150k coins | +25% | +77.5% | Esticada |
-| Issa Diop | 95 | — | 180k coins | +13.9% | +71.4% | Esticada |
-| Khadija Shaw | 90 | Barclays WSL | 95k coins | +9.2% | +59.7% | Momentum moderado |
-| Jean-Philippe Mateta | 92 | Premier League | 85k coins | +27% | +55% | Esticada |
-| Gheorghe Hagi | 88 | Icons | 100k coins | +5.1% | +49.3% | Momentum moderado |
-| Alessandro Bastoni | 91 | Serie A TIM | 84k coins | +26.4% | +47.5% | Esticada |
-| Nahuel Molina | 91 | — | 190k coins | +26.6% | +43.9% | Esticada |
+| Klara Bühl | 93 | — | 94k coins | +6.5% | +81.7% | Esticada |
+| Mapi León | 90 | Liga F | 80k coins | +5.3% | +60% | Esticada |
+| Jari Litmanen | 90 | Eredivisie | 90k coins | +28.6% | +57.9% | Esticada |
+| Mapi León | 91 | — | 80k coins | +11.1% | +45.5% | Momentum moderado |
+| Geoff Hurst | 90 | Icons | 91k coins | +13.8% | +44.4% | Momentum moderado |
 | Gheorghe Hagi | 90 | Icons | 150k coins | +25% | +36.4% | Esticada |
-| Marcus Pedersen | 89 | Serie A TIM | 80k coins | +33.3% | +32.7% | Esticada |
+| Leah Williamson | 88 | Barclays WSL | 110k coins | +12.9% | +30.4% | Momentum moderado |
 | Raphinha | 90 | LALIGA EA SPORTS | 125k coins | +3.3% | +30.2% | Momentum moderado |
-| Alexis Mac Allister | 91 | — | 140k coins | +16.7% | +27.3% | Momentum moderado |
-| Nick Woltemade | 90 | Premier League | 100k coins | +11.1% | +26.1% | Momentum moderado |
-| Eric Cantona | 89 | Icons | 196k coins | +24.1% | +21.7% | Esticada |
+| Fermín | 90 | LALIGA EA SPORTS | 110k coins | +25.9% | +29.9% | Esticada |
+| Gerd Müller | 92 | Icons | 139k coins | +39% | +28.7% | Esticada |
+| Lúcio | 89 | Serie A TIM | 115k coins | +16.8% | +27.1% | Momentum moderado |
+| Luís Figo | 89 | Icons | 88k coins | +16.7% | +25.6% | Momentum moderado |
+| Nico O'Reilly | 96 | — | 121k coins | +17.3% | +23.7% | Momentum moderado |
+| David Beckham | 88 | Icons | 98k coins | +24.5% | +19.3% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Sofyan Amrabat (91)** — 110k coins, **+83.3% em 7 dias** (+13.4% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sofyan Amrabat (91)** — 110k coins, **+83.3% em 7 dias** (+13.4% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Geoff Hurst (90)** — 89k coins, **+78% em 7 dias** (+11.2% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Klara Bühl (93)** — 94k coins, **+81.7% em 7 dias** (+6.5% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lindsey Heaps (88)** — 150k coins, **+77.5% em 7 dias** (+25% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mapi León (90)** — 80k coins, **+60% em 7 dias** (+5.3% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Issa Diop (95)** — 180k coins, **+71.4% em 7 dias** (+13.9% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jari Litmanen (90)** — 90k coins, **+57.9% em 7 dias** (+28.6% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Khadija Shaw (90)** — 95k coins, **+59.7% em 7 dias** (+9.2% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mapi León (91)** — 80k coins, **+45.5% em 7 dias** (+11.1% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
