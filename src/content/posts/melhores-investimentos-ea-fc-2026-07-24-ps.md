@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T16:25:12.000Z
+pubDatetime: 2026-07-24T19:25:09.000Z
 title: "Investimentos EA FC: Cartas Meta em 24/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 24/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (24/07/2026) no EA FC?"
-    a: "Dodi Lukébakio (94, sem liga) lidera, com +82.1% em 7 dias a 139k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Jürgen Kohler (90, Bundesliga) lidera, com +80% em 7 dias a 86k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **24/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Dodi Lukébakio (94) acumula **+82.1% em 7 dias** a 139k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Jürgen Kohler (90) acumula **+80% em 7 dias** a 86k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas Meta em 24/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-24-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **24/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.8% em 24h** e **+39.8% em 7 dias**.
-- **11 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+20.7% em 24h** e **+23.1% em 7 dias**.
+- **8 de 11 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,30 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Dodi Lukébakio | 94 | — | 139k coins | +1.4% | +82.1% | Esticada |
-| Selina Cerci | 95 | — | 95k coins | +15.4% | +80.6% | Esticada |
-| Amaiur Sarriegi | 88 | Liga F | 100k coins | +12.8% | +78.8% | Esticada |
-| Jürgen Kohler | 90 | Bundesliga | 90k coins | +16.7% | +75% | Esticada |
-| Jens Petter Hauge | 91 | Eliteserien | 80k coins | +6.7% | +66.7% | Esticada |
-| Patri Guijarro | 90 | Liga F | 97k coins | +9% | +60.3% | Esticada |
-| Ronald Koeman | 91 | Icons | 146k coins | +13.8% | +45.1% | Momentum moderado |
-| Andriy Shevchenko | 90 | Icons | 89k coins | +4.5% | +39.8% | Momentum moderado |
-| Aya Miyama | 91 | Icons | 130k coins | +33.3% | +32% | Esticada |
-| Toni Kroos | 90 | Icons | 107k coins | +11.5% | +30.5% | Momentum moderado |
-| Wesley | 88 | Serie A TIM | 103k coins | +22.8% | +29.6% | Esticada |
-| Ronald Araujo | 94 | — | 215k coins | +6% | +28.8% | Momentum moderado |
-| Patri Guijarro | 91 | Liga F | 118k coins | +20% | +28.3% | Esticada |
-| Oliver Kahn | 91 | Icons | 127k coins | +31.6% | +28.3% | Esticada |
-| Bastian Schweinsteiger | 88 | Icons | 92k coins | +35.3% | +25.3% | Esticada |
+| Jürgen Kohler | 90 | Bundesliga | 86k coins | +20% | +80% | Esticada |
+| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 84k coins | +20.7% | +65.7% | Esticada |
+| Beth Mead | 88 | Barclays WSL | 82k coins | +6.4% | +50.9% | Momentum moderado |
+| Ronald Koeman | 91 | Icons | 138k coins | +21.8% | +45% | Esticada |
+| Alyssa Thompson | 91 | Barclays WSL | 210k coins | +31.2% | +32.9% | Esticada |
+| Gheorghe Hagi | 90 | Icons | 90k coins | +31.3% | +23.1% | Esticada |
+| Nico Williams | 89 | LALIGA EA SPORTS | 150k coins | +15.9% | +22.4% | Momentum moderado |
+| Oliver Kahn | 91 | Icons | 122k coins | +26.4% | +18.4% | Esticada |
+| N'Golo Kanté | 89 | ROSHN Saudi League | 130k coins | +39.1% | +13.2% | Esticada |
+| Fermín | 90 | LALIGA EA SPORTS | 90k coins | +20.1% | +13.2% | Esticada |
+| David Beckham | 88 | Icons | 82k coins | +9.3% | +6.5% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Dodi Lukébakio (94)** — 139k coins, **+82.1% em 7 dias** (+1.4% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jürgen Kohler (90)** — 86k coins, **+80% em 7 dias** (+20% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Selina Cerci (95)** — 95k coins, **+80.6% em 7 dias** (+15.4% em 24h). Preço +49% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ousmane Dembélé (90)** — 84k coins, **+65.7% em 7 dias** (+20.7% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Amaiur Sarriegi (88)** — 100k coins, **+78.8% em 7 dias** (+12.8% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Beth Mead (88)** — 82k coins, **+50.9% em 7 dias** (+6.4% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jürgen Kohler (90)** — 90k coins, **+75% em 7 dias** (+16.7% em 24h). Preço +53% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ronald Koeman (91)** — 138k coins, **+45% em 7 dias** (+21.8% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jens Petter Hauge (91)** — 80k coins, **+66.7% em 7 dias** (+6.7% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alyssa Thompson (91)** — 210k coins, **+32.9% em 7 dias** (+31.2% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +84,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (24/07/2026) no EA FC?**  
-Dodi Lukébakio (94, sem liga) lidera, com +82.1% em 7 dias a 139k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Jürgen Kohler (90, Bundesliga) lidera, com +80% em 7 dias a 86k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
