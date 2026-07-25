@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T10:25:18.000Z
+pubDatetime: 2026-07-25T13:25:18.000Z
 title: "Investimentos EA FC: Cartas Meta em 25/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 25/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (25/07/2026) no EA FC?"
-    a: "Koke (88, LALIGA EA SPORTS) lidera, com +74.8% em 7 dias a 131k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Kenny Dalglish (89, Icons) lidera, com +79.7% em 7 dias a 139k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **25/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Koke (88) acumula **+74.8% em 7 dias** a 131k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Kenny Dalglish (89) acumula **+79.7% em 7 dias** a 139k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas Meta em 25/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-25-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **25/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+22.9% em 24h** e **+31.2% em 7 dias**.
-- **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+15.6% em 24h** e **+36.0% em 7 dias**.
+- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Koke | 88 | LALIGA EA SPORTS | 131k coins | +34.7% | +74.8% | Esticada |
-| Hristo Stoichkov | 89 | Icons | 109k coins | +21.3% | +68.9% | Esticada |
-| Kyle Walker | 89 | Premier League | 235k coins | +22.9% | +62.3% | Esticada |
-| Theo Hernández | 88 | ROSHN Saudi League | 144k coins | +13.5% | +44.1% | Momentum moderado |
-| Darwin Núñez | 90 | ROSHN Saudi League | 190k coins | +15.6% | +42.3% | Momentum moderado |
-| Oliver Kahn | 91 | Icons | 118k coins | +24.5% | +36.3% | Esticada |
-| Carlos Baleba | 90 | Premier League | 120k coins | +39.5% | +33.3% | Esticada |
-| Mario Kempes | 88 | — | 122k coins | +35.5% | +31.2% | Esticada |
-| Caroline Seger | 90 | Icons | 89k coins | +30% | +30% | Esticada |
-| Declan Rice | 89 | Premier League | 123k coins | +24.2% | +28.8% | Esticada |
-| De Gea | 89 | Serie A TIM | 190k coins | +22.6% | +28.4% | Esticada |
-| Alessandro Bastoni | 91 | Serie A TIM | 84k coins | +15.1% | +25.4% | Momentum moderado |
-| Mariona | 96 | Barclays WSL | 230k coins | +3.4% | +24.6% | Entrada a observar |
-| Millie Bright | 88 | Barclays WSL | 88k coins | +23.1% | +23.1% | Esticada |
-| Leah Williamson | 88 | Barclays WSL | 95k coins | +2.1% | +22% | Entrada a observar |
+| Kenny Dalglish | 89 | Icons | 139k coins | +15.6% | +79.7% | Esticada |
+| Alessia Russo | 90 | Barclays WSL | 80k coins | +9.6% | +73.9% | Esticada |
+| Koke | 88 | LALIGA EA SPORTS | 128k coins | +37.2% | +70.9% | Esticada |
+| Weston McKennie | 92 | Serie A TIM | 92k coins | +4.3% | +62.2% | Esticada |
+| Eric Cantona | 92 | — | 109k coins | +40% | +58.8% | Esticada |
+| Khadija Shaw | 90 | Barclays WSL | 95k coins | +26.7% | +53.2% | Esticada |
+| Noa Lang | 91 | Trendyol Süper Lig | 85k coins | +9.1% | +48.8% | Momentum moderado |
+| Lautaro Martínez | 95 | — | 92k coins | +3.3% | +36% | Momentum moderado |
+| David Beckham | 88 | Icons | 104k coins | +8.3% | +35.9% | Momentum moderado |
+| Lúcio | 89 | Serie A TIM | 100k coins | +17% | +34.2% | Momentum moderado |
+| Bastian Schweinsteiger | 89 | Icons | 180k coins | +21.6% | +33.3% | Esticada |
+| David Raya | 93 | Premier League | 83k coins | +18.4% | +31.5% | Momentum moderado |
+| Lindsey Heaps | 90 | D1 Arkema | 90k coins | +20% | +23.3% | Esticada |
+| Trinity Rodman | 88 | NWSL | 207k coins | +6.2% | +15% | Momentum moderado |
+| Oliver Kahn | 91 | Icons | 104k coins | +11.2% | +11.8% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Koke (88)** — 131k coins, **+74.8% em 7 dias** (+34.7% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kenny Dalglish (89)** — 139k coins, **+79.7% em 7 dias** (+15.6% em 24h). Preço -23% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Hristo Stoichkov (89)** — 109k coins, **+68.9% em 7 dias** (+21.3% em 24h). Preço em linha com a média de 7 dias (-4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alessia Russo (90)** — 80k coins, **+73.9% em 7 dias** (+9.6% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Kyle Walker (89)** — 235k coins, **+62.3% em 7 dias** (+22.9% em 24h). Preço -38% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Koke (88)** — 128k coins, **+70.9% em 7 dias** (+37.2% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Theo Hernández (88)** — 144k coins, **+44.1% em 7 dias** (+13.5% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Weston McKennie (92)** — 92k coins, **+62.2% em 7 dias** (+4.3% em 24h). Preço +75% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Darwin Núñez (90)** — 190k coins, **+42.3% em 7 dias** (+15.6% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Eric Cantona (92)** — 109k coins, **+58.8% em 7 dias** (+40% em 24h). Preço -30% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (25/07/2026) no EA FC?**  
-Koke (88, LALIGA EA SPORTS) lidera, com +74.8% em 7 dias a 131k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Kenny Dalglish (89, Icons) lidera, com +79.7% em 7 dias a 139k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

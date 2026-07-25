@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T10:25:07.000Z
+pubDatetime: 2026-07-25T13:25:07.000Z
 title: "Mercado EA FC em 25/07: Cartas Meta — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 25/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (25/07/2026)?"
-    a: "Stephan El Shaarawy (88, Serie A TIM), com +57.2% em 24h, a 849k coins no Console (PS)."
+    a: "Aitana Bonmatí (91, Liga F), com +59% em 24h, a 1.10M coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Alex Morgan (93), -49.1% em 24h, a 190k coins."
+    a: "Lamine Yamal (97), -49.6% em 24h, a 350k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em baixa — predominam as quedas, com 109 cartas em alta contra 278 em queda (média -9.56%)."
+    a: "Hoje o mercado está em baixa — predominam as quedas, com 117 cartas em alta contra 244 em queda (média -8.46%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Panorama de **25/07/2026** (Console (PS)): mercado **em baixa** — predominam as quedas. Entre as cartas relevantes (80+ e acima de 5k coins), foram **109 em alta** e **278 em queda**, média de **-9.56%** no dia. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Panorama de **25/07/2026** (Console (PS)): mercado **em baixa** — predominam as quedas. Entre as cartas relevantes (80+ e acima de 5k coins), foram **117 em alta** e **244 em queda**, média de **-8.46%** no dia. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Stephan El Shaarawy (88) **+57.2%** · 🔴 **Maior baixa:** Alex Morgan (93) **-49.1%**
+> 🟢 **Maior alta:** Aitana Bonmatí (91) **+59%** · 🔴 **Maior baixa:** Lamine Yamal (97) **-49.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 25/07: Cartas Meta — Console (PS)](/charts/mercado-ea-fc-2026-07-25-ps.svg)
 
@@ -35,24 +35,24 @@ Panorama de **25/07/2026** (Console (PS)): mercado **em baixa** — predominam a
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 106.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 28.2% entre as cartas que se moveram; o universo observado reúne 394 cartas.
+- **Amplitude do dia:** 108.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 32.4% entre as cartas que se moveram; o universo observado reúne 396 cartas.
 - **Concentração:** Icons aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Stephan El Shaarawy | 88 | Serie A TIM | 849k coins | +57.2% | +27.3% |
-| Paul Scholes | 91 | Icons | 174k coins | +50.4% | +17.3% |
-| Harry Kane | 97 | — | 740k coins | +50.3% | -8.8% |
-| Eric Cantona | 89 | Icons | 100k coins | +49.7% | 0% |
-| Martin Ødegaard | 88 | Premier League | 86k coins | +48.3% | +19.9% |
-| Marcelo | 95 | — | 185k coins | +46.2% | -11.6% |
-| Declan Rice | 91 | Premier League | 286k coins | +44.4% | +1.1% |
-| Paolo Maldini | 95 | — | 1.60M coins | +42.9% | +25.1% |
-| Federico Valverde | 89 | LALIGA EA SPORTS | 183k coins | +38.3% | -15.6% |
-| Eden Hazard | 92 | Premier League | 614k coins | +38.1% | -10.8% |
+| Aitana Bonmatí | 91 | Liga F | 1.10M coins | +59% | +3.6% |
+| Paul Scholes | 91 | Icons | 147k coins | +54.2% | -4.5% |
+| Toni Kroos | 91 | Icons | 275k coins | +52.6% | +34.9% |
+| Martin Ødegaard | 88 | Premier League | 84k coins | +50.4% | +21.4% |
+| Emily van Egmond | 88 | Barclays WSL | 238k coins | +48.8% | +71.2% |
+| Luka Modrić | 89 | Serie A TIM | 114k coins | +46.7% | -13.3% |
+| Ada Hegerberg | 88 | Frauen-Bundesliga | 85k coins | +46.6% | +50.4% |
+| De Gea | 89 | Serie A TIM | 138k coins | +43.8% | +60.5% |
+| Marco van Basten | 94 | — | 128k coins | +43% | +17.4% |
+| Marcelo | 95 | — | 180k coins | +42.9% | -14.7% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Panorama de **25/07/2026** (Console (PS)): mercado **em baixa** — predominam a
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Stephan El Shaarawy (88)** subiu **+57.2%** em 24h, a **849k coins** (faixa do dia: 438k–850k). Está +42% acima da média de 7 dias (aquecida).
+- **Aitana Bonmatí (91)** subiu **+59%** em 24h, a **1.10M coins** (faixa do dia: 692k–1.10M). Está +11% acima da média de 7 dias (aquecida).
 
-- **Paul Scholes (91)** subiu **+50.4%** em 24h, a **174k coins** (faixa do dia: 86k–180k). Está em linha com a média de 7 dias (+4%).
+- **Paul Scholes (91)** subiu **+54.2%** em 24h, a **147k coins** (faixa do dia: 86k–180k). Está -12% abaixo da média de 7 dias (descontada).
 
-- **Harry Kane (97)** subiu **+50.3%** em 24h, a **740k coins** (faixa do dia: 480k–900k). Está +10% acima da média de 7 dias (aquecida).
+- **Toni Kroos (91)** subiu **+52.6%** em 24h, a **275k coins** (faixa do dia: 122k–340k). Está +29% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alex Morgan | 93 | Icons | 190k coins | -49.1% | -44.1% |
-| Jobe Bellingham | 89 | Bundesliga | 86k coins | -47.5% | -56.8% |
-| Lamine Yamal | 92 | LALIGA EA SPORTS | 264k coins | -47.3% | -59.2% |
-| Lamine Yamal | 97 | — | 299k coins | -47.1% | -66% |
-| Pedri | 90 | LALIGA EA SPORTS | 95k coins | -46.5% | -63.6% |
-| Juan Román Riquelme | 89 | Icons | 301k coins | -45.9% | -25.1% |
-| Samuel Eto'o | 89 | Icons | 110k coins | -45.8% | -46.8% |
-| Omar Marmoush | 96 | — | 119k coins | -45.8% | -61.7% |
-| Alessia Russo | 97 | Barclays WSL | 86k coins | -45.1% | -52.9% |
-| Bruno Fernandes | 97 | — | 200k coins | -44.8% | -61.8% |
+| Lamine Yamal | 97 | — | 350k coins | -49.6% | -65.8% |
+| Chadi Riad | 96 | — | 170k coins | -49.5% | -45.8% |
+| Paolo Maldini | 92 | Icons | 130k coins | -49.3% | -64.4% |
+| Alessia Russo | 97 | Barclays WSL | 80k coins | -48.7% | -56.4% |
+| Jean-Philippe Mateta | 96 | — | 130k coins | -47.1% | -58.3% |
+| Jobe Bellingham | 89 | Bundesliga | 90k coins | -47.1% | -55% |
+| Claudia Pina | 88 | Liga F | 80k coins | -46.4% | -58.3% |
+| Morgan Rogers | 96 | — | 185k coins | -45.5% | -40% |
+| Eusébio | 91 | Icons | 259k coins | -45.4% | -52.2% |
+| Eusébio | 92 | Icons | 450k coins | -45.3% | -50.5% |
 
 
 ### Análise das baixas
 
-- **Alex Morgan (93)** caiu **-49.1%** em 24h, a **190k coins** (faixa do dia: 178k–375k). Está -42% abaixo da média de 7 dias (descontada).
+- **Lamine Yamal (97)** caiu **-49.6%** em 24h, a **350k coins** (faixa do dia: 195k–595k). Está -50% abaixo da média de 7 dias (descontada).
 
-- **Jobe Bellingham (89)** caiu **-47.5%** em 24h, a **86k coins** (faixa do dia: 60k–206k). Está -58% abaixo da média de 7 dias (descontada).
+- **Chadi Riad (96)** caiu **-49.5%** em 24h, a **170k coins** (faixa do dia: 131k–481k). Está -53% abaixo da média de 7 dias (descontada).
 
-- **Lamine Yamal (92)** caiu **-47.3%** em 24h, a **264k coins** (faixa do dia: 261k–650k). Está -57% abaixo da média de 7 dias (descontada).
+- **Paolo Maldini (92)** caiu **-49.3%** em 24h, a **130k coins** (faixa do dia: 114k–299k). Está -60% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Stephan El Shaarawy já avançou 57.2% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Aitana Bonmatí já avançou 59% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Alex Morgan recuou -49.1%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Lamine Yamal recuou -49.6%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (25/07/2026)?**
-Stephan El Shaarawy (88, Serie A TIM), com +57.2% em 24h, a 849k coins no Console (PS).
+Aitana Bonmatí (91, Liga F), com +59% em 24h, a 1.10M coins no Console (PS).
 
 **E a maior queda do dia?**
-Alex Morgan (93), -49.1% em 24h, a 190k coins.
+Lamine Yamal (97), -49.6% em 24h, a 350k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em baixa — predominam as quedas, com 109 cartas em alta contra 278 em queda (média -9.56%).
+Hoje o mercado está em baixa — predominam as quedas, com 117 cartas em alta contra 244 em queda (média -8.46%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
