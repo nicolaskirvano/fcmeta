@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T19:25:18.000Z
+pubDatetime: 2026-07-26T22:25:18.000Z
 title: "Investimentos EA FC: Cartas Meta em 26/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **26/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+11.1% em 24h** e **+27.0% em 7 dias**.
-- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+11.1% em 24h** e **+28.1% em 7 dias**.
+- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **NWSL** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,33 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Javier Mascherano | 89 | LALIGA EA SPORTS | 104k coins | +23.1% | +76.3% | Esticada |
-| Debinha | 89 | NWSL | 98k coins | +2.1% | +57.6% | Momentum moderado |
-| Edwin van der Sar | 88 | Icons | 168k coins | +5% | +40% | Momentum moderado |
-| Nahuel Molina | 91 | — | 130k coins | +20% | +37.9% | Esticada |
-| Matthias Ginter | 88 | Bundesliga | 94k coins | +4.3% | +37.9% | Momentum moderado |
-| Raphinha | 91 | LALIGA EA SPORTS | 100k coins | +8.5% | +36.1% | Momentum moderado |
-| Declan Rice | 89 | Premier League | 112k coins | +1.8% | +28.7% | Momentum moderado |
-| Gerd Müller | 92 | Icons | 127k coins | +14.4% | +27% | Momentum moderado |
-| Lindsey Heaps | 88 | D1 Arkema | 136k coins | +25.9% | +23.6% | Esticada |
-| Franz Beckenbauer | 92 | Icons | 150k coins | +25.2% | +20.7% | Esticada |
-| Tara McKeown | 95 | — | 100k coins | +9.9% | +19.8% | Momentum moderado |
-| Javier Zanetti | 89 | Icons | 88k coins | +30.4% | +17.3% | Esticada |
-| Marcel Desailly | 93 | — | 80k coins | +2.5% | +15% | Entrada a observar |
-| Cha Bum Kun | 88 | Icons | 192k coins | +11.1% | +8.1% | Momentum moderado |
-| Bastian Schweinsteiger | 89 | Icons | 145k coins | +21.8% | +6.6% | Esticada |
+| Debinha | 89 | NWSL | 120k coins | +1.5% | +57.6% | Momentum moderado |
+| Martin Ødegaard | 88 | Premier League | 124k coins | +35.9% | +52.4% | Esticada |
+| Wayne Rooney | 88 | Icons | 177k coins | +4.6% | +46.8% | Momentum moderado |
+| Giorgio Chiellini | 89 | Icons | 107k coins | +12.5% | +42.1% | Momentum moderado |
+| Patrick Berg | 95 | — | 80k coins | +4.5% | +31.1% | Momentum moderado |
+| Serhou Guirassy | 89 | Bundesliga | 170k coins | +38.2% | +30.8% | Esticada |
+| Declan Rice | 89 | Premier League | 107k coins | +8.1% | +28.1% | Momentum moderado |
+| Marcel Desailly | 93 | — | 90k coins | +16.2% | +27.9% | Momentum moderado |
+| Matthias Ginter | 88 | Bundesliga | 89k coins | +7.2% | +27.1% | Momentum moderado |
+| Mallory Swanson | 88 | NWSL | 174k coins | +7.2% | +27% | Momentum moderado |
+| Marie Katoto | 89 | Frauen-Bundesliga | 159k coins | +26.2% | +22.3% | Esticada |
+| Mattéo Guendouzi | 91 | Trendyol Süper Lig | 85k coins | +6.3% | +21.6% | Momentum moderado |
+| Tara McKeown | 95 | — | 81k coins | +11.1% | +20.5% | Momentum moderado |
+| Amaiur Sarriegi | 88 | Liga F | 95k coins | +37.7% | +20.3% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Javier Mascherano (89)** — 104k coins, **+76.3% em 7 dias** (+23.1% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Javier Mascherano (89)** — 104k coins, **+76.3% em 7 dias** (+23.1% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Debinha (89)** — 98k coins, **+57.6% em 7 dias** (+2.1% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Debinha (89)** — 120k coins, **+57.6% em 7 dias** (+1.5% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Edwin van der Sar (88)** — 168k coins, **+40% em 7 dias** (+5% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Martin Ødegaard (88)** — 124k coins, **+52.4% em 7 dias** (+35.9% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nahuel Molina (91)** — 130k coins, **+37.9% em 7 dias** (+20% em 24h). Preço -16% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Wayne Rooney (88)** — 177k coins, **+46.8% em 7 dias** (+4.6% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Matthias Ginter (88)** — 94k coins, **+37.9% em 7 dias** (+4.3% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Giorgio Chiellini (89)** — 107k coins, **+42.1% em 7 dias** (+12.5% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
