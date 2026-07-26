@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T13:25:07.000Z
+pubDatetime: 2026-07-26T16:25:08.000Z
 title: "Mercado EA FC em 26/07: Cartas Meta — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 26/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (26/07/2026)?"
-    a: "Frenkie de Jong (89, LALIGA EA SPORTS), com +58.2% em 24h, a 420k coins no Console (PS)."
+    a: "Gheorghe Hagi (90, Icons), com +55.6% em 24h, a 90k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Ramires (88), -50% em 24h, a 130k coins."
+    a: "Bruno Fernandes (93), -47.6% em 24h, a 132k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 168 cartas em alta contra 151 em queda (média 3.73%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 212 cartas em alta contra 174 em queda (média 4.92%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado do **EA FC** abre **26/07/2026** no Console (PS) com clima **comprador** — a maioria das cartas subiu: **168 cartas subiram** e **151 caíram** (80+ acima de 5k coins), variação média de **3.73%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **26/07/2026** no Console (PS) com clima **comprador** — a maioria das cartas subiu: **212 cartas subiram** e **174 caíram** (80+ acima de 5k coins), variação média de **4.92%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Frenkie de Jong (89) **+58.2%** · 🔴 **Maior baixa:** Ramires (88) **-50%**
+> 🟢 **Maior alta:** Gheorghe Hagi (90) **+55.6%** · 🔴 **Maior baixa:** Bruno Fernandes (93) **-47.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 26/07: Cartas Meta — Console (PS)](/charts/mercado-ea-fc-2026-07-26-ps.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **26/07/2026** no Console (PS) com clima **comprador
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 108.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 52.7% entre as cartas que se moveram; o universo observado reúne 364 cartas.
+- **Amplitude do dia:** 103.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 54.9% entre as cartas que se moveram; o universo observado reúne 408 cartas.
 - **Concentração:** Icons aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Frenkie de Jong | 89 | LALIGA EA SPORTS | 420k coins | +58.2% | -7% |
-| Lionel Messi | 90 | MLS | 2.25M coins | +51.4% | -22.1% |
-| Virgil van Dijk | 95 | Premier League | 650k coins | +49.7% | -20.8% |
-| Gareth Bale | 89 | Icons | 1.10M coins | +45.5% | -14.8% |
-| João Neves | 93 | Ligue 1 McDonald's | 118k coins | +42.2% | -36.6% |
-| Sadio Mané | 88 | ROSHN Saudi League | 131k coins | +40% | -7.9% |
-| Garrincha | 93 | Icons | 700k coins | +35.4% | +16% |
-| Thierry Henry | 96 | — | 594k coins | +32.9% | -15% |
-| Iniesta | 92 | Icons | 199k coins | +32.9% | -23.1% |
-| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 490k coins | +31.7% | -50.1% |
+| Gheorghe Hagi | 90 | Icons | 90k coins | +55.6% | -22.2% |
+| Nico Williams | 93 | LALIGA EA SPORTS | 188k coins | +54.7% | -15.2% |
+| Lautaro Martínez | 90 | Serie A TIM | 97k coins | +52.8% | -11% |
+| Pierre Kalulu | 91 | Serie A TIM | 84k coins | +47.9% | +24.5% |
+| Olivier Giroud | 88 | Ligue 1 McDonald's | 194k coins | +47.4% | -15% |
+| Bremer | 88 | Serie A TIM | 273k coins | +45% | -18% |
+| Ruud Gullit | 90 | Icons | 1.40M coins | +44.5% | -39% |
+| Karim Benzema | 88 | ROSHN Saudi League | 88k coins | +42.9% | +7.1% |
+| Johan Cruyff | 93 | Icons | 270k coins | +41% | -25.2% |
+| Kevin De Bruyne | 89 | Serie A TIM | 90k coins | +40.6% | -11.8% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **26/07/2026** no Console (PS) com clima **comprador
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Frenkie de Jong (89)** subiu **+58.2%** em 24h, a **420k coins** (faixa do dia: 280k–498k). Está em linha com a média de 7 dias (-2%).
+- **Gheorghe Hagi (90)** subiu **+55.6%** em 24h, a **90k coins** (faixa do dia: 32k–127k). Está em linha com a média de 7 dias (+6%).
 
-- **Lionel Messi (90)** subiu **+51.4%** em 24h, a **2.25M coins** (faixa do dia: 1.65M–5M). Está -18% abaixo da média de 7 dias (descontada).
+- **Nico Williams (93)** subiu **+54.7%** em 24h, a **188k coins** (faixa do dia: 111k–315k). Está -31% abaixo da média de 7 dias (descontada).
 
-- **Virgil van Dijk (95)** subiu **+49.7%** em 24h, a **650k coins** (faixa do dia: 448k–889k). Está em linha com a média de 7 dias (-6%).
+- **Lautaro Martínez (90)** subiu **+52.8%** em 24h, a **97k coins** (faixa do dia: 50k–100k). Está em linha com a média de 7 dias (-6%).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ramires | 88 | Premier League | 130k coins | -50% | -50.4% |
-| Olivia Smith | 91 | Barclays WSL | 283k coins | -43.2% | -38.7% |
-| Johan Cruyff | 94 | Icons | 469k coins | -39.1% | -27.8% |
-| Maicon | 89 | Serie A TIM | 157k coins | -36.7% | -30.2% |
-| Tyrick Mitchell | 96 | — | 110k coins | -36.4% | -61.5% |
-| Aitana Bonmatí | 91 | Liga F | 701k coins | -36.3% | -36.3% |
-| Zico | 92 | Icons | 213k coins | -35.2% | -26.2% |
-| Anthony Gordon | 90 | Premier League | 337k coins | -34.6% | -57.4% |
-| Esmee Brugts | 96 | — | 155k coins | -33.3% | -63.9% |
-| Warren Zaïre-Emery | 96 | — | 298k coins | -30.9% | -70.5% |
+| Bruno Fernandes | 93 | Premier League | 132k coins | -47.6% | -71.8% |
+| Tyrick Mitchell | 96 | — | 92k coins | -43.4% | -64.4% |
+| Eden Hazard | 92 | Premier League | 464k coins | -39.7% | -28.4% |
+| Kyle Walker | 89 | Premier League | 94k coins | -35.6% | -66.2% |
+| Virgil van Dijk | 90 | Premier League | 800k coins | -34.6% | -15% |
+| Homare Sawa | 91 | Icons | 83k coins | -32.7% | -29.8% |
+| Maicon | 89 | Serie A TIM | 152k coins | -29.3% | -32.4% |
+| Esmee Brugts | 96 | — | 121k coins | -29.3% | -65.9% |
+| Samuel Eto'o | 89 | Icons | 85k coins | -29.3% | -61.8% |
+| Olivia Smith | 91 | Barclays WSL | 240k coins | -29% | -43.6% |
 
 
 ### Análise das baixas
 
-- **Ramires (88)** caiu **-50%** em 24h, a **130k coins** (faixa do dia: 102k–278k). Está -43% abaixo da média de 7 dias (descontada).
+- **Bruno Fernandes (93)** caiu **-47.6%** em 24h, a **132k coins** (faixa do dia: 50k–170k). Está -13% abaixo da média de 7 dias (descontada).
 
-- **Olivia Smith (91)** caiu **-43.2%** em 24h, a **283k coins** (faixa do dia: 238k–432k). Está -24% abaixo da média de 7 dias (descontada).
+- **Tyrick Mitchell (96)** caiu **-43.4%** em 24h, a **92k coins** (faixa do dia: 90k–162k). Está -53% abaixo da média de 7 dias (descontada).
 
-- **Johan Cruyff (94)** caiu **-39.1%** em 24h, a **469k coins** (faixa do dia: 429k–1M). Está -18% abaixo da média de 7 dias (descontada).
+- **Eden Hazard (92)** caiu **-39.7%** em 24h, a **464k coins** (faixa do dia: 435k–790k). Está -26% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Frenkie de Jong já avançou 58.2% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Gheorghe Hagi já avançou 55.6% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Ramires recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Bruno Fernandes recuou -47.6%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -118,13 +118,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (26/07/2026)?**
-Frenkie de Jong (89, LALIGA EA SPORTS), com +58.2% em 24h, a 420k coins no Console (PS).
+Gheorghe Hagi (90, Icons), com +55.6% em 24h, a 90k coins no Console (PS).
 
 **E a maior queda do dia?**
-Ramires (88), -50% em 24h, a 130k coins.
+Bruno Fernandes (93), -47.6% em 24h, a 132k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 168 cartas em alta contra 151 em queda (média 3.73%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 212 cartas em alta contra 174 em queda (média 4.92%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
