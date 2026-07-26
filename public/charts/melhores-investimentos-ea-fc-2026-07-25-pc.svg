@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Louisa Necib</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+75.6%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ashley Sanchez</text>
-<rect x="285" y="153" width="332" height="28" rx="7" fill="#22c55e"/>
-<text x="627" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+52.3%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sveindís Jane Jónsdóttir</text>
-<rect x="285" y="211" width="288" height="28" rx="7" fill="#22c55e"/>
-<text x="583" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+45.3%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Marco van Basten</text>
-<rect x="285" y="269" width="219" height="28" rx="7" fill="#22c55e"/>
-<text x="514" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+34.5%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Debinha</text>
-<rect x="285" y="327" width="186" height="28" rx="7" fill="#22c55e"/>
-<text x="481" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+29.3%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Fabio Cannavaro</text>
-<rect x="285" y="385" width="180" height="28" rx="7" fill="#22c55e"/>
-<text x="475" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+28.3%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+80.2%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Senne Lammens</text>
+<rect x="285" y="153" width="304" height="28" rx="7" fill="#22c55e"/>
+<text x="599" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.8%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ashley Sanchez</text>
+<rect x="285" y="211" width="292" height="28" rx="7" fill="#22c55e"/>
+<text x="587" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+48.8%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Julian Ryerson</text>
+<rect x="285" y="269" width="130" height="28" rx="7" fill="#22c55e"/>
+<text x="425" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+21.8%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Fabio Cannavaro</text>
+<rect x="285" y="327" width="126" height="28" rx="7" fill="#22c55e"/>
+<text x="421" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+21.1%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jonathan Tah</text>
+<rect x="285" y="385" width="120" height="28" rx="7" fill="#22c55e"/>
+<text x="415" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+20.0%</text>
 </svg>
