@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T10:25:17.000Z
+pubDatetime: 2026-07-26T13:25:17.000Z
 title: "Mercado EA FC em 26/07: Cartas Meta — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 26/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (26/07/2026)?"
-    a: "Lev Yashin (92, Icons), com +58.2% em 24h, a 121k coins no PC."
+    a: "Gareth Bale (88, Icons), com +57.7% em 24h, a 729k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Emiliano Buendía (96), -50% em 24h, a 135k coins."
+    a: "Paolo Maldini (95), -50% em 24h, a 895k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 255 cartas em alta contra 244 em queda (média 7.16%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 173 cartas em alta contra 196 em queda (média 3.27%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado do **EA FC** abre **26/07/2026** no PC com clima **comprador** — a maioria das cartas subiu: **255 cartas subiram** e **244 caíram** (80+ acima de 5k coins), variação média de **7.16%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **26/07/2026** no PC com clima **comprador** — a maioria das cartas subiu: **173 cartas subiram** e **196 caíram** (80+ acima de 5k coins), variação média de **3.27%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Lev Yashin (92) **+58.2%** · 🔴 **Maior baixa:** Emiliano Buendía (96) **-50%**
+> 🟢 **Maior alta:** Gareth Bale (88) **+57.7%** · 🔴 **Maior baixa:** Paolo Maldini (95) **-50%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 26/07: Cartas Meta — PC](/charts/mercado-ea-fc-2026-07-26-pc.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **26/07/2026** no PC com clima **comprador** — a m
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 108.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 51.1% entre as cartas que se moveram; o universo observado reúne 563 cartas.
-- **Concentração:** Icons aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 107.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 46.9% entre as cartas que se moveram; o universo observado reúne 440 cartas.
+- **Concentração:** Premier League aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Lev Yashin | 92 | Icons | 121k coins | +58.2% | +4.3% |
-| Gareth Bale | 88 | Icons | 737k coins | +58.2% | -37.3% |
-| Scott McTominay | 94 | — | 210k coins | +55.6% | -2.3% |
-| Johan Cruyff | 94 | Icons | 900k coins | +55.4% | +38.9% |
-| Paul Onuachu | 95 | — | 108k coins | +55.4% | +35.8% |
-| Malik Tillman | 88 | Bundesliga | 250k coins | +55.3% | +133.6% |
-| Frenkie de Jong | 89 | LALIGA EA SPORTS | 1.49M coins | +50.5% | -17.2% |
+| Gareth Bale | 88 | Icons | 729k coins | +57.7% | -36% |
+| Victor Osimhen | 88 | Trendyol Süper Lig | 159k coins | +54.4% | +33.6% |
+| Malik Tillman | 88 | Bundesliga | 245k coins | +53.7% | +132.7% |
 | Ronaldo | 92 | Icons | 15M coins | +50% | 0% |
-| Ryan Gravenberch | 93 | Premier League | 100k coins | +48.1% | -58% |
-| Eden Hazard | 96 | — | 2.50M coins | +47.1% | +25% |
+| Elliot Anderson | 89 | Premier League | 124k coins | +49.7% | +1.6% |
+| Ryan Gravenberch | 93 | Premier League | 99k coins | +48.1% | -58.5% |
+| Rafael Leão | 93 | Serie A TIM | 1.50M coins | +47.9% | -24.6% |
+| Karim Benzema | 88 | ROSHN Saudi League | 192k coins | +47.7% | +60% |
+| Senne Lammens | 88 | Premier League | 90k coins | +46.8% | +73.3% |
+| Eden Hazard | 88 | Premier League | 390k coins | +46.1% | +7.1% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **26/07/2026** no PC com clima **comprador** — a m
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Lev Yashin (92)** subiu **+58.2%** em 24h, a **121k coins** (faixa do dia: 70k–129k). Está em linha com a média de 7 dias (+2%).
+- **Gareth Bale (88)** subiu **+57.7%** em 24h, a **729k coins** (faixa do dia: 463k–864k). Está -24% abaixo da média de 7 dias (descontada).
 
-- **Gareth Bale (88)** subiu **+58.2%** em 24h, a **737k coins** (faixa do dia: 446k–864k). Está -24% abaixo da média de 7 dias (descontada).
+- **Victor Osimhen (88)** subiu **+54.4%** em 24h, a **159k coins** (faixa do dia: 81k–160k). Está +15% acima da média de 7 dias (aquecida).
 
-- **Scott McTominay (94)** subiu **+55.6%** em 24h, a **210k coins** (faixa do dia: 129k–210k). Está +9% acima da média de 7 dias (aquecida).
+- **Malik Tillman (88)** subiu **+53.7%** em 24h, a **245k coins** (faixa do dia: 146k–250k). Está +34% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Emiliano Buendía | 96 | — | 135k coins | -50% | -79.2% |
-| Khvicha Kvaratskhelia | 96 | — | 500k coins | -49.7% | -63.5% |
-| Jairzinho | 89 | Icons | 220k coins | -47.6% | -33.3% |
-| Ollie Watkins | 96 | — | 116k coins | -44.8% | -52.3% |
-| Désiré Doué | 91 | Ligue 1 McDonald's | 166k coins | -44.1% | -72.8% |
-| Ismaïla Sarr | 96 | — | 150k coins | -43.4% | -63% |
-| Jay-Jay Okocha | 90 | Premier League | 149k coins | -43.1% | -48.4% |
-| Julian Araujo | 89 | Scottish Premiership | 120k coins | -42.9% | -42.6% |
-| Sadio Mané | 88 | ROSHN Saudi League | 130k coins | -42.7% | -9.1% |
-| Clara Serrajordi | 96 | — | 110k coins | -42.7% | -71.8% |
+| Paolo Maldini | 95 | — | 895k coins | -50% | -29.6% |
+| Jairzinho | 89 | Icons | 219k coins | -47.9% | -33.6% |
+| Jay-Jay Okocha | 90 | Premier League | 151k coins | -43.5% | -48.8% |
+| Ismaïla Sarr | 96 | — | 158k coins | -41.7% | -61.9% |
+| N'Golo Kanté | 89 | ROSHN Saudi League | 150k coins | -40.6% | -50.6% |
+| Lucy Bronze | 88 | Barclays WSL | 100k coins | -40.6% | -62% |
+| Emiliano Buendía | 96 | — | 118k coins | -40.5% | -81.7% |
+| Gianluigi Donnarumma | 89 | Ligue 1 McDonald's | 250k coins | -40.5% | -40.5% |
+| Antoine Semenyo | 94 | — | 135k coins | -40.4% | -38.4% |
+| Jude Bellingham | 94 | LALIGA EA SPORTS | 1.50M coins | -40% | 0% |
 
 
 ### Análise das baixas
 
-- **Emiliano Buendía (96)** caiu **-50%** em 24h, a **135k coins** (faixa do dia: 90k–277k). Está -70% abaixo da média de 7 dias (descontada).
+- **Paolo Maldini (95)** caiu **-50%** em 24h, a **895k coins** (faixa do dia: 794k–1.80M). Está -29% abaixo da média de 7 dias (descontada).
 
-- **Khvicha Kvaratskhelia (96)** caiu **-49.7%** em 24h, a **500k coins** (faixa do dia: 500k–996k). Está -54% abaixo da média de 7 dias (descontada).
+- **Jairzinho (89)** caiu **-47.9%** em 24h, a **219k coins** (faixa do dia: 214k–430k). Está -33% abaixo da média de 7 dias (descontada).
 
-- **Jairzinho (89)** caiu **-47.6%** em 24h, a **220k coins** (faixa do dia: 214k–430k). Está -33% abaixo da média de 7 dias (descontada).
+- **Jay-Jay Okocha (90)** caiu **-43.5%** em 24h, a **151k coins** (faixa do dia: 148k–287k). Está -39% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Lev Yashin já avançou 58.2% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Gareth Bale já avançou 57.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Emiliano Buendía recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Paolo Maldini recuou -50%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -118,13 +118,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (26/07/2026)?**
-Lev Yashin (92, Icons), com +58.2% em 24h, a 121k coins no PC.
+Gareth Bale (88, Icons), com +57.7% em 24h, a 729k coins no PC.
 
 **E a maior queda do dia?**
-Emiliano Buendía (96), -50% em 24h, a 135k coins.
+Paolo Maldini (95), -50% em 24h, a 895k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 255 cartas em alta contra 244 em queda (média 7.16%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 173 cartas em alta contra 196 em queda (média 3.27%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
