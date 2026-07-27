@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T22:25:18.000Z
+pubDatetime: 2026-07-27T01:25:18.000Z
 title: "Investimentos EA FC: Cartas Meta em 26/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 26/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (26/07/2026) no EA FC?"
-    a: "Javier Mascherano (89, LALIGA EA SPORTS) lidera, com +76.3% em 7 dias a 104k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Ashley Sanchez (88, NWSL) lidera, com +76.9% em 7 dias a 90k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **26/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Javier Mascherano (89) acumula **+76.3% em 7 dias** a 104k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Ashley Sanchez (88) acumula **+76.9% em 7 dias** a 90k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas Meta em 26/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-26-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **26/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+11.1% em 24h** e **+28.1% em 7 dias**.
-- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **NWSL** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+17.5% em 24h** e **+33.3% em 7 dias**.
+- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
+| Ashley Sanchez | 88 | NWSL | 90k coins | +2.8% | +76.9% | Esticada |
 | Javier Mascherano | 89 | LALIGA EA SPORTS | 104k coins | +23.1% | +76.3% | Esticada |
-| Debinha | 89 | NWSL | 120k coins | +1.5% | +57.6% | Momentum moderado |
-| Martin Ødegaard | 88 | Premier League | 124k coins | +35.9% | +52.4% | Esticada |
-| Wayne Rooney | 88 | Icons | 177k coins | +4.6% | +46.8% | Momentum moderado |
-| Giorgio Chiellini | 89 | Icons | 107k coins | +12.5% | +42.1% | Momentum moderado |
-| Patrick Berg | 95 | — | 80k coins | +4.5% | +31.1% | Momentum moderado |
+| Viktor Gyökeres | 88 | — | 130k coins | +39.8% | +42.9% | Esticada |
+| Balde | 90 | LALIGA EA SPORTS | 153k coins | +19.7% | +42.1% | Momentum moderado |
+| Karim Benzema | 88 | ROSHN Saudi League | 220k coins | +3.8% | +40.1% | Momentum moderado |
+| Wayne Rooney | 88 | Icons | 162k coins | +3.7% | +35.8% | Momentum moderado |
+| Jens Petter Hauge | 88 | Eliteserien | 153k coins | +27.5% | +35.4% | Esticada |
+| Giorgio Chiellini | 89 | Icons | 92k coins | +3.2% | +33.3% | Momentum moderado |
+| Bruno Fernandes | 93 | Premier League | 220k coins | +17.5% | +31.8% | Momentum moderado |
 | Serhou Guirassy | 89 | Bundesliga | 170k coins | +38.2% | +30.8% | Esticada |
-| Declan Rice | 89 | Premier League | 107k coins | +8.1% | +28.1% | Momentum moderado |
-| Marcel Desailly | 93 | — | 90k coins | +16.2% | +27.9% | Momentum moderado |
-| Matthias Ginter | 88 | Bundesliga | 89k coins | +7.2% | +27.1% | Momentum moderado |
-| Mallory Swanson | 88 | NWSL | 174k coins | +7.2% | +27% | Momentum moderado |
-| Marie Katoto | 89 | Frauen-Bundesliga | 159k coins | +26.2% | +22.3% | Esticada |
-| Mattéo Guendouzi | 91 | Trendyol Süper Lig | 85k coins | +6.3% | +21.6% | Momentum moderado |
-| Tara McKeown | 95 | — | 81k coins | +11.1% | +20.5% | Momentum moderado |
-| Amaiur Sarriegi | 88 | Liga F | 95k coins | +37.7% | +20.3% | Esticada |
+| Carlos Tévez | 93 | — | 109k coins | +11.3% | +23.1% | Momentum moderado |
+| Millie Bright | 88 | Barclays WSL | 98k coins | +17.5% | +21.9% | Momentum moderado |
+| Cha Bum Kun | 88 | Icons | 230k coins | +25% | +21.6% | Esticada |
+| Marcel Desailly | 93 | — | 83k coins | +16.1% | +21.2% | Momentum moderado |
+| Wesley Sneijder | 89 | Serie A TIM | 128k coins | +2.4% | +20.8% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Javier Mascherano (89)** — 104k coins, **+76.3% em 7 dias** (+23.1% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ashley Sanchez (88)** — 90k coins, **+76.9% em 7 dias** (+2.8% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Debinha (89)** — 120k coins, **+57.6% em 7 dias** (+1.5% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Javier Mascherano (89)** — 104k coins, **+76.3% em 7 dias** (+23.1% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Martin Ødegaard (88)** — 124k coins, **+52.4% em 7 dias** (+35.9% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Viktor Gyökeres (88)** — 130k coins, **+42.9% em 7 dias** (+39.8% em 24h). Preço +70% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Wayne Rooney (88)** — 177k coins, **+46.8% em 7 dias** (+4.6% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Balde (90)** — 153k coins, **+42.1% em 7 dias** (+19.7% em 24h). Preço +54% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Giorgio Chiellini (89)** — 107k coins, **+42.1% em 7 dias** (+12.5% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Karim Benzema (88)** — 220k coins, **+40.1% em 7 dias** (+3.8% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -97,7 +97,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (26/07/2026) no EA FC?**  
-Javier Mascherano (89, LALIGA EA SPORTS) lidera, com +76.3% em 7 dias a 104k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Ashley Sanchez (88, NWSL) lidera, com +76.9% em 7 dias a 90k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
