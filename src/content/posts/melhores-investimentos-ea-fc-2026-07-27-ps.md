@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T22:25:09.000Z
+pubDatetime: 2026-07-28T01:25:09.000Z
 title: "Investimentos EA FC: Cartas Meta em 27/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 27/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (27/07/2026) no EA FC?"
-    a: "Ashley Sanchez (88, NWSL) lidera, com +54.5% em 7 dias a 85k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Éder Militão (88, LALIGA EA SPORTS) lidera, com +40.8% em 7 dias a 88k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **27/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Ashley Sanchez (88) acumula **+54.5% em 7 dias** a 85k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Éder Militão (88) acumula **+40.8% em 7 dias** a 88k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas Meta em 27/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-27-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **27/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+19.2% em 24h** e **+17.1% em 7 dias**.
-- **6 de 12 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+13.7% em 24h** e **+16.3% em 7 dias**.
+- **3 de 11 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,31 +43,30 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Ashley Sanchez | 88 | NWSL | 85k coins | +7.6% | +54.5% | Momentum moderado |
-| Gianluigi Buffon | 91 | Icons | 145k coins | +37.2% | +25.5% | Esticada |
-| Marcelo | 95 | — | 205k coins | +5.4% | +25.2% | Momentum moderado |
-| Nuno Mendes | 95 | — | 174k coins | +28.5% | +23.3% | Esticada |
-| Trinity Rodman | 88 | NWSL | 100k coins | +21% | +20.4% | Esticada |
-| Patrick Vieira | 88 | Icons | 219k coins | +26.2% | +17.7% | Esticada |
-| Didier Drogba | 89 | Icons | 84k coins | +13.4% | +16.6% | Momentum moderado |
-| Olivier Giroud | 88 | Ligue 1 McDonald's | 203k coins | +17.4% | +13.5% | Momentum moderado |
-| Leah Williamson | 95 | Barclays WSL | 94k coins | +23.5% | +9.9% | Esticada |
-| Federico Valverde | 89 | LALIGA EA SPORTS | 186k coins | +17.5% | +5.6% | Momentum moderado |
-| Joshua Kimmich | 96 | — | 196k coins | +31.4% | +5.1% | Esticada |
-| Iniesta | 92 | Icons | 168k coins | +17.5% | +5% | Momentum moderado |
+| Éder Militão | 88 | LALIGA EA SPORTS | 88k coins | +38.5% | +40.8% | Esticada |
+| Barış Alper Yılmaz | 88 | Trendyol Süper Lig | 189k coins | +5% | +27.7% | Momentum moderado |
+| Nuno Mendes | 95 | — | 171k coins | +13.1% | +26.7% | Momentum moderado |
+| Marcelo | 95 | — | 180k coins | +7.9% | +25.8% | Momentum moderado |
+| Eric Cantona | 92 | — | 151k coins | +13.7% | +20.3% | Momentum moderado |
+| Issa Diop | 95 | — | 221k coins | +32.3% | +16.3% | Esticada |
+| Olivier Giroud | 88 | Ligue 1 McDonald's | 175k coins | +9.4% | +14.5% | Momentum moderado |
+| Xavi | 92 | Icons | 247k coins | +32.8% | +13.8% | Esticada |
+| Toni Kroos | 91 | Icons | 223k coins | +9.7% | +13.8% | Momentum moderado |
+| Leah Williamson | 95 | Barclays WSL | 104k coins | +15.2% | +10.5% | Momentum moderado |
+| Iniesta | 92 | Icons | 153k coins | +17.4% | +9.4% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Ashley Sanchez (88)** — 85k coins, **+54.5% em 7 dias** (+7.6% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Éder Militão (88)** — 88k coins, **+40.8% em 7 dias** (+38.5% em 24h). Preço +63% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gianluigi Buffon (91)** — 145k coins, **+25.5% em 7 dias** (+37.2% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Barış Alper Yılmaz (88)** — 189k coins, **+27.7% em 7 dias** (+5% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marcelo (95)** — 205k coins, **+25.2% em 7 dias** (+5.4% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nuno Mendes (95)** — 171k coins, **+26.7% em 7 dias** (+13.1% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nuno Mendes (95)** — 174k coins, **+23.3% em 7 dias** (+28.5% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marcelo (95)** — 180k coins, **+25.8% em 7 dias** (+7.9% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Trinity Rodman (88)** — 100k coins, **+20.4% em 7 dias** (+21% em 24h). Preço -10% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Eric Cantona (92)** — 151k coins, **+20.3% em 7 dias** (+13.7% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -85,7 +84,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (27/07/2026) no EA FC?**  
-Ashley Sanchez (88, NWSL) lidera, com +54.5% em 7 dias a 85k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Éder Militão (88, LALIGA EA SPORTS) lidera, com +40.8% em 7 dias a 88k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
