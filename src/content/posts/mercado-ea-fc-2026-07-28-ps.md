@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-28T19:25:08.000Z
+pubDatetime: 2026-07-28T22:25:09.000Z
 title: "Mercado EA FC em 28/07: Cartas Meta — Console (PS)"
 draft: false
 featured: true
