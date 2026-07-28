@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-28T16:25:18.000Z
+pubDatetime: 2026-07-28T19:25:20.000Z
 title: "Investimentos EA FC: Cartas Meta em 28/07 — PC"
 draft: false
 featured: true
