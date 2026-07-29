@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T13:25:09.000Z
+pubDatetime: 2026-07-29T16:25:10.000Z
 title: "Investimentos EA FC: Cartas Meta em 29/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 29/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (29/07/2026) no EA FC?"
-    a: "Éder Militão (88, LALIGA EA SPORTS) lidera, com +40.8% em 7 dias a 88k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Aya Miyama (90, Icons) lidera, com +71.7% em 7 dias a 158k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **29/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Éder Militão (88) acumula **+40.8% em 7 dias** a 88k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Aya Miyama (90) acumula **+71.7% em 7 dias** a 158k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas Meta em 29/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-29-ps.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **29/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.7% em 24h** e **+16.3% em 7 dias**.
-- **3 de 11 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+12.7% em 24h** e **+36.4% em 7 dias**.
+- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Icons** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,30 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Éder Militão | 88 | LALIGA EA SPORTS | 88k coins | +38.5% | +40.8% | Esticada |
-| Barış Alper Yılmaz | 88 | Trendyol Süper Lig | 189k coins | +5% | +27.7% | Momentum moderado |
-| Nuno Mendes | 95 | — | 171k coins | +13.1% | +26.7% | Momentum moderado |
-| Marcelo | 95 | — | 180k coins | +7.9% | +25.8% | Momentum moderado |
-| Eric Cantona | 92 | — | 151k coins | +13.7% | +20.3% | Momentum moderado |
-| Issa Diop | 95 | — | 221k coins | +32.3% | +16.3% | Esticada |
-| Olivier Giroud | 88 | Ligue 1 McDonald's | 175k coins | +9.4% | +14.5% | Momentum moderado |
-| Xavi | 92 | Icons | 247k coins | +32.8% | +13.8% | Esticada |
-| Toni Kroos | 91 | Icons | 223k coins | +9.7% | +13.8% | Momentum moderado |
-| Leah Williamson | 95 | Barclays WSL | 104k coins | +15.2% | +10.5% | Momentum moderado |
-| Iniesta | 92 | Icons | 153k coins | +17.4% | +9.4% | Momentum moderado |
+| Aya Miyama | 90 | Icons | 158k coins | +12.9% | +71.7% | Esticada |
+| Marie Katoto | 89 | Frauen-Bundesliga | 90k coins | +13.2% | +71.4% | Esticada |
+| Thibaut Courtois | 95 | — | 170k coins | +14.9% | +70% | Esticada |
+| Khadija Shaw | 91 | — | 100k coins | +12.4% | +42.9% | Momentum moderado |
+| Fabio Cannavaro | 89 | Icons | 151k coins | +8.6% | +39.8% | Momentum moderado |
+| Lotta Schelin | 91 | Icons | 200k coins | +6.8% | +38.4% | Momentum moderado |
+| Gianluigi Buffon | 94 | — | 189k coins | +27.3% | +38.4% | Esticada |
+| Emiliano Martínez | 96 | — | 125k coins | +25% | +36.4% | Esticada |
+| Harry Kane | 92 | Bundesliga | 167k coins | +7.7% | +33.6% | Momentum moderado |
+| Jules Koundé | 94 | LALIGA EA SPORTS | 210k coins | +7.7% | +32.9% | Momentum moderado |
+| Moussa Sissoko | 88 | EFL Championship | 194k coins | +8.4% | +32% | Momentum moderado |
+| Roberto Carlos | 95 | — | 97k coins | +13.3% | +28.9% | Momentum moderado |
+| Eric Cantona | 92 | — | 177k coins | +12.7% | +28.3% | Momentum moderado |
+| Marco van Basten | 94 | — | 147k coins | +1.4% | +22.5% | Entrada a observar |
+| Jérémy Doku | 91 | Premier League | 179k coins | +38.3% | +22.4% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Éder Militão (88)** — 88k coins, **+40.8% em 7 dias** (+38.5% em 24h). Preço +63% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Aya Miyama (90)** — 158k coins, **+71.7% em 7 dias** (+12.9% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Barış Alper Yılmaz (88)** — 189k coins, **+27.7% em 7 dias** (+5% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marie Katoto (89)** — 90k coins, **+71.4% em 7 dias** (+13.2% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nuno Mendes (95)** — 171k coins, **+26.7% em 7 dias** (+13.1% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Thibaut Courtois (95)** — 170k coins, **+70% em 7 dias** (+14.9% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marcelo (95)** — 180k coins, **+25.8% em 7 dias** (+7.9% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Khadija Shaw (91)** — 100k coins, **+42.9% em 7 dias** (+12.4% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Eric Cantona (92)** — 151k coins, **+20.3% em 7 dias** (+13.7% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Fabio Cannavaro (89)** — 151k coins, **+39.8% em 7 dias** (+8.6% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -84,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (29/07/2026) no EA FC?**  
-Éder Militão (88, LALIGA EA SPORTS) lidera, com +40.8% em 7 dias a 88k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Aya Miyama (90, Icons) lidera, com +71.7% em 7 dias a 158k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
