@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T19:25:17.000Z
+pubDatetime: 2026-07-30T22:25:18.000Z
 title: "Mercado EA FC em 30/07: Cartas Meta — PC"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Lothar Matthäus (91), -50% em 24h, a 500k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 212 cartas em alta contra 218 em queda (média 4.73%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 209 cartas em alta contra 213 em queda (média 5.33%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Panorama de **30/07/2026** (PC): mercado **aquecido** — as altas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **212 em alta** e **218 em queda**, média de **4.73%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **30/07/2026** (PC): mercado **aquecido** — as altas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **209 em alta** e **213 em queda**, média de **5.33%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Diego Armando Maradona (96) **+60%** · 🔴 **Maior baixa:** Lothar Matthäus (91) **-50%**
 
@@ -36,23 +36,23 @@ Panorama de **30/07/2026** (PC): mercado **aquecido** — as altas dominam o dia
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 110.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 49.3% entre as cartas que se moveram; o universo observado reúne 512 cartas.
-- **Concentração:** Icons aparece em 7 dos 20 maiores movimentos listados.
+- **Participação das altas:** 49.5% entre as cartas que se moveram; o universo observado reúne 501 cartas.
+- **Concentração:** Icons aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Diego Armando Maradona | 96 | Icons | 2.40M coins | +60% | +4.3% |
-| Gerd Müller | 92 | Icons | 131k coins | +58.7% | +19.6% |
-| David Ginola | 89 | Ligue 1 McDonald's | 379k coins | +55.3% | +27.2% |
-| Endrick | 93 | — | 80k coins | +55% | -25.6% |
-| Wesley | 88 | Serie A TIM | 80k coins | +53.8% | +10.3% |
-| Julián Alvarez | 96 | — | 210k coins | +53.3% | +24.3% |
-| Emilio Butragueño | 93 | — | 300k coins | +52.3% | +3.4% |
-| Jørgen Strand Larsen | 96 | — | 115k coins | +50.8% | -44.9% |
-| Roy Keane | 88 | Icons | 325k coins | +47.7% | -18.8% |
-| Karim Benzema | 88 | ROSHN Saudi League | 190k coins | +47.7% | +22.6% |
+| Toni Kroos | 90 | Icons | 96k coins | +59.2% | +2.7% |
+| Micky van de Ven | 90 | Premier League | 1.90M coins | +59.1% | -5% |
+| Jonathan Tah | 95 | — | 153k coins | +56.6% | +16.5% |
+| David Ginola | 89 | Ligue 1 McDonald's | 379k coins | +55.3% | +28.5% |
+| Rodrygo | 89 | LALIGA EA SPORTS | 932k coins | +54.2% | -5% |
+| Steven Gerrard | 88 | Icons | 109k coins | +54.1% | +115.4% |
+| Zico | 95 | — | 170k coins | +52.3% | -17% |
+| Rayan Aït-Nouri | 90 | Premier League | 84k coins | +52.1% | +7.4% |
+| Harry Kane | 91 | Bundesliga | 330k coins | +51.4% | -17.5% |
 
 
 ### Análise das altas
@@ -63,9 +63,9 @@ Panorama de **30/07/2026** (PC): mercado **aquecido** — as altas dominam o dia
 
 - **Diego Armando Maradona (96)** subiu **+60%** em 24h, a **2.40M coins** (faixa do dia: 1.49M–2.40M). Está +19% acima da média de 7 dias (aquecida).
 
-- **Gerd Müller (92)** subiu **+58.7%** em 24h, a **131k coins** (faixa do dia: 75k–159k). Está em linha com a média de 7 dias (+4%).
+- **Toni Kroos (90)** subiu **+59.2%** em 24h, a **96k coins** (faixa do dia: 50k–103k). Está +18% acima da média de 7 dias (aquecida).
 
-- **David Ginola (89)** subiu **+55.3%** em 24h, a **379k coins** (faixa do dia: 244k–379k). Está +32% acima da média de 7 dias (aquecida).
+- **Micky van de Ven (90)** subiu **+59.1%** em 24h, a **1.90M coins** (faixa do dia: 1.09M–1.90M). Está -15% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Quem mais caiu (24h)
@@ -73,24 +73,24 @@ Panorama de **30/07/2026** (PC): mercado **aquecido** — as altas dominam o dia
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Lothar Matthäus | 91 | Icons | 500k coins | -50% | -66.6% |
-| Nemanja Vidić | 89 | Icons | 630k coins | -47.5% | +5% |
+| Jérémy Doku | 91 | Premier League | 270k coins | -49.1% | -40% |
+| Mapi León | 91 | — | 91k coins | -48.5% | -35% |
 | Michael Olise | 88 | Bundesliga | 320k coins | -46.6% | -63.6% |
-| Gabriel | 89 | Premier League | 81k coins | -43.8% | +1.2% |
+| Viktor Gyökeres | 88 | — | 90k coins | -46.3% | -29.1% |
+| Debinha | 89 | NWSL | 85k coins | -44.8% | -54.1% |
+| Declan Rice | 94 | Premier League | 197k coins | -43.4% | -25.9% |
+| Virgil van Dijk | 95 | Premier League | 582k coins | -42.9% | -27.2% |
 | Gareth Bale | 94 | Icons | 2M coins | -42.9% | -42.9% |
-| Rodri | 91 | Premier League | 399k coins | -41.5% | +2.4% |
-| Jaap Stam | 91 | Eredivisie | 979k coins | -40.7% | -11.5% |
-| Paul Pogba | 92 | Ligue 1 McDonald's | 1.32M coins | -40.6% | -28.7% |
-| Zlatan Ibrahimović | 95 | Icons | 3M coins | -39.6% | -53.8% |
-| Robert Lewandowski | 88 | LALIGA EA SPORTS | 418k coins | -38.9% | -38.9% |
+| Khvicha Kvaratskhelia | 96 | — | 591k coins | -42.8% | -40.6% |
 
 
 ### Análise das baixas
 
-- **Lothar Matthäus (91)** caiu **-50%** em 24h, a **500k coins** (faixa do dia: 500k–1M). Está -47% abaixo da média de 7 dias (descontada).
+- **Lothar Matthäus (91)** caiu **-50%** em 24h, a **500k coins** (faixa do dia: 500k–1M). Está -46% abaixo da média de 7 dias (descontada).
 
-- **Nemanja Vidić (89)** caiu **-47.5%** em 24h, a **630k coins** (faixa do dia: 603k–1.20M). Está -22% abaixo da média de 7 dias (descontada).
+- **Jérémy Doku (91)** caiu **-49.1%** em 24h, a **270k coins** (faixa do dia: 250k–530k). Está -15% abaixo da média de 7 dias (descontada).
 
-- **Michael Olise (88)** caiu **-46.6%** em 24h, a **320k coins** (faixa do dia: 319k–599k). Está -33% abaixo da média de 7 dias (descontada).
+- **Mapi León (91)** caiu **-48.5%** em 24h, a **91k coins** (faixa do dia: 50k–99k). Está +22% acima da média de 7 dias (aquecida).
 
 
 ## Decisão prática para hoje
@@ -115,7 +115,7 @@ Diego Armando Maradona (96, Icons), com +60% em 24h, a 2.40M coins no PC.
 Lothar Matthäus (91), -50% em 24h, a 500k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 212 cartas em alta contra 218 em queda (média 4.73%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 209 cartas em alta contra 213 em queda (média 5.33%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
