@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T10:25:07.000Z
+pubDatetime: 2026-07-31T13:25:08.000Z
 title: "Mercado EA FC em 31/07: Cartas Meta — Console (PS)"
 draft: false
 featured: true
@@ -13,22 +13,22 @@ tags:
 description: "Dados de 31/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/07/2026)?"
-    a: "Carlos Tévez (89, Premier League), com +58.5% em 24h, a 325k coins no Console (PS)."
+    a: "Roberto Carlos (90, Icons), com +59.6% em 24h, a 174k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Marquinhos (96), -48.5% em 24h, a 150k coins."
+    a: "Emiliano Buendía (96), -48% em 24h, a 140k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Ryan Gravenberch (93) — 82% de probabilidade de alta, a 133k coins."
+    a: "Pelo modelo FutQuant, Ryan Gravenberch (93) — 82% de probabilidade de alta, a 136k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 252 cartas em alta contra 187 em queda (média 4.76%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 225 cartas em alta contra 227 em queda (média 3.01%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do **EA FC** abre **31/07/2026** no Console (PS) com mercado **em alta** — predominam as valorizações: **252 cartas subiram** e **187 caíram** (80+ acima de 5k coins), variação média de **4.76%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **31/07/2026** no Console (PS) com mercado **em alta** — predominam as valorizações: **225 cartas subiram** e **227 caíram** (80+ acima de 5k coins), variação média de **3.01%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Carlos Tévez (89) **+58.5%** · 🔴 **Maior baixa:** Marquinhos (96) **-48.5%**
+> 🟢 **Maior alta:** Roberto Carlos (90) **+59.6%** · 🔴 **Maior baixa:** Emiliano Buendía (96) **-48%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 31/07: Cartas Meta — Console (PS)](/charts/mercado-ea-fc-2026-07-31-ps.svg)
 
@@ -37,24 +37,24 @@ O mercado do **EA FC** abre **31/07/2026** no Console (PS) com mercado **em alta
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 107.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 57.4% entre as cartas que se moveram; o universo observado reúne 481 cartas.
-- **Concentração:** Premier League aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 107.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 49.8% entre as cartas que se moveram; o universo observado reúne 468 cartas.
+- **Concentração:** Icons aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Carlos Tévez | 89 | Premier League | 325k coins | +58.5% | +25% |
-| Alexander Sørloth | 92 | — | 110k coins | +53.8% | +47.1% |
-| Yoane Wissa | 95 | — | 105k coins | +53.6% | +122.4% |
-| João Pedro | 89 | Premier League | 204k coins | +50.3% | -2.2% |
-| Désiré Doué | 91 | Ligue 1 McDonald's | 790k coins | +50.2% | +106.2% |
-| Ramires | 88 | Premier League | 156k coins | +46.8% | -23.8% |
-| Khvicha Kvaratskhelia | 88 | Ligue 1 McDonald's | 274k coins | +46.6% | +6.1% |
-| Barış Alper Yılmaz | 88 | Trendyol Süper Lig | 260k coins | +45.7% | +69.6% |
-| Antonio Nusa | 89 | Bundesliga | 138k coins | +45.1% | +5.8% |
-| Barış Alper Yılmaz | 89 | Trendyol Süper Lig | 258k coins | +43.8% | +26.7% |
+| Roberto Carlos | 90 | Icons | 174k coins | +59.6% | +2.4% |
+| Julian Ryerson | 93 | — | 118k coins | +59.5% | +22.9% |
+| Katie McCabe | 88 | Barclays Women’s Super League | 80k coins | +55.8% | +34.4% |
+| Javier Mascherano | 90 | LALIGA EA SPORTS | 92k coins | +52.8% | +17.5% |
+| George Best | 91 | Icons | 244k coins | +52.4% | +4.9% |
+| Harry Kane | 90 | Bundesliga | 134k coins | +48.9% | +12.6% |
+| Barış Alper Yılmaz | 89 | Trendyol Süper Lig | 230k coins | +48.6% | +32.2% |
+| Amaiur Sarriegi | 88 | Liga F | 139k coins | +45.5% | +36.3% |
+| Henrik Larsson | 88 | Icons | 276k coins | +45.3% | +48.4% |
+| Marco Reus | 89 | MLS | 288k coins | +44.7% | +22% |
 
 
 ### Análise das altas
@@ -63,36 +63,36 @@ O mercado do **EA FC** abre **31/07/2026** no Console (PS) com mercado **em alta
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Carlos Tévez (89)** subiu **+58.5%** em 24h, a **325k coins** (faixa do dia: 205k–358k). Está +9% acima da média de 7 dias (aquecida).
+- **Roberto Carlos (90)** subiu **+59.6%** em 24h, a **174k coins** (faixa do dia: 107k–183k). Está +24% acima da média de 7 dias (aquecida).
 
-- **Alexander Sørloth (92)** subiu **+53.8%** em 24h, a **110k coins** (faixa do dia: 42k–119k). Está +41% acima da média de 7 dias (aquecida).
+- **Julian Ryerson (93)** subiu **+59.5%** em 24h, a **118k coins** (faixa do dia: 63k–129k). Está +43% acima da média de 7 dias (aquecida).
 
-- **Yoane Wissa (95)** subiu **+53.6%** em 24h, a **105k coins** (faixa do dia: 52k–149k). Está +33% acima da média de 7 dias (aquecida).
+- **Katie McCabe (88)** subiu **+55.8%** em 24h, a **80k coins** (faixa do dia: 44k–105k). Está +36% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Marquinhos | 96 | — | 150k coins | -48.5% | -21.5% |
-| Esmee Brugts | 96 | — | 98k coins | -45.5% | -40.1% |
-| Jairzinho | 89 | Icons | 185k coins | -41.5% | -28.9% |
-| Achraf Hakimi | 96 | — | 749k coins | -40.8% | -62.8% |
-| De Gea | 89 | Serie A TIM | 142k coins | -38.4% | +25.8% |
-| Aitana Bonmatí | 96 | — | 145k coins | -34.1% | -55.8% |
-| Ferenc Puskás | 93 | Icons | 395k coins | -32.8% | +29.5% |
-| Daniele De Rossi | 95 | — | 394k coins | -32.6% | -12.7% |
-| Rodrygo | 89 | LALIGA EA SPORTS | 402k coins | -31.9% | +3.1% |
-| Maxence Lacroix | 96 | — | 649k coins | -30.9% | -39.5% |
+| Emiliano Buendía | 96 | — | 140k coins | -48% | -49.2% |
+| Daniel Muñoz | 96 | — | 88k coins | -47.9% | -57.8% |
+| Jay-Jay Okocha | 90 | Premier League | 145k coins | -47.6% | -23.5% |
+| Matvey Safonov | 96 | — | 125k coins | -45% | -66.4% |
+| Jean-Philippe Mateta | 96 | — | 85k coins | -44.6% | -58% |
+| Yeremy Pino | 96 | — | 114k coins | -43.3% | -55.1% |
+| Xavi | 92 | Icons | 174k coins | -41.8% | +3.2% |
+| Maxence Lacroix | 96 | — | 592k coins | -40.7% | -39.3% |
+| Aitana Bonmatí | 96 | — | 119k coins | -39% | -60.9% |
+| Gabriel Batistuta | 92 | Icons | 230k coins | -37.7% | +8.1% |
 
 
 ### Análise das baixas
 
-- **Marquinhos (96)** caiu **-48.5%** em 24h, a **150k coins** (faixa do dia: 100k–291k). Está -18% abaixo da média de 7 dias (descontada).
+- **Emiliano Buendía (96)** caiu **-48%** em 24h, a **140k coins** (faixa do dia: 100k–260k). Está -30% abaixo da média de 7 dias (descontada).
 
-- **Esmee Brugts (96)** caiu **-45.5%** em 24h, a **98k coins** (faixa do dia: 89k–260k). Está -45% abaixo da média de 7 dias (descontada).
+- **Daniel Muñoz (96)** caiu **-47.9%** em 24h, a **88k coins** (faixa do dia: 50k–120k). Está -33% abaixo da média de 7 dias (descontada).
 
-- **Jairzinho (89)** caiu **-41.5%** em 24h, a **185k coins** (faixa do dia: 159k–250k). Está -9% abaixo da média de 7 dias (descontada).
+- **Jay-Jay Okocha (90)** caiu **-47.6%** em 24h, a **145k coins** (faixa do dia: 145k–301k). Está -36% abaixo da média de 7 dias (descontada).
 
 
 ## 🔮 O que o modelo prevê para as próximas 24h
@@ -101,14 +101,14 @@ Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alt
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Ryan Gravenberch | 93 | 133k coins | 142k coins | 82% |
+| Ryan Gravenberch | 93 | 136k coins | 145k coins | 82% |
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Carlos Tévez já avançou 58.5% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Roberto Carlos já avançou 59.6% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Marquinhos recuou -48.5%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Emiliano Buendía recuou -48%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -129,16 +129,16 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/07/2026)?**
-Carlos Tévez (89, Premier League), com +58.5% em 24h, a 325k coins no Console (PS).
+Roberto Carlos (90, Icons), com +59.6% em 24h, a 174k coins no Console (PS).
 
 **E a maior queda do dia?**
-Marquinhos (96), -48.5% em 24h, a 150k coins.
+Emiliano Buendía (96), -48% em 24h, a 140k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**
-Pelo modelo FutQuant, Ryan Gravenberch (93) — 82% de probabilidade de alta, a 133k coins.
+Pelo modelo FutQuant, Ryan Gravenberch (93) — 82% de probabilidade de alta, a 136k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 252 cartas em alta contra 187 em queda (média 4.76%).
+Hoje o mercado está em alta — predominam as valorizações, com 225 cartas em alta contra 227 em queda (média 3.01%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
