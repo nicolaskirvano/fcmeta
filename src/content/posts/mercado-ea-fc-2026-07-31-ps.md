@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T19:25:07.000Z
+pubDatetime: 2026-07-31T22:25:08.000Z
 title: "Mercado EA FC em 31/07: Cartas Meta — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 31/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/07/2026)?"
-    a: "Gabriel Sara (89, Trendyol Süper Lig), com +53.8% em 24h, a 90k coins no Console (PS)."
+    a: "Kyle Walker (97, sem liga), com +56.8% em 24h, a 139k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Ronaldinho (95), -43.3% em 24h, a 119k coins."
+    a: "Iniesta (92), -49.1% em 24h, a 190k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em baixa — predominam as quedas, com 118 cartas em alta contra 207 em queda (média -2.47%)."
+    a: "Hoje o mercado está lateral — sem direção clara, com 166 cartas em alta contra 183 em queda (média 0.0%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do **EA FC** abre **31/07/2026** no Console (PS) com mercado **em baixa** — predominam as quedas: **118 cartas subiram** e **207 caíram** (80+ acima de 5k coins), variação média de **-2.47%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+O mercado do **EA FC** abre **31/07/2026** no Console (PS) com mercado **lateral** — sem direção clara: **166 cartas subiram** e **183 caíram** (80+ acima de 5k coins), variação média de **0.0%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Gabriel Sara (89) **+53.8%** · 🔴 **Maior baixa:** Ronaldinho (95) **-43.3%**
+> 🟢 **Maior alta:** Kyle Walker (97) **+56.8%** · 🔴 **Maior baixa:** Iniesta (92) **-49.1%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 31/07: Cartas Meta — Console (PS)](/charts/mercado-ea-fc-2026-07-31-ps.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **31/07/2026** no Console (PS) com mercado **em baix
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 97.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 36.3% entre as cartas que se moveram; o universo observado reúne 340 cartas.
-- **Concentração:** Icons aparece em 6 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 105.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 47.6% entre as cartas que se moveram; o universo observado reúne 389 cartas.
+- **Concentração:** Icons aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Gabriel Sara | 89 | Trendyol Süper Lig | 90k coins | +53.8% | +57.8% |
-| Viktor Gyökeres | 94 | Premier League | 397k coins | +52.9% | +33% |
-| Antonio Nusa | 89 | Bundesliga | 151k coins | +51.8% | +37.3% |
-| Leah Williamson | 95 | Barclays WSL | 125k coins | +50% | +56.9% |
-| Olivier Giroud | 88 | Ligue 1 McDonald's | 143k coins | +49.7% | -1.3% |
-| Rivaldo | 91 | Icons | 88k coins | +43.2% | +5.3% |
-| Fernando Hierro | 93 | — | 80k coins | +41.7% | +136.1% |
-| Zé Roberto | 95 | — | 119k coins | +41.6% | +83.9% |
-| Oliver Kahn | 91 | Icons | 98k coins | +39.7% | -17.9% |
-| Nemanja Vidić | 89 | Icons | 376k coins | +37.5% | -32.3% |
+| Kyle Walker | 97 | — | 139k coins | +56.8% | -3.5% |
+| Ruud Gullit | 93 | Icons | 5M coins | +54.5% | +5.5% |
+| Federico Valverde | 91 | LALIGA EA SPORTS | 420k coins | +52.6% | +51.7% |
+| Jude Bellingham | 92 | LALIGA EA SPORTS | 790k coins | +50.9% | +63.6% |
+| Lautaro Martínez | 89 | Serie A TIM | 90k coins | +50% | +59.3% |
+| Rodrygo | 89 | LALIGA EA SPORTS | 549k coins | +49.6% | +86.7% |
+| Gilberto Silva | 97 | — | 84k coins | +47.8% | -14.6% |
+| Steven Gerrard | 88 | Icons | 118k coins | +45% | +50.3% |
+| Florian Wirtz | 89 | Premier League | 106k coins | +42.5% | +9% |
+| Jeremie Frimpong | 97 | — | 330k coins | +41.3% | +15.7% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **31/07/2026** no Console (PS) com mercado **em baix
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Gabriel Sara (89)** subiu **+53.8%** em 24h, a **90k coins** (faixa do dia: 34k–100k). Está +64% acima da média de 7 dias (aquecida).
+- **Kyle Walker (97)** subiu **+56.8%** em 24h, a **139k coins** (faixa do dia: 88k–139k). Está +14% acima da média de 7 dias (aquecida).
 
-- **Viktor Gyökeres (94)** subiu **+52.9%** em 24h, a **397k coins** (faixa do dia: 199k–500k). Está +33% acima da média de 7 dias (aquecida).
+- **Ruud Gullit (93)** subiu **+54.5%** em 24h, a **5M coins** (faixa do dia: 3.02M–8M). Está +17% acima da média de 7 dias (aquecida).
 
-- **Antonio Nusa (89)** subiu **+51.8%** em 24h, a **151k coins** (faixa do dia: 78k–155k). Está +35% acima da média de 7 dias (aquecida).
+- **Federico Valverde (91)** subiu **+52.6%** em 24h, a **420k coins** (faixa do dia: 413k–600k). Está +25% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ronaldinho | 95 | — | 119k coins | -43.3% | -88.7% |
-| Iniesta | 92 | Icons | 180k coins | -42.8% | +9.9% |
-| Emiliano Buendía | 96 | — | 112k coins | -40.7% | -60.5% |
-| João Pedro | 89 | Premier League | 121k coins | -39.9% | -47% |
-| Marquinhos | 96 | — | 135k coins | -39.2% | -55.7% |
-| Bobby Moore | 91 | Icons | 385k coins | -38.3% | +52% |
-| Marc-André ter Stegen | 89 | LALIGA EA SPORTS | 111k coins | -37.3% | +94.7% |
-| Ewa Pajor | 96 | — | 160k coins | -37% | -59.2% |
-| Nico Williams | 96 | — | 182k coins | -34.6% | -6.6% |
-| Thierry Henry | 93 | Icons | 750k coins | -33.4% | +6.5% |
+| Iniesta | 92 | Icons | 190k coins | -49.1% | +9.3% |
+| Harry Kane | 97 | — | 86k coins | -46.4% | -21.1% |
+| Victor Osimhen | 88 | Trendyol Süper Lig | 385k coins | -45% | -1.3% |
+| Eden Hazard | 96 | — | 440k coins | -43.1% | -30% |
+| Vitinha | 96 | — | 617k coins | -42.9% | -78.6% |
+| Anatoliy Trubin | 88 | Liga Portugal | 205k coins | -39% | +25.8% |
+| Bobby Moore | 91 | Icons | 384k coins | -38.4% | +24.3% |
+| Jairzinho | 94 | Icons | 268k coins | -37.7% | -29.2% |
+| Cesc Fàbregas | 91 | Premier League | 133k coins | -37.3% | -6.3% |
+| Marc-André ter Stegen | 89 | LALIGA EA SPORTS | 114k coins | -36.7% | +24.6% |
 
 
 ### Análise das baixas
 
-- **Ronaldinho (95)** caiu **-43.3%** em 24h, a **119k coins** (faixa do dia: 119k–490k). Está -89% abaixo da média de 7 dias (descontada).
+- **Iniesta (92)** caiu **-49.1%** em 24h, a **190k coins** (faixa do dia: 140k–299k). Está -9% abaixo da média de 7 dias (descontada).
 
-- **Iniesta (92)** caiu **-42.8%** em 24h, a **180k coins** (faixa do dia: 140k–371k). Está -14% abaixo da média de 7 dias (descontada).
+- **Harry Kane (97)** caiu **-46.4%** em 24h, a **86k coins** (faixa do dia: 52k–259k). Está -42% abaixo da média de 7 dias (descontada).
 
-- **Emiliano Buendía (96)** caiu **-40.7%** em 24h, a **112k coins** (faixa do dia: 92k–179k). Está -42% abaixo da média de 7 dias (descontada).
+- **Victor Osimhen (88)** caiu **-45%** em 24h, a **385k coins** (faixa do dia: 381k–700k). Está em linha com a média de 7 dias (-7%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Gabriel Sara já avançou 53.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Kyle Walker já avançou 56.8% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Ronaldinho recuou -43.3%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Iniesta recuou -49.1%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -118,13 +118,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/07/2026)?**
-Gabriel Sara (89, Trendyol Süper Lig), com +53.8% em 24h, a 90k coins no Console (PS).
+Kyle Walker (97, sem liga), com +56.8% em 24h, a 139k coins no Console (PS).
 
 **E a maior queda do dia?**
-Ronaldinho (95), -43.3% em 24h, a 119k coins.
+Iniesta (92), -49.1% em 24h, a 190k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em baixa — predominam as quedas, com 118 cartas em alta contra 207 em queda (média -2.47%).
+Hoje o mercado está lateral — sem direção clara, com 166 cartas em alta contra 183 em queda (média 0.0%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
