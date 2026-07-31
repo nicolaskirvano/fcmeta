@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T13:25:17.000Z
+pubDatetime: 2026-07-31T16:25:17.000Z
 title: "Mercado EA FC em 31/07: Cartas Meta — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 31/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/07/2026)?"
-    a: "Gonçalo Inácio (89, Liga Portugal), com +60% em 24h, a 200k coins no PC."
+    a: "Debinha (89, NWSL), com +58.1% em 24h, a 92k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Johan Cruyff (94), -46.5% em 24h, a 454k coins."
+    a: "Virgil van Dijk (92), -50% em 24h, a 520k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 231 cartas em alta contra 229 em queda (média 3.43%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 219 cartas em alta contra 200 em queda (média 6.46%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do **EA FC** abre **31/07/2026** no PC com mercado **em alta** — predominam as valorizações: **231 cartas subiram** e **229 caíram** (80+ acima de 5k coins), variação média de **3.43%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **31/07/2026** no PC com mercado **em alta** — predominam as valorizações: **219 cartas subiram** e **200 caíram** (80+ acima de 5k coins), variação média de **6.46%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Gonçalo Inácio (89) **+60%** · 🔴 **Maior baixa:** Johan Cruyff (94) **-46.5%**
+> 🟢 **Maior alta:** Debinha (89) **+58.1%** · 🔴 **Maior baixa:** Virgil van Dijk (92) **-50%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 31/07: Cartas Meta — PC](/charts/mercado-ea-fc-2026-07-31-pc.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **31/07/2026** no PC com mercado **em alta** — pre
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 106.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 50.2% entre as cartas que se moveram; o universo observado reúne 542 cartas.
-- **Concentração:** Icons aparece em 8 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 108.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 52.3% entre as cartas que se moveram; o universo observado reúne 505 cartas.
+- **Concentração:** Icons aparece em 7 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Gonçalo Inácio | 89 | Liga Portugal | 200k coins | +60% | +37.9% |
-| Steven Gerrard | 89 | Icons | 187k coins | +59.3% | +63.5% |
 | Debinha | 89 | NWSL | 92k coins | +58.1% | -31% |
-| Esmir Bajraktarević | 91 | — | 229k coins | +57.9% | +4.1% |
-| Samuel Eto'o | 90 | Icons | 788k coins | +57.9% | +12.7% |
-| Pelé | 95 | Icons | 274k coins | +57.5% | +23% |
-| Wayne Rooney | 88 | Icons | 152k coins | +52.4% | -7.6% |
-| Wesley Sneijder | 89 | Serie A TIM | 110k coins | +51.7% | +0.9% |
-| Paolo Maldini | 97 | — | 2M coins | +50.2% | +5.3% |
-| Nico Williams | 89 | LALIGA EA SPORTS | 330k coins | +49.5% | +6.5% |
+| Steven Gerrard | 88 | Icons | 167k coins | +57.8% | +134% |
+| Paul Onuachu | 95 | — | 108k coins | +56.8% | +70.3% |
+| Luis Díaz | 91 | Bundesliga | 326k coins | +55.2% | -7.6% |
+| Franz Beckenbauer | 92 | Icons | 258k coins | +54.1% | +95.5% |
+| Kaká | 89 | Icons | 220k coins | +53.2% | +40.5% |
+| Federico Valverde | 90 | LALIGA EA SPORTS | 340k coins | +53.2% | +7.6% |
+| Bruno Fernandes | 88 | Premier League | 152k coins | +52% | +32.2% |
+| Steven Gerrard | 89 | Icons | 185k coins | +48.8% | +61.7% |
+| Arda Güler | 93 | LALIGA EA SPORTS | 230k coins | +48.4% | +29.2% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **31/07/2026** no PC com mercado **em alta** — pre
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Gonçalo Inácio (89)** subiu **+60%** em 24h, a **200k coins** (faixa do dia: 117k–200k). Está +26% acima da média de 7 dias (aquecida).
+- **Debinha (89)** subiu **+58.1%** em 24h, a **92k coins** (faixa do dia: 50k–220k). Está -26% abaixo da média de 7 dias (descontada).
 
-- **Steven Gerrard (89)** subiu **+59.3%** em 24h, a **187k coins** (faixa do dia: 105k–190k). Está +48% acima da média de 7 dias (aquecida).
+- **Steven Gerrard (88)** subiu **+57.8%** em 24h, a **167k coins** (faixa do dia: 90k–180k). Está +38% acima da média de 7 dias (aquecida).
 
-- **Debinha (89)** subiu **+58.1%** em 24h, a **92k coins** (faixa do dia: 50k–220k). Está -27% abaixo da média de 7 dias (descontada).
+- **Paul Onuachu (95)** subiu **+56.8%** em 24h, a **108k coins** (faixa do dia: 60k–110k). Está +32% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Johan Cruyff | 94 | Icons | 454k coins | -46.5% | -43.2% |
-| Maxence Lacroix | 96 | — | 797k coins | -45.8% | -45.6% |
-| Chadi Riad | 96 | — | 219k coins | -45.4% | -47.5% |
-| Gianluigi Buffon | 91 | Icons | 142k coins | -45.4% | +15.4% |
-| Yeremy Pino | 96 | — | 169k coins | -45.3% | -52.3% |
-| Zico | 91 | Icons | 200k coins | -44.8% | -10% |
-| Estêvão | 91 | Premier League | 312k coins | -44% | -55% |
-| Ewa Pajor | 89 | Liga F | 335k coins | -43.6% | -45.4% |
-| Marcelo | 89 | Icons | 90k coins | -43.4% | -22% |
-| Virgil van Dijk | 95 | Premier League | 582k coins | -42.9% | -16.6% |
+| Virgil van Dijk | 92 | — | 520k coins | -50% | -42.7% |
+| Maxence Lacroix | 96 | — | 610k coins | -48% | -51.5% |
+| Cristiano Ronaldo | 89 | ROSHN Saudi League | 994k coins | -47.6% | -47.6% |
+| Frenkie de Jong | 89 | LALIGA EA SPORTS | 392k coins | -45.3% | -77.6% |
+| Johan Cruyff | 94 | Icons | 454k coins | -43.2% | -43.2% |
+| Virgil van Dijk | 95 | Premier League | 582k coins | -42.9% | -16.3% |
+| Clara Serrajordi | 96 | — | 110k coins | -41.9% | -58.2% |
+| Dennis Bergkamp | 93 | Icons | 118k coins | -38.9% | -55.5% |
+| Jørgen Strand Larsen | 96 | — | 82k coins | -38.3% | -62.6% |
+| Gianluigi Buffon | 91 | Icons | 142k coins | -38.1% | +12.9% |
 
 
 ### Análise das baixas
 
-- **Johan Cruyff (94)** caiu **-46.5%** em 24h, a **454k coins** (faixa do dia: 454k–849k). Está -40% abaixo da média de 7 dias (descontada).
+- **Virgil van Dijk (92)** caiu **-50%** em 24h, a **520k coins** (faixa do dia: 370k–800k). Está -25% abaixo da média de 7 dias (descontada).
 
-- **Maxence Lacroix (96)** caiu **-45.8%** em 24h, a **797k coins** (faixa do dia: 599k–1.91M). Está -45% abaixo da média de 7 dias (descontada).
+- **Maxence Lacroix (96)** caiu **-48%** em 24h, a **610k coins** (faixa do dia: 599k–1.35M). Está -57% abaixo da média de 7 dias (descontada).
 
-- **Chadi Riad (96)** caiu **-45.4%** em 24h, a **219k coins** (faixa do dia: 215k–550k). Está -41% abaixo da média de 7 dias (descontada).
+- **Cristiano Ronaldo (89)** caiu **-47.6%** em 24h, a **994k coins** (faixa do dia: 899k–1.90M). Está -28% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Gonçalo Inácio já avançou 60% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Debinha já avançou 58.1% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Johan Cruyff recuou -46.5%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Virgil van Dijk recuou -50%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -118,13 +118,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/07/2026)?**
-Gonçalo Inácio (89, Liga Portugal), com +60% em 24h, a 200k coins no PC.
+Debinha (89, NWSL), com +58.1% em 24h, a 92k coins no PC.
 
 **E a maior queda do dia?**
-Johan Cruyff (94), -46.5% em 24h, a 454k coins.
+Virgil van Dijk (92), -50% em 24h, a 520k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 231 cartas em alta contra 229 em queda (média 3.43%).
+Hoje o mercado está em alta — predominam as valorizações, com 219 cartas em alta contra 200 em queda (média 6.46%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

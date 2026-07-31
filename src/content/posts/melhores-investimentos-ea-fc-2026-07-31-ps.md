@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T13:25:09.000Z
+pubDatetime: 2026-07-31T16:25:09.000Z
 title: "Investimentos EA FC: Cartas Meta em 31/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 31/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (31/07/2026) no EA FC?"
-    a: "Harry Kane (92, Bundesliga) lidera, com +89.9% em 7 dias a 200k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Roberto Carlos (95, sem liga) lidera, com +88.3% em 7 dias a 111k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **31/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Harry Kane (92) acumula **+89.9% em 7 dias** a 200k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Roberto Carlos (95) acumula **+88.3% em 7 dias** a 111k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas Meta em 31/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-31-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **31/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+19.6% em 24h** e **+56.2% em 7 dias**.
-- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+14.3% em 24h** e **+64.3% em 7 dias**.
+- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Harry Kane | 92 | Bundesliga | 200k coins | +24.2% | +89.9% | Esticada |
-| Peter Schmeichel | 89 | Icons | 115k coins | +23.8% | +85.7% | Esticada |
-| Éder Militão | 88 | LALIGA EA SPORTS | 88k coins | +19.1% | +81% | Esticada |
-| Ashley Cole | 92 | — | 129k coins | +23.8% | +74.5% | Esticada |
-| De Gea | 89 | Serie A TIM | 174k coins | +21% | +70.4% | Esticada |
-| Alexander Sørloth | 89 | LALIGA EA SPORTS | 156k coins | +38.1% | +60% | Esticada |
-| Nuno Mendes | 95 | — | 220k coins | +5.8% | +59.4% | Momentum moderado |
-| Kai Havertz | 91 | Premier League | 185k coins | +5.3% | +56.2% | Momentum moderado |
-| Aymeric Laporte | 97 | — | 198k coins | +1.5% | +56.2% | Momentum moderado |
-| Debinha | 89 | NWSL | 149k coins | +39.1% | +54.5% | Esticada |
-| Federico Valverde | 90 | LALIGA EA SPORTS | 195k coins | +37.3% | +53.5% | Esticada |
-| Can Uzun | 89 | Bundesliga | 110k coins | +19.6% | +52.8% | Momentum moderado |
-| Cha Bum Kun | 88 | Icons | 175k coins | +14.8% | +42.5% | Momentum moderado |
-| Javier Zanetti | 91 | Icons | 138k coins | +2.2% | +42.3% | Momentum moderado |
-| Lindsey Heaps | 88 | D1 Arkema | 145k coins | +18.9% | +39.4% | Momentum moderado |
+| Roberto Carlos | 95 | — | 111k coins | +13% | +88.3% | Esticada |
+| Ashley Cole | 92 | — | 130k coins | +23.8% | +85.7% | Esticada |
+| Federico Valverde | 90 | LALIGA EA SPORTS | 180k coins | +25.8% | +80.6% | Esticada |
+| Steven Gerrard | 89 | Icons | 184k coins | +34.1% | +76.2% | Esticada |
+| Peter Schmeichel | 89 | Icons | 90k coins | +22.8% | +71.9% | Esticada |
+| Can Uzun | 89 | Bundesliga | 110k coins | +19.6% | +69.2% | Esticada |
+| Javier Zanetti | 91 | Icons | 148k coins | +10.4% | +66.3% | Esticada |
+| Aymeric Laporte | 97 | — | 240k coins | +7.3% | +64.3% | Esticada |
+| Nuno Mendes | 95 | — | 220k coins | +4.8% | +56.8% | Momentum moderado |
+| Gianluigi Donnarumma | 95 | Premier League | 228k coins | +2.9% | +48.2% | Momentum moderado |
+| Alexia Putellas | 92 | Liga F | 86k coins | +8.6% | +47.6% | Momentum moderado |
+| Elliot Anderson | 89 | Premier League | 101k coins | +14.8% | +46.4% | Momentum moderado |
+| Steven Gerrard | 88 | Icons | 113k coins | +14.3% | +46.3% | Momentum moderado |
+| Paul Scholes | 88 | Icons | 92k coins | +39.9% | +44.9% | Esticada |
+| Patrick Vieira | 95 | — | 200k coins | +4.1% | +44.3% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Harry Kane (92)** — 200k coins, **+89.9% em 7 dias** (+24.2% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Roberto Carlos (95)** — 111k coins, **+88.3% em 7 dias** (+13% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Peter Schmeichel (89)** — 115k coins, **+85.7% em 7 dias** (+23.8% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ashley Cole (92)** — 130k coins, **+85.7% em 7 dias** (+23.8% em 24h). Preço +49% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Éder Militão (88)** — 88k coins, **+81% em 7 dias** (+19.1% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Federico Valverde (90)** — 180k coins, **+80.6% em 7 dias** (+25.8% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ashley Cole (92)** — 129k coins, **+74.5% em 7 dias** (+23.8% em 24h). Preço +49% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Steven Gerrard (89)** — 184k coins, **+76.2% em 7 dias** (+34.1% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **De Gea (89)** — 174k coins, **+70.4% em 7 dias** (+21% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Peter Schmeichel (89)** — 90k coins, **+71.9% em 7 dias** (+22.8% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -97,7 +97,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (31/07/2026) no EA FC?**  
-Harry Kane (92, Bundesliga) lidera, com +89.9% em 7 dias a 200k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Roberto Carlos (95, sem liga) lidera, com +88.3% em 7 dias a 111k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
