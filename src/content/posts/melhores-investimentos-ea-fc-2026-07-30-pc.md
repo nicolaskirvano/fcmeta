@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T22:25:19.000Z
+pubDatetime: 2026-07-31T01:25:18.000Z
 title: "Investimentos EA FC: Cartas Meta em 30/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 30/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (30/07/2026) no EA FC?"
-    a: "Pernille Harder (89, GPFBL) lidera, com +76.9% em 7 dias a 96k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Pernille Harder (89, GPFBL) lidera, com +77.2% em 7 dias a 90k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **30/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Pernille Harder (89) acumula **+76.9% em 7 dias** a 96k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Pernille Harder (89) acumula **+77.2% em 7 dias** a 90k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas Meta em 30/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-30-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **30/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.7% em 24h** e **+44.0% em 7 dias**.
+- A mediana é de **+13.4% em 24h** e **+40.8% em 7 dias**.
 - **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Icons** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Pernille Harder | 89 | GPFBL | 96k coins | +3.5% | +76.9% | Esticada |
-| Kouadio Manu Koné | 88 | Serie A TIM | 150k coins | +15% | +74.2% | Esticada |
+| Pernille Harder | 89 | GPFBL | 90k coins | +5.3% | +77.2% | Esticada |
+| Francesco Totti | 89 | Icons | 250k coins | +14.2% | +70.1% | Esticada |
 | Sakina Karchaoui | 88 | D1 Arkema | 80k coins | +7.4% | +61.6% | Esticada |
-| Matvey Safonov | 88 | Ligue 1 McDonald's | 239k coins | +4.7% | +53.1% | Momentum moderado |
-| Daniele De Rossi | 89 | Serie A TIM | 171k coins | +12.5% | +51.3% | Momentum moderado |
-| Arda Güler | 93 | LALIGA EA SPORTS | 226k coins | +25.7% | +47.4% | Esticada |
-| Hristo Stoichkov | 89 | Icons | 145k coins | +26.1% | +46.5% | Esticada |
-| Steven Gerrard | 90 | Icons | 226k coins | +17.4% | +44% | Momentum moderado |
-| Alphonso Davies | 89 | Bundesliga | 111k coins | +11% | +37% | Momentum moderado |
-| Javier Mascherano | 90 | LALIGA EA SPORTS | 100k coins | +38.9% | +37% | Esticada |
-| Gisele Thompson | 90 | NWSL | 90k coins | +4.7% | +31.6% | Momentum moderado |
-| Roberto Carlos | 95 | — | 101k coins | +19.8% | +27.4% | Momentum moderado |
-| Robin van Persie | 88 | Icons | 142k coins | +12.7% | +26.4% | Momentum moderado |
-| Alessandro Nesta | 92 | — | 85k coins | +25% | +25% | Esticada |
-| Marcel Desailly | 88 | Icons | 100k coins | +5.6% | +24.2% | Momentum moderado |
+| Matvey Safonov | 88 | Ligue 1 McDonald's | 239k coins | +11.2% | +54.2% | Momentum moderado |
+| Daniele De Rossi | 89 | Serie A TIM | 171k coins | +15.5% | +51.3% | Momentum moderado |
+| Arda Güler | 93 | LALIGA EA SPORTS | 230k coins | +28.5% | +48.4% | Esticada |
+| Hristo Stoichkov | 89 | Icons | 144k coins | +24.3% | +43% | Esticada |
+| Harry Kane | 90 | Bundesliga | 169k coins | +13.4% | +40.8% | Momentum moderado |
+| Jonathan David | 95 | — | 199k coins | +36.3% | +33.6% | Esticada |
+| Javier Mascherano | 89 | LALIGA EA SPORTS | 130k coins | +4% | +30% | Momentum moderado |
+| Steven Gerrard | 90 | Icons | 190k coins | +5.6% | +29.6% | Momentum moderado |
+| Lotta Schelin | 90 | Icons | 138k coins | +5.9% | +28.2% | Momentum moderado |
+| Nico O'Reilly | 96 | — | 150k coins | +20% | +27.1% | Esticada |
+| Marcel Desailly | 88 | Icons | 94k coins | +5.6% | +26.7% | Momentum moderado |
+| Gianluigi Donnarumma | 95 | — | 165k coins | +16.8% | +24.2% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Pernille Harder (89)** — 96k coins, **+76.9% em 7 dias** (+3.5% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pernille Harder (89)** — 90k coins, **+77.2% em 7 dias** (+5.3% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Kouadio Manu Koné (88)** — 150k coins, **+74.2% em 7 dias** (+15% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Francesco Totti (89)** — 250k coins, **+70.1% em 7 dias** (+14.2% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sakina Karchaoui (88)** — 80k coins, **+61.6% em 7 dias** (+7.4% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sakina Karchaoui (88)** — 80k coins, **+61.6% em 7 dias** (+7.4% em 24h). Preço +47% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Matvey Safonov (88)** — 239k coins, **+53.1% em 7 dias** (+4.7% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Matvey Safonov (88)** — 239k coins, **+54.2% em 7 dias** (+11.2% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Daniele De Rossi (89)** — 171k coins, **+51.3% em 7 dias** (+12.5% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Daniele De Rossi (89)** — 171k coins, **+51.3% em 7 dias** (+15.5% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (30/07/2026) no EA FC?**  
-Pernille Harder (89, GPFBL) lidera, com +76.9% em 7 dias a 96k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Pernille Harder (89, GPFBL) lidera, com +77.2% em 7 dias a 90k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
