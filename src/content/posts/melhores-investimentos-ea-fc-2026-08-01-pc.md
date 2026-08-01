@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T19:25:19.000Z
+pubDatetime: 2026-08-01T22:25:19.000Z
 title: "Investimentos EA FC: Cartas Meta em 01/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 01/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (01/08/2026) no EA FC?"
-    a: "Daniel Muñoz (97, sem liga) lidera, com +87.1% em 7 dias a 171k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Gianluigi Donnarumma (95, sem liga) lidera, com +88.5% em 7 dias a 200k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **01/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Daniel Muñoz (97) acumula **+87.1% em 7 dias** a 171k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Gianluigi Donnarumma (95) acumula **+88.5% em 7 dias** a 200k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas Meta em 01/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-01-pc.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **01/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+15.6% em 24h** e **+69.1% em 7 dias**.
-- **12 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+21.4% em 24h** e **+62.8% em 7 dias**.
+- **13 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Icons** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Daniel Muñoz | 97 | — | 171k coins | +24.3% | +87.1% | Esticada |
-| Gerd Müller | 92 | Icons | 190k coins | +15.5% | +83% | Esticada |
-| Karim Benzema | 88 | ROSHN Saudi League | 220k coins | +22.2% | +81.8% | Esticada |
-| Dominik Szoboszlai | 94 | — | 90k coins | +15.2% | +80% | Esticada |
-| Fridolina Rolfö | 90 | Barclays WSL | 86k coins | +7.9% | +73.5% | Esticada |
-| Lev Yashin | 92 | Icons | 149k coins | +29.6% | +70.3% | Esticada |
-| Theo Hernández | 95 | — | 100k coins | +2.9% | +69.4% | Esticada |
-| Orlando Gill | 95 | — | 80k coins | +2.5% | +69.1% | Esticada |
-| Mateo Chávez | 89 | — | 95k coins | +29.3% | +66.7% | Esticada |
-| Weston McKennie | 92 | Serie A TIM | 94k coins | +4.3% | +56.1% | Momentum moderado |
-| Marcelo | 89 | Icons | 160k coins | +24% | +50.9% | Esticada |
-| Victor Osimhen | 88 | Trendyol Süper Lig | 146k coins | +27.1% | +48.5% | Esticada |
-| Zé Roberto | 95 | — | 110k coins | +15.6% | +45.7% | Momentum moderado |
-| Frank Rijkaard | 89 | Icons | 90k coins | +3.8% | +44.6% | Momentum moderado |
-| Thibaut Courtois | 95 | — | 205k coins | +33.9% | +41.5% | Esticada |
+| Gianluigi Donnarumma | 95 | — | 200k coins | +22.5% | +88.5% | Esticada |
+| Javier Zanetti | 89 | Icons | 124k coins | +21.4% | +76.3% | Esticada |
+| Karim Benzema | 88 | ROSHN Saudi League | 210k coins | +10% | +76% | Esticada |
+| Leah Williamson | 95 | Barclays WSL | 208k coins | +13.4% | +73.8% | Esticada |
+| Mateo Chávez | 89 | — | 95k coins | +29.3% | +72.7% | Esticada |
+| Carles Puyol | 89 | Icons | 112k coins | +10.5% | +71.9% | Esticada |
+| Patrick Vieira | 95 | — | 250k coins | +19% | +66.7% | Esticada |
+| Marcelo | 96 | — | 109k coins | +5% | +62.8% | Esticada |
+| Xavi | 91 | Icons | 140k coins | +27.3% | +60% | Esticada |
+| Javier Mascherano | 89 | LALIGA EA SPORTS | 130k coins | +11.1% | +53.8% | Momentum moderado |
+| Nahuel Molina | 91 | — | 210k coins | +27.1% | +52.3% | Esticada |
+| Kyle Walker | 97 | — | 190k coins | +26.8% | +51.2% | Esticada |
+| Lev Yashin | 92 | Icons | 149k coins | +22.6% | +50% | Esticada |
+| Eric García | 96 | — | 220k coins | +30% | +49.4% | Esticada |
+| João Cancelo | 95 | — | 127k coins | +14.3% | +45.5% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Daniel Muñoz (97)** — 171k coins, **+87.1% em 7 dias** (+24.3% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gianluigi Donnarumma (95)** — 200k coins, **+88.5% em 7 dias** (+22.5% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gerd Müller (92)** — 190k coins, **+83% em 7 dias** (+15.5% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Javier Zanetti (89)** — 124k coins, **+76.3% em 7 dias** (+21.4% em 24h). Preço +52% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Karim Benzema (88)** — 220k coins, **+81.8% em 7 dias** (+22.2% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Karim Benzema (88)** — 210k coins, **+76% em 7 dias** (+10% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Dominik Szoboszlai (94)** — 90k coins, **+80% em 7 dias** (+15.2% em 24h). Preço -21% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Leah Williamson (95)** — 208k coins, **+73.8% em 7 dias** (+13.4% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Fridolina Rolfö (90)** — 86k coins, **+73.5% em 7 dias** (+7.9% em 24h). Preço +55% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mateo Chávez (89)** — 95k coins, **+72.7% em 7 dias** (+29.3% em 24h). Preço +60% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (01/08/2026) no EA FC?**  
-Daniel Muñoz (97, sem liga) lidera, com +87.1% em 7 dias a 171k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Gianluigi Donnarumma (95, sem liga) lidera, com +88.5% em 7 dias a 200k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
