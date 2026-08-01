@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T13:25:09.000Z
+pubDatetime: 2026-08-01T16:25:09.000Z
 title: "Investimentos EA FC: Cartas Meta em 01/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 01/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (01/08/2026) no EA FC?"
-    a: "Zé Roberto (95, sem liga) lidera, com +87.3% em 7 dias a 98k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Kevin De Bruyne (88, Serie A TIM) lidera, com +89.5% em 7 dias a 180k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **01/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Zé Roberto (95) acumula **+87.3% em 7 dias** a 98k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Kevin De Bruyne (88) acumula **+89.5% em 7 dias** a 180k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas Meta em 01/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-01-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **01/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+15.2% em 24h** e **+60.0% em 7 dias**.
-- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Bundesliga** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+14.4% em 24h** e **+66.7% em 7 dias**.
+- **12 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Serie A TIM** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Zé Roberto | 95 | — | 98k coins | +21.2% | +87.3% | Esticada |
-| Luis Díaz | 91 | Bundesliga | 191k coins | +12.4% | +79.2% | Esticada |
-| Roberto Baggio | 94 | — | 199k coins | +17.5% | +78.9% | Esticada |
-| Eric García | 96 | — | 180k coins | +17.6% | +76.5% | Esticada |
-| Youri Tielemans | 96 | — | 190k coins | +7.1% | +71.3% | Esticada |
-| Roberto Carlos | 95 | — | 122k coins | +4.8% | +67.9% | Esticada |
-| Marcelo | 96 | — | 107k coins | +7.1% | +61.5% | Esticada |
-| João Félix | 96 | — | 120k coins | +16.4% | +60% | Esticada |
-| Gianluigi Donnarumma | 95 | — | 163k coins | +15.2% | +59% | Momentum moderado |
-| Patrick Vieira | 88 | Icons | 223k coins | +21.1% | +58.8% | Esticada |
-| Jonathan Tah | 95 | — | 109k coins | +16.8% | +58.6% | Momentum moderado |
-| Jules Koundé | 94 | LALIGA EA SPORTS | 247k coins | +6.4% | +57.2% | Momentum moderado |
-| Gianluigi Buffon | 94 | — | 250k coins | +6.4% | +56.2% | Momentum moderado |
-| Carlos Baleba | 90 | Premier League | 201k coins | +18.6% | +51.6% | Momentum moderado |
-| João Neves | 93 | Ligue 1 McDonald's | 149k coins | +3.4% | +50.8% | Momentum moderado |
+| Kevin De Bruyne | 88 | Serie A TIM | 180k coins | +11.8% | +89.5% | Esticada |
+| Nico O'Reilly | 96 | — | 120k coins | +2.7% | +85.2% | Esticada |
+| Marcel Desailly | 93 | — | 100k coins | +25% | +85.2% | Esticada |
+| Roberto Carlos | 95 | — | 123k coins | +11.9% | +83.5% | Esticada |
+| Eric García | 96 | — | 184k coins | +25.2% | +72% | Esticada |
+| Marc-André ter Stegen | 89 | LALIGA EA SPORTS | 170k coins | +36% | +70% | Esticada |
+| Lilian Thuram | 95 | — | 209k coins | +9.5% | +66.9% | Esticada |
+| Luis Díaz | 91 | Bundesliga | 183k coins | +14.4% | +66.7% | Esticada |
+| Marcelo | 96 | — | 111k coins | +10.4% | +64.3% | Esticada |
+| Theo Hernández | 95 | — | 110k coins | +17% | +64.2% | Esticada |
+| Kevin De Bruyne | 89 | Serie A TIM | 105k coins | +19.3% | +61.5% | Esticada |
+| Patrick Vieira | 88 | Icons | 241k coins | +28.1% | +59.1% | Esticada |
+| Marcos Llorente | 95 | — | 132k coins | +4.2% | +58.2% | Momentum moderado |
+| Aymeric Laporte | 97 | — | 220k coins | +14.5% | +57.9% | Momentum moderado |
+| Gianluigi Donnarumma | 95 | — | 168k coins | +13.6% | +57.4% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Zé Roberto (95)** — 98k coins, **+87.3% em 7 dias** (+21.2% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kevin De Bruyne (88)** — 180k coins, **+89.5% em 7 dias** (+11.8% em 24h). Preço +56% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Luis Díaz (91)** — 191k coins, **+79.2% em 7 dias** (+12.4% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nico O'Reilly (96)** — 120k coins, **+85.2% em 7 dias** (+2.7% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Roberto Baggio (94)** — 199k coins, **+78.9% em 7 dias** (+17.5% em 24h). Preço +59% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marcel Desailly (93)** — 100k coins, **+85.2% em 7 dias** (+25% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Eric García (96)** — 180k coins, **+76.5% em 7 dias** (+17.6% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Roberto Carlos (95)** — 123k coins, **+83.5% em 7 dias** (+11.9% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Youri Tielemans (96)** — 190k coins, **+71.3% em 7 dias** (+7.1% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Eric García (96)** — 184k coins, **+72% em 7 dias** (+25.2% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (01/08/2026) no EA FC?**  
-Zé Roberto (95, sem liga) lidera, com +87.3% em 7 dias a 98k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Kevin De Bruyne (88, Serie A TIM) lidera, com +89.5% em 7 dias a 180k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

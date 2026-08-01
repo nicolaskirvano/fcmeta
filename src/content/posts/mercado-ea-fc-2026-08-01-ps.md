@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T13:25:07.000Z
+pubDatetime: 2026-08-01T16:25:08.000Z
 title: "Mercado EA FC em 01/08: Cartas Meta — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 01/08/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (01/08/2026)?"
-    a: "Khadija Shaw (90, Barclays WSL), com +59.7% em 24h, a 496k coins no Console (PS)."
+    a: "Ruud Gullit (95, sem liga), com +59.8% em 24h, a 148k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Kylian Mbappé (96), -49.8% em 24h, a 571k coins."
+    a: "Eden Hazard (88), -46.8% em 24h, a 83k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 203 cartas em alta contra 179 em queda (média 1.65%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 263 cartas em alta contra 133 em queda (média 9.0%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Resumo de **01/08/2026** no Console (PS): clima **comprador** — a maioria das cartas subiu. **203 valorizações** contra **179 quedas** entre as cartas relevantes, com média de **1.65%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **01/08/2026** no Console (PS): clima **comprador** — a maioria das cartas subiu. **263 valorizações** contra **133 quedas** entre as cartas relevantes, com média de **9.0%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Khadija Shaw (90) **+59.7%** · 🔴 **Maior baixa:** Kylian Mbappé (96) **-49.8%**
+> 🟢 **Maior alta:** Ruud Gullit (95) **+59.8%** · 🔴 **Maior baixa:** Eden Hazard (88) **-46.8%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 01/08: Cartas Meta — Console (PS)](/charts/mercado-ea-fc-2026-08-01-ps.svg)
 
@@ -35,24 +35,24 @@ Resumo de **01/08/2026** no Console (PS): clima **comprador** — a maioria das 
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 109.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 53.1% entre as cartas que se moveram; o universo observado reúne 396 cartas.
+- **Amplitude do dia:** 106.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 66.4% entre as cartas que se moveram; o universo observado reúne 437 cartas.
 - **Concentração:** Icons aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Khadija Shaw | 90 | Barclays WSL | 496k coins | +59.7% | +79.2% |
-| Jean-Mattéo Bahoya | 89 | Bundesliga | 85k coins | +58% | +144.9% |
-| Julián Alvarez | 88 | LALIGA EA SPORTS | 114k coins | +56.2% | +160.6% |
-| Eden Hazard | 92 | Premier League | 708k coins | +56.1% | +37% |
-| Lauren James | 92 | Barclays WSL | 267k coins | +51.9% | -5.3% |
-| Cody Gakpo | 89 | Premier League | 200k coins | +50.4% | +117.4% |
-| Franck Ribéry | 89 | Icons | 331k coins | +47.9% | +70.5% |
-| Trinity Rodman | 88 | NWSL | 180k coins | +47.5% | +76.5% |
-| Moussa Sissoko | 88 | EFL Championship | 231k coins | +47.2% | +108.9% |
-| Thierry Henry | 93 | Icons | 1.20M coins | +46.3% | +71.7% |
+| Ruud Gullit | 95 | — | 148k coins | +59.8% | -40.5% |
+| Daniele De Rossi | 95 | — | 885k coins | +59.2% | +63% |
+| Diego Armando Maradona | 96 | Icons | 2.40M coins | +58.9% | +39.7% |
+| Khadija Shaw | 90 | Barclays WSL | 496k coins | +58.5% | +77.8% |
+| Kaká | 89 | Icons | 286k coins | +58.2% | +89.4% |
+| Lucy Bronze | 88 | Barclays WSL | 149k coins | +56.8% | +220.4% |
+| Emiliano Buendía | 96 | — | 180k coins | +56.2% | -2.8% |
+| Eden Hazard | 92 | Premier League | 555k coins | +55.8% | +11.1% |
+| Lamine Yamal | 92 | LALIGA EA SPORTS | 590k coins | +53.4% | +63.7% |
+| Michael Olise | 88 | Bundesliga | 400k coins | +53.3% | +38.5% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **01/08/2026** no Console (PS): clima **comprador** — a maioria das 
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Khadija Shaw (90)** subiu **+59.7%** em 24h, a **496k coins** (faixa do dia: 313k–500k). Está +76% acima da média de 7 dias (aquecida).
+- **Ruud Gullit (95)** subiu **+59.8%** em 24h, a **148k coins** (faixa do dia: 96k–148k). Está em linha com a média de 7 dias (+1%).
 
-- **Jean-Mattéo Bahoya (89)** subiu **+58%** em 24h, a **85k coins** (faixa do dia: 19.750–95k). Está +89% acima da média de 7 dias (aquecida).
+- **Daniele De Rossi (95)** subiu **+59.2%** em 24h, a **885k coins** (faixa do dia: 420k–950k). Está +63% acima da média de 7 dias (aquecida).
 
-- **Julián Alvarez (88)** subiu **+56.2%** em 24h, a **114k coins** (faixa do dia: 31k–127k). Está +74% acima da média de 7 dias (aquecida).
+- **Diego Armando Maradona (96)** subiu **+58.9%** em 24h, a **2.40M coins** (faixa do dia: 1.55M–2.93M). Está +29% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Kylian Mbappé | 96 | LALIGA EA SPORTS | 571k coins | -49.8% | -55.3% |
-| Nicolas Pépé | 95 | — | 103k coins | -49.6% | +0.8% |
-| Bremer | 88 | Serie A TIM | 180k coins | -49% | -10.7% |
-| Caroline Graham Hansen | 92 | Liga F | 128k coins | -45.8% | -11% |
-| Federico Valverde | 91 | LALIGA EA SPORTS | 345k coins | -45.3% | +15.9% |
-| Franco Baresi | 91 | Icons | 100k coins | -45% | +75.4% |
-| Amaiur Sarriegi | 88 | Liga F | 90k coins | -42.4% | -26.6% |
-| Barış Alper Yılmaz | 89 | Trendyol Süper Lig | 160k coins | -41.8% | -23.4% |
-| Harry Kane | 97 | — | 112k coins | -41% | -5.7% |
-| Fernando Torres | 90 | Icons | 412k coins | -41% | -31.2% |
+| Eden Hazard | 88 | Premier League | 83k coins | -46.8% | -27% |
+| Marcelo | 89 | Icons | 110k coins | -46.3% | +47.7% |
+| Federico Valverde | 91 | LALIGA EA SPORTS | 349k coins | -41.8% | +23.3% |
+| Désiré Doué | 96 | — | 315k coins | -41.7% | -48.2% |
+| Antonio Nusa | 89 | Bundesliga | 81k coins | -40.3% | -17% |
+| Andrea Pirlo | 90 | Icons | 80k coins | -38.5% | -33% |
+| Kylian Mbappé | 92 | LALIGA EA SPORTS | 370k coins | -34.5% | -58.4% |
+| Harry Kane | 97 | — | 100k coins | -34.4% | -1.6% |
+| Cristiano Ronaldo | 89 | ROSHN Saudi League | 416k coins | -33.9% | -41.1% |
+| Cesc Fàbregas | 91 | Premier League | 107k coins | -33.1% | -26.2% |
 
 
 ### Análise das baixas
 
-- **Kylian Mbappé (96)** caiu **-49.8%** em 24h, a **571k coins** (faixa do dia: 450k–1.21M). Está -57% abaixo da média de 7 dias (descontada).
+- **Eden Hazard (88)** caiu **-46.8%** em 24h, a **83k coins** (faixa do dia: 79k–145k). Está -45% abaixo da média de 7 dias (descontada).
 
-- **Nicolas Pépé (95)** caiu **-49.6%** em 24h, a **103k coins** (faixa do dia: 60k–139k). Está +24% acima da média de 7 dias (aquecida).
+- **Marcelo (89)** caiu **-46.3%** em 24h, a **110k coins** (faixa do dia: 98k–206k). Está em linha com a média de 7 dias (-6%).
 
-- **Bremer (88)** caiu **-49%** em 24h, a **180k coins** (faixa do dia: 180k–359k). Está -45% abaixo da média de 7 dias (descontada).
+- **Federico Valverde (91)** caiu **-41.8%** em 24h, a **349k coins** (faixa do dia: 284k–600k). Está em linha com a média de 7 dias (+3%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Khadija Shaw já avançou 59.7% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Ruud Gullit já avançou 59.8% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Kylian Mbappé recuou -49.8%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Eden Hazard recuou -46.8%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (01/08/2026)?**
-Khadija Shaw (90, Barclays WSL), com +59.7% em 24h, a 496k coins no Console (PS).
+Ruud Gullit (95, sem liga), com +59.8% em 24h, a 148k coins no Console (PS).
 
 **E a maior queda do dia?**
-Kylian Mbappé (96), -49.8% em 24h, a 571k coins.
+Eden Hazard (88), -46.8% em 24h, a 83k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 203 cartas em alta contra 179 em queda (média 1.65%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 263 cartas em alta contra 133 em queda (média 9.0%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
