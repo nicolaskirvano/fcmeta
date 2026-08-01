@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T22:25:19.000Z
+pubDatetime: 2026-08-01T01:25:19.000Z
 title: "Investimentos EA FC: Cartas Meta em 31/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 31/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (31/07/2026) no EA FC?"
-    a: "Carles Puyol (89, Icons) lidera, com +85.3% em 7 dias a 100k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Gerd Müller (92, Icons) lidera, com +82.8% em 7 dias a 159k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **31/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Carles Puyol (89) acumula **+85.3% em 7 dias** a 100k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Gerd Müller (92) acumula **+82.8% em 7 dias** a 159k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas Meta em 31/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-31-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **31/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.5% em 24h** e **+51.5% em 7 dias**.
+- A mediana é de **+14.4% em 24h** e **+48.4% em 7 dias**.
 - **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Icons** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Carles Puyol | 89 | Icons | 100k coins | +26% | +85.3% | Esticada |
-| Gerd Müller | 92 | Icons | 160k coins | +22.9% | +85.1% | Esticada |
-| Dominik Szoboszlai | 94 | — | 120k coins | +1.6% | +73.3% | Esticada |
-| Aya Miyama | 90 | Icons | 111k coins | +26.1% | +63.2% | Esticada |
-| Paul Onuachu | 95 | — | 85k coins | +7.2% | +59.5% | Momentum moderado |
-| Youri Tielemans | 96 | — | 210k coins | +30.5% | +59% | Esticada |
-| Toni Kroos | 95 | — | 121k coins | +15.4% | +57.9% | Momentum moderado |
-| Gianluigi Donnarumma | 95 | — | 219k coins | +1% | +51.5% | Momentum moderado |
-| Malik Tillman | 88 | Bundesliga | 239k coins | +33.3% | +49.1% | Esticada |
-| Leah Williamson | 88 | Barclays WSL | 98k coins | +14.5% | +31.3% | Momentum moderado |
-| Micky van de Ven | 96 | — | 178k coins | +9.7% | +30.8% | Momentum moderado |
-| Hugo Sánchez | 89 | Icons | 92k coins | +5.2% | +30.7% | Momentum moderado |
-| Luís Figo | 89 | Icons | 90k coins | +7.6% | +29.6% | Momentum moderado |
-| Iniesta | 92 | Icons | 236k coins | +9.1% | +26.3% | Momentum moderado |
-| Julián Alvarez | 88 | LALIGA EA SPORTS | 130k coins | +32.7% | +26.2% | Esticada |
+| Gerd Müller | 92 | Icons | 159k coins | +14.4% | +82.8% | Esticada |
+| Gianluigi Donnarumma | 95 | — | 155k coins | +7% | +65.3% | Esticada |
+| Thibaut Courtois | 95 | — | 239k coins | +19.5% | +58.7% | Momentum moderado |
+| Temwa Chawinga | 97 | — | 210k coins | +1.6% | +58.2% | Momentum moderado |
+| Karim Benzema | 88 | ROSHN Saudi League | 200k coins | +5.3% | +56.2% | Momentum moderado |
+| Deniz Undav | 91 | Bundesliga | 157k coins | +1.9% | +54.8% | Momentum moderado |
+| Daniel Muñoz | 97 | — | 151k coins | +25% | +50.8% | Esticada |
+| Malik Tillman | 88 | Bundesliga | 239k coins | +9.1% | +48.4% | Momentum moderado |
+| Andrea Pirlo | 90 | Icons | 196k coins | +7% | +38.5% | Momentum moderado |
+| Lothar Matthäus | 90 | Icons | 180k coins | +26.9% | +28.4% | Esticada |
+| Weston McKennie | 92 | Serie A TIM | 84k coins | +4.9% | +26.5% | Momentum moderado |
+| Julián Alvarez | 88 | LALIGA EA SPORTS | 130k coins | +32.7% | +23.8% | Esticada |
+| Fernando Morientes | 94 | — | 133k coins | +19.2% | +23.1% | Momentum moderado |
+| Trinity Rodman | 88 | NWSL | 240k coins | +27% | +23.1% | Esticada |
+| Giorgio Chiellini | 88 | Icons | 94k coins | +30.2% | +22% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Carles Puyol (89)** — 100k coins, **+85.3% em 7 dias** (+26% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gerd Müller (92)** — 159k coins, **+82.8% em 7 dias** (+14.4% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gerd Müller (92)** — 160k coins, **+85.1% em 7 dias** (+22.9% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gianluigi Donnarumma (95)** — 155k coins, **+65.3% em 7 dias** (+7% em 24h). Preço em linha com a média de 7 dias (-6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Dominik Szoboszlai (94)** — 120k coins, **+73.3% em 7 dias** (+1.6% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Thibaut Courtois (95)** — 239k coins, **+58.7% em 7 dias** (+19.5% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Aya Miyama (90)** — 111k coins, **+63.2% em 7 dias** (+26.1% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Temwa Chawinga (97)** — 210k coins, **+58.2% em 7 dias** (+1.6% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Paul Onuachu (95)** — 85k coins, **+59.5% em 7 dias** (+7.2% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Karim Benzema (88)** — 200k coins, **+56.2% em 7 dias** (+5.3% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -97,7 +97,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (31/07/2026) no EA FC?**  
-Carles Puyol (89, Icons) lidera, com +85.3% em 7 dias a 100k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Gerd Müller (92, Icons) lidera, com +82.8% em 7 dias a 159k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
