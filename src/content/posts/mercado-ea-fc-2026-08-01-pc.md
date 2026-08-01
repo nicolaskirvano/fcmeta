@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T10:25:17.000Z
+pubDatetime: 2026-08-01T13:25:17.000Z
 title: "Mercado EA FC em 01/08: Cartas Meta — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 01/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (01/08/2026)?"
-    a: "Kyle Walker (97, sem liga), com +59.6% em 24h, a 166k coins no PC."
+    a: "Toni Kroos (90, Icons), com +60% em 24h, a 109k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Troy Parrott (91), -50% em 24h, a 95k coins."
+    a: "Adam Wharton (96), -46.4% em 24h, a 155k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 194 cartas em alta contra 212 em queda (média 4.62%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 193 cartas em alta contra 188 em queda (média 4.03%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Resumo de **01/08/2026** no PC: clima **comprador** — a maioria das cartas subiu. **194 valorizações** contra **212 quedas** entre as cartas relevantes, com média de **4.62%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **01/08/2026** no PC: clima **comprador** — a maioria das cartas subiu. **193 valorizações** contra **188 quedas** entre as cartas relevantes, com média de **4.03%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Kyle Walker (97) **+59.6%** · 🔴 **Maior baixa:** Troy Parrott (91) **-50%**
+> 🟢 **Maior alta:** Toni Kroos (90) **+60%** · 🔴 **Maior baixa:** Adam Wharton (96) **-46.4%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 01/08: Cartas Meta — PC](/charts/mercado-ea-fc-2026-08-01-pc.svg)
 
@@ -35,24 +35,24 @@ Resumo de **01/08/2026** no PC: clima **comprador** — a maioria das cartas sub
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 109.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 47.8% entre as cartas que se moveram; o universo observado reúne 493 cartas.
-- **Concentração:** Icons aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 106.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 50.7% entre as cartas que se moveram; o universo observado reúne 458 cartas.
+- **Concentração:** Icons aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Kyle Walker | 97 | — | 166k coins | +59.6% | +12.9% |
-| Paulo Dybala | 91 | Serie A TIM | 350k coins | +58.4% | +84.2% |
-| Daniele De Rossi | 95 | — | 800k coins | +57.8% | +14.4% |
-| Petr Čech | 97 | — | 260k coins | +55.6% | +39.2% |
-| Jérémy Doku | 91 | Premier League | 420k coins | +55.6% | +40% |
-| Julián Alvarez | 88 | LALIGA EA SPORTS | 188k coins | +55.4% | +25.3% |
-| Moussa Sissoko | 88 | EFL Championship | 290k coins | +54.3% | -4.3% |
-| Zico | 91 | Icons | 310k coins | +53.7% | +52.9% |
-| Nuno Mendes | 96 | — | 570k coins | +52.9% | +44.4% |
-| Lucy Bronze | 88 | Barclays WSL | 220k coins | +51.7% | -12.7% |
+| Toni Kroos | 90 | Icons | 109k coins | +60% | +67.6% |
+| Daniele De Rossi | 95 | — | 780k coins | +59.4% | +14.4% |
+| Lothar Matthäus | 95 | — | 320k coins | +59% | +85.6% |
+| Daniel Muñoz | 96 | — | 99k coins | +58.9% | -78.2% |
+| Jaap Stam | 96 | — | 1.99M coins | +53% | +52.9% |
+| Ruud Gullit | 95 | — | 189k coins | +53% | -27.2% |
+| Antoine Semenyo | 94 | — | 220k coins | +51.7% | +5.3% |
+| Lucy Bronze | 88 | Barclays WSL | 220k coins | +51.7% | -21.4% |
+| Zlatan Ibrahimović | 93 | Icons | 3.50M coins | +48% | -17.7% |
+| Kevin De Bruyne | 88 | Serie A TIM | 342k coins | +44.3% | +43.7% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **01/08/2026** no PC: clima **comprador** — a maioria das cartas sub
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Kyle Walker (97)** subiu **+59.6%** em 24h, a **166k coins** (faixa do dia: 96k–189k). Está +43% acima da média de 7 dias (aquecida).
+- **Toni Kroos (90)** subiu **+60%** em 24h, a **109k coins** (faixa do dia: 86k–192k). Está +11% acima da média de 7 dias (aquecida).
 
-- **Paulo Dybala (91)** subiu **+58.4%** em 24h, a **350k coins** (faixa do dia: 221k–350k). Está +41% acima da média de 7 dias (aquecida).
+- **Daniele De Rossi (95)** subiu **+59.4%** em 24h, a **780k coins** (faixa do dia: 495k–800k). Está +13% acima da média de 7 dias (aquecida).
 
-- **Daniele De Rossi (95)** subiu **+57.8%** em 24h, a **800k coins** (faixa do dia: 495k–800k). Está +16% acima da média de 7 dias (aquecida).
+- **Lothar Matthäus (95)** subiu **+59%** em 24h, a **320k coins** (faixa do dia: 199k–390k). Está +52% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Troy Parrott | 91 | — | 95k coins | -50% | -60.6% |
-| Samuel Eto'o | 89 | Icons | 179k coins | -49.4% | -6.7% |
-| Frenkie de Jong | 97 | — | 428k coins | -46.4% | -40.6% |
+| Adam Wharton | 96 | — | 155k coins | -46.4% | -80.4% |
+| Kylian Mbappé | 96 | LALIGA EA SPORTS | 500k coins | -46.3% | -64.9% |
 | Zico | 92 | Icons | 538k coins | -46.2% | -17% |
-| Adam Wharton | 96 | — | 163k coins | -42.8% | -77.7% |
-| Lukas Klostermann | 88 | Bundesliga | 110k coins | -41.8% | -9.1% |
-| Tabitha Chawinga | 97 | — | 100k coins | -41.5% | -37.5% |
-| Julián Alvarez | 96 | — | 100k coins | -41.1% | -9.5% |
-| Erling Haaland | 96 | — | 88k coins | -41.1% | -38.6% |
-| Gonçalo Inácio | 89 | Liga Portugal | 118k coins | -41% | -15.1% |
+| Frenkie de Jong | 97 | — | 460k coins | -45.9% | -50.3% |
+| Pedri | 90 | LALIGA EA SPORTS | 112k coins | -45.5% | -42.3% |
+| Steven Gerrard | 88 | Icons | 92k coins | -44.8% | +36.7% |
+| João Neves | 96 | — | 291k coins | -42.9% | -3% |
+| Warren Zaïre-Emery | 96 | — | 179k coins | -42.6% | -75.7% |
+| Ronaldinho | 93 | Icons | 802k coins | -42.5% | -48.1% |
+| Lukas Klostermann | 88 | Bundesliga | 159k coins | -41.8% | -9.1% |
 
 
 ### Análise das baixas
 
-- **Troy Parrott (91)** caiu **-50%** em 24h, a **95k coins** (faixa do dia: 20k–95k). Está +93% acima da média de 7 dias (aquecida).
+- **Adam Wharton (96)** caiu **-46.4%** em 24h, a **155k coins** (faixa do dia: 144k–450k). Está -63% abaixo da média de 7 dias (descontada).
 
-- **Samuel Eto'o (89)** caiu **-49.4%** em 24h, a **179k coins** (faixa do dia: 179k–359k). Está -27% abaixo da média de 7 dias (descontada).
+- **Kylian Mbappé (96)** caiu **-46.3%** em 24h, a **500k coins** (faixa do dia: 479k–2.10M). Está -69% abaixo da média de 7 dias (descontada).
 
-- **Frenkie de Jong (97)** caiu **-46.4%** em 24h, a **428k coins** (faixa do dia: 300k–848k). Está -50% abaixo da média de 7 dias (descontada).
+- **Zico (92)** caiu **-46.2%** em 24h, a **538k coins** (faixa do dia: 538k–1M). Está -39% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Kyle Walker já avançou 59.6% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Toni Kroos já avançou 60% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Troy Parrott recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Adam Wharton recuou -46.4%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (01/08/2026)?**
-Kyle Walker (97, sem liga), com +59.6% em 24h, a 166k coins no PC.
+Toni Kroos (90, Icons), com +60% em 24h, a 109k coins no PC.
 
 **E a maior queda do dia?**
-Troy Parrott (91), -50% em 24h, a 95k coins.
+Adam Wharton (96), -46.4% em 24h, a 155k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 194 cartas em alta contra 212 em queda (média 4.62%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 193 cartas em alta contra 188 em queda (média 4.03%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
