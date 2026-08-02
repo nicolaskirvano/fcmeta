@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T13:25:09.000Z
+pubDatetime: 2026-08-02T16:25:09.000Z
 title: "Investimentos EA FC: Cartas Meta em 02/08 — Console (PS)"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+15.4% em 24h** e **+74.6% em 7 dias**.
-- **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+11.0% em 24h** e **+67.4% em 7 dias**.
+- **14 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga F** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Zinedine Zidane | 96 | — | 103k coins | +13.2% | +89% | Esticada |
-| Marcelo | 89 | Icons | 149k coins | +15.4% | +87.5% | Esticada |
-| Tijjani Reijnders | 93 | Premier League | 173k coins | +16% | +85.1% | Esticada |
-| Ashley Cole | 92 | — | 130k coins | +8.3% | +84.4% | Esticada |
-| Daniel Muñoz | 97 | — | 199k coins | +30.5% | +80.2% | Esticada |
-| Eric Cantona | 92 | — | 199k coins | +31.6% | +77% | Esticada |
-| Vitinha | 90 | Ligue 1 McDonald's | 173k coins | +27.5% | +76% | Esticada |
-| Marcelo | 96 | — | 105k coins | +3.8% | +74.6% | Esticada |
-| Marcel Desailly | 93 | — | 95k coins | +9.4% | +72.8% | Esticada |
-| Jonathan Tah | 95 | — | 112k coins | +1.8% | +69.7% | Esticada |
-| Antonio Di Natale | 89 | Serie A TIM | 151k coins | +3.4% | +69.7% | Esticada |
-| Leah Williamson | 95 | Barclays WSL | 123k coins | +18.7% | +66% | Esticada |
-| Lionel Messi | 96 | — | 190k coins | +18.2% | +65.3% | Esticada |
-| Patrick Vieira | 95 | — | 214k coins | +12.5% | +64.2% | Esticada |
-| Carlos Baleba | 90 | Premier League | 228k coins | +19.9% | +63.6% | Esticada |
+| Zinedine Zidane | 96 | — | 103k coins | +5.1% | +89% | Esticada |
+| Ashley Cole | 92 | — | 130k coins | +8.3% | +85.7% | Esticada |
+| Lionel Messi | 96 | — | 200k coins | +21.8% | +80% | Esticada |
+| Jonathan David | 95 | — | 119k coins | +40% | +78.5% | Esticada |
+| Taylor Flint | 88 | NWSL | 121k coins | +6.4% | +77.3% | Esticada |
+| Eric Cantona | 92 | — | 199k coins | +32.7% | +76.1% | Esticada |
+| Vitinha | 90 | Ligue 1 McDonald's | 157k coins | +11% | +69.7% | Esticada |
+| Marcelo | 96 | — | 109k coins | +1.9% | +67.4% | Esticada |
+| Casillas | 95 | — | 133k coins | +13.2% | +65.4% | Esticada |
+| Kyle Walker | 97 | — | 200k coins | +12.9% | +65.4% | Esticada |
+| Carlos Baleba | 90 | Premier League | 226k coins | +29.7% | +64.5% | Esticada |
+| Marc-André ter Stegen | 89 | LALIGA EA SPORTS | 124k coins | +5.9% | +60.7% | Esticada |
+| Caroline Graham Hansen | 92 | Liga F | 120k coins | +7.1% | +60% | Esticada |
+| Iniesta | 92 | Icons | 227k coins | +21.7% | +59.7% | Esticada |
+| Amaiur Sarriegi | 88 | Liga F | 159k coins | +10% | +58.7% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Zinedine Zidane (96)** — 103k coins, **+89% em 7 dias** (+13.2% em 24h). Preço +66% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Zinedine Zidane (96)** — 103k coins, **+89% em 7 dias** (+5.1% em 24h). Preço +64% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marcelo (89)** — 149k coins, **+87.5% em 7 dias** (+15.4% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ashley Cole (92)** — 130k coins, **+85.7% em 7 dias** (+8.3% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Tijjani Reijnders (93)** — 173k coins, **+85.1% em 7 dias** (+16% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lionel Messi (96)** — 200k coins, **+80% em 7 dias** (+21.8% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ashley Cole (92)** — 130k coins, **+84.4% em 7 dias** (+8.3% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jonathan David (95)** — 119k coins, **+78.5% em 7 dias** (+40% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Daniel Muñoz (97)** — 199k coins, **+80.2% em 7 dias** (+30.5% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Taylor Flint (88)** — 121k coins, **+77.3% em 7 dias** (+6.4% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
