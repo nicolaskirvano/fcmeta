@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:25:18.000Z
+pubDatetime: 2026-08-02T13:25:17.000Z
 title: "Mercado EA FC em 02/08: Cartas Meta — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 02/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (02/08/2026)?"
-    a: "Fran Kirby (88, sem liga), com +57.3% em 24h, a 90k coins no PC."
+    a: "Mapi León (96, sem liga), com +56.8% em 24h, a 102k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Debinha (89), -46.1% em 24h, a 96k coins."
+    a: "Victor Osimhen (88), -47.5% em 24h, a 83k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 235 cartas em alta contra 187 em queda (média 8.24%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 249 cartas em alta contra 171 em queda (média 8.96%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Hoje (**02/08/2026**, PC) o Ultimate Team está **aquecido** — as altas dominam o dia — **235 subiram**, **187 caíram** (80+ e 5k+ coins), média de **8.24%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**02/08/2026**, PC) o Ultimate Team está **aquecido** — as altas dominam o dia — **249 subiram**, **171 caíram** (80+ e 5k+ coins), média de **8.96%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Fran Kirby (88) **+57.3%** · 🔴 **Maior baixa:** Debinha (89) **-46.1%**
+> 🟢 **Maior alta:** Mapi León (96) **+56.8%** · 🔴 **Maior baixa:** Victor Osimhen (88) **-47.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 02/08: Cartas Meta — PC](/charts/mercado-ea-fc-2026-08-02-pc.svg)
 
@@ -35,24 +35,24 @@ Hoje (**02/08/2026**, PC) o Ultimate Team está **aquecido** — as altas domina
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 103.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 55.7% entre as cartas que se moveram; o universo observado reúne 502 cartas.
-- **Concentração:** Icons aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 104.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 59.3% entre as cartas que se moveram; o universo observado reúne 503 cartas.
+- **Concentração:** Icons aparece em 6 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Fran Kirby | 88 | — | 90k coins | +57.3% | +80.4% |
+| Mapi León | 96 | — | 102k coins | +56.8% | -28.3% |
+| Emilio Butragueño | 89 | Icons | 100k coins | +55.6% | +47.9% |
+| Julián Alvarez | 96 | — | 529k coins | +55.1% | -3.6% |
 | Anthony Gordon | 88 | Premier League | 190k coins | +54.5% | -33.8% |
-| Paul Pogba | 89 | Ligue 1 McDonald's | 1.20M coins | +53.8% | +14% |
-| Hugo Sánchez | 89 | Icons | 147k coins | +53.6% | -7.5% |
-| Marcus Rashford | 90 | LALIGA EA SPORTS | 649k coins | +53.4% | +10.2% |
-| Lilian Thuram | 88 | Icons | 139k coins | +49.7% | +23.3% |
-| Cristiano Ronaldo | 92 | ROSHN Saudi League | 3.20M coins | +48.8% | +46.1% |
-| Federico Valverde | 89 | LALIGA EA SPORTS | 318k coins | +44.3% | -18.2% |
-| Federico Valverde | 94 | — | 420k coins | +43.9% | +12.7% |
-| Zico | 92 | Icons | 765k coins | +42.2% | -23.5% |
+| Marcus Rashford | 90 | LALIGA EA SPORTS | 629k coins | +53.4% | +10.2% |
+| Cafu | 91 | Icons | 151k coins | +52% | +17.4% |
+| Bobby Charlton | 92 | Icons | 92k coins | +51.9% | +63.3% |
+| Eden Hazard | 96 | — | 1.10M coins | +50% | -11.8% |
+| Alexander Isak | 97 | — | 600k coins | +47.1% | +34.1% |
+| Ferenc Puskás | 92 | Icons | 150k coins | +47.1% | -10.7% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**02/08/2026**, PC) o Ultimate Team está **aquecido** — as altas domina
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Fran Kirby (88)** subiu **+57.3%** em 24h, a **90k coins** (faixa do dia: 33k–100k). Está +34% acima da média de 7 dias (aquecida).
+- **Mapi León (96)** subiu **+56.8%** em 24h, a **102k coins** (faixa do dia: 37k–128k). Está -34% abaixo da média de 7 dias (descontada).
 
-- **Anthony Gordon (88)** subiu **+54.5%** em 24h, a **190k coins** (faixa do dia: 123k–190k). Está +22% acima da média de 7 dias (aquecida).
+- **Emilio Butragueño (89)** subiu **+55.6%** em 24h, a **100k coins** (faixa do dia: 68k–109k). Está +35% acima da média de 7 dias (aquecida).
 
-- **Paul Pogba (89)** subiu **+53.8%** em 24h, a **1.20M coins** (faixa do dia: 709k–1.30M). Está em linha com a média de 7 dias (+2%).
+- **Julián Alvarez (96)** subiu **+55.1%** em 24h, a **529k coins** (faixa do dia: 260k–556k). Está +20% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Debinha | 89 | NWSL | 96k coins | -46.1% | -49.7% |
-| Victor Osimhen | 88 | Trendyol Süper Lig | 92k coins | -41.8% | -41.8% |
-| Florian Wirtz | 90 | Premier League | 122k coins | -39% | -10.9% |
-| Ousmane Dembélé | 91 | Ligue 1 McDonald's | 269k coins | -38.3% | -31.9% |
-| Lucy Bronze | 95 | Barclays WSL | 89k coins | -37.7% | +19% |
-| Carles Puyol | 94 | — | 95k coins | -36.7% | -5% |
-| Toni Kroos | 90 | Icons | 115k coins | -35.7% | +62.5% |
-| Lucy Bronze | 88 | Barclays WSL | 145k coins | -34.1% | -48.2% |
-| Steven Gerrard | 89 | Icons | 96k coins | -33.8% | +6.7% |
-| Aitana Bonmatí | 91 | Liga F | 1.40M coins | -33.4% | -39.2% |
+| Victor Osimhen | 88 | Trendyol Süper Lig | 83k coins | -47.5% | -48.1% |
+| Mallory Swanson | 88 | NWSL | 114k coins | -46% | -34.5% |
+| Deniz Undav | 95 | — | 150k coins | -42.6% | -5.4% |
+| Jérémy Doku | 91 | Premier League | 218k coins | -41.4% | -6.5% |
+| Gheorghe Hagi | 88 | Icons | 109k coins | -39.1% | +63.9% |
+| Debinha | 89 | NWSL | 96k coins | -37.7% | -49.7% |
+| Samuel Eto'o | 89 | Icons | 96k coins | -36.7% | -54.5% |
+| Luis Díaz | 91 | Bundesliga | 255k coins | -34.8% | +22.2% |
+| Caroline Graham Hansen | 96 | — | 150k coins | -34.8% | -33.9% |
+| Lucy Bronze | 88 | Barclays WSL | 144k coins | -34.5% | -48.6% |
 
 
 ### Análise das baixas
 
-- **Debinha (89)** caiu **-46.1%** em 24h, a **96k coins** (faixa do dia: 85k–178k). Está -19% abaixo da média de 7 dias (descontada).
+- **Victor Osimhen (88)** caiu **-47.5%** em 24h, a **83k coins** (faixa do dia: 83k–160k). Está -37% abaixo da média de 7 dias (descontada).
 
-- **Victor Osimhen (88)** caiu **-41.8%** em 24h, a **92k coins** (faixa do dia: 92k–160k). Está -30% abaixo da média de 7 dias (descontada).
+- **Mallory Swanson (88)** caiu **-46%** em 24h, a **114k coins** (faixa do dia: 114k–219k). Está -8% abaixo da média de 7 dias (descontada).
 
-- **Florian Wirtz (90)** caiu **-39%** em 24h, a **122k coins** (faixa do dia: 76k–200k). Está -20% abaixo da média de 7 dias (descontada).
+- **Deniz Undav (95)** caiu **-42.6%** em 24h, a **150k coins** (faixa do dia: 96k–168k). Está +9% acima da média de 7 dias (aquecida).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Fran Kirby já avançou 57.3% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Mapi León já avançou 56.8% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Debinha recuou -46.1%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Victor Osimhen recuou -47.5%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (02/08/2026)?**
-Fran Kirby (88, sem liga), com +57.3% em 24h, a 90k coins no PC.
+Mapi León (96, sem liga), com +56.8% em 24h, a 102k coins no PC.
 
 **E a maior queda do dia?**
-Debinha (89), -46.1% em 24h, a 96k coins.
+Victor Osimhen (88), -47.5% em 24h, a 83k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 235 cartas em alta contra 187 em queda (média 8.24%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 249 cartas em alta contra 171 em queda (média 8.96%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

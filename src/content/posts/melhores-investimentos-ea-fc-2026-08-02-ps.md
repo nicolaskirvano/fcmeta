@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:25:09.000Z
+pubDatetime: 2026-08-02T13:25:09.000Z
 title: "Investimentos EA FC: Cartas Meta em 02/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 02/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (02/08/2026) no EA FC?"
-    a: "Leah Williamson (95, Barclays WSL) lidera, com +89.5% em 7 dias a 110k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Zinedine Zidane (96, sem liga) lidera, com +89% em 7 dias a 103k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **02/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Leah Williamson (95) acumula **+89.5% em 7 dias** a 110k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Zinedine Zidane (96) acumula **+89% em 7 dias** a 103k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas Meta em 02/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-02-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+17.9% em 24h** e **+75.9% em 7 dias**.
+- A mediana é de **+15.4% em 24h** e **+74.6% em 7 dias**.
 - **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Leah Williamson | 95 | Barclays WSL | 110k coins | +31.8% | +89.5% | Esticada |
-| Julian Ryerson | 93 | — | 100k coins | +7% | +87.7% | Esticada |
-| Marcelo | 89 | Icons | 150k coins | +15.4% | +87.5% | Esticada |
-| Zinedine Zidane | 96 | — | 104k coins | +12.8% | +82% | Esticada |
-| Garrincha | 92 | Icons | 198k coins | +37.5% | +80% | Esticada |
-| Ashley Cole | 92 | — | 130k coins | +2.4% | +79.3% | Esticada |
-| Vitinha | 90 | Ligue 1 McDonald's | 187k coins | +33.6% | +78.1% | Esticada |
-| Eric García | 96 | — | 190k coins | +2.2% | +75.9% | Esticada |
-| Carlos Tévez | 93 | — | 120k coins | +20% | +71.4% | Esticada |
-| Patrick Vieira | 95 | — | 215k coins | +14% | +68.9% | Esticada |
-| Carlos Baleba | 90 | Premier League | 229k coins | +17.9% | +64.3% | Esticada |
-| Toni Kroos | 90 | Icons | 91k coins | +29.1% | +64% | Esticada |
-| Taylor Flint | 88 | NWSL | 120k coins | +23.5% | +63.3% | Esticada |
-| Giorgio Chiellini | 89 | Icons | 239k coins | +38.2% | +62.6% | Esticada |
-| Lionel Messi | 96 | — | 190k coins | +12.4% | +61% | Esticada |
+| Zinedine Zidane | 96 | — | 103k coins | +13.2% | +89% | Esticada |
+| Marcelo | 89 | Icons | 149k coins | +15.4% | +87.5% | Esticada |
+| Tijjani Reijnders | 93 | Premier League | 173k coins | +16% | +85.1% | Esticada |
+| Ashley Cole | 92 | — | 130k coins | +8.3% | +84.4% | Esticada |
+| Daniel Muñoz | 97 | — | 199k coins | +30.5% | +80.2% | Esticada |
+| Eric Cantona | 92 | — | 199k coins | +31.6% | +77% | Esticada |
+| Vitinha | 90 | Ligue 1 McDonald's | 173k coins | +27.5% | +76% | Esticada |
+| Marcelo | 96 | — | 105k coins | +3.8% | +74.6% | Esticada |
+| Marcel Desailly | 93 | — | 95k coins | +9.4% | +72.8% | Esticada |
+| Jonathan Tah | 95 | — | 112k coins | +1.8% | +69.7% | Esticada |
+| Antonio Di Natale | 89 | Serie A TIM | 151k coins | +3.4% | +69.7% | Esticada |
+| Leah Williamson | 95 | Barclays WSL | 123k coins | +18.7% | +66% | Esticada |
+| Lionel Messi | 96 | — | 190k coins | +18.2% | +65.3% | Esticada |
+| Patrick Vieira | 95 | — | 214k coins | +12.5% | +64.2% | Esticada |
+| Carlos Baleba | 90 | Premier League | 228k coins | +19.9% | +63.6% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Leah Williamson (95)** — 110k coins, **+89.5% em 7 dias** (+31.8% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Zinedine Zidane (96)** — 103k coins, **+89% em 7 dias** (+13.2% em 24h). Preço +66% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Julian Ryerson (93)** — 100k coins, **+87.7% em 7 dias** (+7% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marcelo (89)** — 149k coins, **+87.5% em 7 dias** (+15.4% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marcelo (89)** — 150k coins, **+87.5% em 7 dias** (+15.4% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tijjani Reijnders (93)** — 173k coins, **+85.1% em 7 dias** (+16% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Zinedine Zidane (96)** — 104k coins, **+82% em 7 dias** (+12.8% em 24h). Preço +71% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ashley Cole (92)** — 130k coins, **+84.4% em 7 dias** (+8.3% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Garrincha (92)** — 198k coins, **+80% em 7 dias** (+37.5% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Daniel Muñoz (97)** — 199k coins, **+80.2% em 7 dias** (+30.5% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (02/08/2026) no EA FC?**  
-Leah Williamson (95, Barclays WSL) lidera, com +89.5% em 7 dias a 110k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Zinedine Zidane (96, sem liga) lidera, com +89% em 7 dias a 103k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
