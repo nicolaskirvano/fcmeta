@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T16:25:17.000Z
+pubDatetime: 2026-08-02T19:25:18.000Z
 title: "Mercado EA FC em 02/08: Cartas Meta — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 02/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (02/08/2026)?"
-    a: "Federico Valverde (94, sem liga), com +60% em 24h, a 399k coins no PC."
+    a: "Federico Valverde (94, sem liga), com +60% em 24h, a 400k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Diego Armando Maradona (95), -48.5% em 24h, a 1.10M coins."
+    a: "Jean-Philippe Mateta (96), -49.2% em 24h, a 100k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 235 cartas em alta contra 168 em queda (média 9.58%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 222 cartas em alta contra 175 em queda (média 5.25%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Hoje (**02/08/2026**, PC) o Ultimate Team está **aquecido** — as altas dominam o dia — **235 subiram**, **168 caíram** (80+ e 5k+ coins), média de **9.58%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**02/08/2026**, PC) o Ultimate Team está **aquecido** — as altas dominam o dia — **222 subiram**, **175 caíram** (80+ e 5k+ coins), média de **5.25%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Federico Valverde (94) **+60%** · 🔴 **Maior baixa:** Diego Armando Maradona (95) **-48.5%**
+> 🟢 **Maior alta:** Federico Valverde (94) **+60%** · 🔴 **Maior baixa:** Jean-Philippe Mateta (96) **-49.2%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 02/08: Cartas Meta — PC](/charts/mercado-ea-fc-2026-08-02-pc.svg)
 
@@ -35,24 +35,24 @@ Hoje (**02/08/2026**, PC) o Ultimate Team está **aquecido** — as altas domina
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 108.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 58.3% entre as cartas que se moveram; o universo observado reúne 487 cartas.
-- **Concentração:** Icons aparece em 7 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 109.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 55.9% entre as cartas que se moveram; o universo observado reúne 488 cartas.
+- **Concentração:** Icons aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Federico Valverde | 94 | — | 399k coins | +60% | +11.1% |
-| Malik Tillman | 88 | Bundesliga | 205k coins | +58.9% | -9.7% |
-| Ferenc Puskás | 92 | Icons | 155k coins | +57.4% | -7.7% |
+| Federico Valverde | 94 | — | 400k coins | +60% | +13% |
+| Malik Tillman | 88 | Bundesliga | 205k coins | +58.9% | -7.7% |
 | Scott McTominay | 94 | — | 240k coins | +55.8% | +14.3% |
-| Anthony Gordon | 88 | Premier League | 190k coins | +54.5% | -33.8% |
-| Roberto Baggio | 91 | Icons | 124k coins | +54.1% | +62.7% |
-| Daniele De Rossi | 89 | Serie A TIM | 210k coins | +53.3% | +27.3% |
-| Lucy Bronze | 88 | Barclays WSL | 220k coins | +51.7% | -21.1% |
+| Marcos Llorente | 95 | — | 190k coins | +54.4% | +87.5% |
+| Lothar Matthäus | 90 | Icons | 174k coins | +50.4% | +23.1% |
+| Vitinha | 91 | Ligue 1 McDonald's | 696k coins | +48.7% | -30.4% |
 | Marcus Rashford | 90 | LALIGA EA SPORTS | 629k coins | +48.7% | +6.8% |
-| Julian Araujo | 89 | Scottish Premiership | 145k coins | +47.5% | +24.2% |
+| Kylian Mbappé | 96 | — | 4.30M coins | +48.2% | +13.8% |
+| Samuel Eto'o | 90 | Icons | 771k coins | +44.9% | -3% |
+| Temwa Chawinga | 97 | — | 255k coins | +42.9% | +25% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**02/08/2026**, PC) o Ultimate Team está **aquecido** — as altas domina
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Federico Valverde (94)** subiu **+60%** em 24h, a **399k coins** (faixa do dia: 215k–440k). Está +18% acima da média de 7 dias (aquecida).
+- **Federico Valverde (94)** subiu **+60%** em 24h, a **400k coins** (faixa do dia: 239k–440k). Está +19% acima da média de 7 dias (aquecida).
 
-- **Malik Tillman (88)** subiu **+58.9%** em 24h, a **205k coins** (faixa do dia: 129k–240k). Está em linha com a média de 7 dias (+3%).
+- **Malik Tillman (88)** subiu **+58.9%** em 24h, a **205k coins** (faixa do dia: 129k–240k). Está em linha com a média de 7 dias (+4%).
 
-- **Ferenc Puskás (92)** subiu **+57.4%** em 24h, a **155k coins** (faixa do dia: 143k–200k). Está em linha com a média de 7 dias (+6%).
+- **Scott McTominay (94)** subiu **+55.8%** em 24h, a **240k coins** (faixa do dia: 154k–240k). Está +17% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Diego Armando Maradona | 95 | Icons | 1.10M coins | -48.5% | +11.9% |
-| Emilio Butragueño | 93 | — | 200k coins | -45% | -12.7% |
-| Zlatan Ibrahimović | 95 | Icons | 2.69M coins | -44% | -29.5% |
-| Sócrates | 89 | Icons | 88k coins | -39.3% | -20% |
-| Esmir Bajraktarević | 91 | — | 129k coins | -37.4% | -46.7% |
-| Debinha | 89 | NWSL | 96k coins | -35.1% | -49.7% |
-| Ruud Gullit | 90 | Icons | 1.49M coins | -35.1% | -11.7% |
-| Aya Miyama | 90 | Icons | 104k coins | -34% | +54.4% |
-| Achraf Hakimi | 96 | — | 1.23M coins | -31.8% | -44.2% |
-| Gianluigi Donnarumma | 95 | — | 210k coins | -31.6% | +11.1% |
+| Jean-Philippe Mateta | 96 | — | 100k coins | -49.2% | -68.2% |
+| Zico | 91 | Icons | 111k coins | -45% | -36.3% |
+| Michael Olise | 88 | Bundesliga | 375k coins | -42.2% | -25% |
+| Lev Yashin | 92 | Icons | 84k coins | -42.1% | -27.6% |
+| Jaap Stam | 89 | Premier League | 99k coins | -41.2% | -38.2% |
+| Iniesta | 96 | — | 480k coins | -38.8% | +30.7% |
+| Karim Benzema | 88 | ROSHN Saudi League | 135k coins | -38.6% | -38.6% |
+| Maxence Lacroix | 96 | — | 780k coins | -38.4% | -44.6% |
+| Julian Araujo | 89 | Scottish Premiership | 139k coins | -36.8% | +20.9% |
+| Morgan Rogers | 96 | — | 85k coins | -35.7% | -67.9% |
 
 
 ### Análise das baixas
 
-- **Diego Armando Maradona (95)** caiu **-48.5%** em 24h, a **1.10M coins** (faixa do dia: 1.10M–15M). Está -61% abaixo da média de 7 dias (descontada).
+- **Jean-Philippe Mateta (96)** caiu **-49.2%** em 24h, a **100k coins** (faixa do dia: 60k–300k). Está -69% abaixo da média de 7 dias (descontada).
 
-- **Emilio Butragueño (93)** caiu **-45%** em 24h, a **200k coins** (faixa do dia: 114k–300k). Está -14% abaixo da média de 7 dias (descontada).
+- **Zico (91)** caiu **-45%** em 24h, a **111k coins** (faixa do dia: 111k–350k). Está -48% abaixo da média de 7 dias (descontada).
 
-- **Zlatan Ibrahimović (95)** caiu **-44%** em 24h, a **2.69M coins** (faixa do dia: 2.55M–4.80M). Está -29% abaixo da média de 7 dias (descontada).
+- **Michael Olise (88)** caiu **-42.2%** em 24h, a **375k coins** (faixa do dia: 300k–649k). Está -21% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
 - **Evite perseguir topo:** Federico Valverde já avançou 60% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Diego Armando Maradona recuou -48.5%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Jean-Philippe Mateta recuou -49.2%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (02/08/2026)?**
-Federico Valverde (94, sem liga), com +60% em 24h, a 399k coins no PC.
+Federico Valverde (94, sem liga), com +60% em 24h, a 400k coins no PC.
 
 **E a maior queda do dia?**
-Diego Armando Maradona (95), -48.5% em 24h, a 1.10M coins.
+Jean-Philippe Mateta (96), -49.2% em 24h, a 100k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 235 cartas em alta contra 168 em queda (média 9.58%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 222 cartas em alta contra 175 em queda (média 5.25%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

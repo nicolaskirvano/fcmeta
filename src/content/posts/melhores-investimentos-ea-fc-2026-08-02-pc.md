@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T16:25:18.000Z
+pubDatetime: 2026-08-02T19:25:19.000Z
 title: "Investimentos EA FC: Cartas Meta em 02/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 02/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (02/08/2026) no EA FC?"
-    a: "Kyle Walker (97, sem liga) lidera, com +88.1% em 7 dias a 222k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Kyle Walker (97, sem liga) lidera, com +73.9% em 7 dias a 208k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Kyle Walker (97) acumula **+88.1% em 7 dias** a 222k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Kyle Walker (97) acumula **+73.9% em 7 dias** a 208k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas Meta em 02/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-02-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+25.0% em 24h** e **+63.3% em 7 dias**.
-- **14 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+19.6% em 24h** e **+59.0% em 7 dias**.
+- **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Kyle Walker | 97 | — | 222k coins | +22% | +88.1% | Esticada |
-| Marcelo | 96 | — | 120k coins | +14.3% | +77.8% | Esticada |
-| Giorgio Chiellini | 89 | Icons | 159k coins | +23.3% | +71.9% | Esticada |
-| Lucy Bronze | 88 | Barclays WSL | 150k coins | +39.8% | +71.7% | Esticada |
-| Luka Modrić | 97 | — | 100k coins | +12.5% | +71.4% | Esticada |
-| Alessandro Nesta | 92 | — | 85k coins | +1.2% | +65% | Esticada |
-| Harry Maguire | 97 | — | 100k coins | +29.9% | +64.3% | Esticada |
-| Toni Kroos | 90 | Icons | 120k coins | +34.8% | +63.3% | Esticada |
-| Gilberto Silva | 97 | — | 150k coins | +12.1% | +57.9% | Momentum moderado |
-| Pedri | 96 | — | 170k coins | +25% | +54.9% | Esticada |
-| Micky van de Ven | 96 | — | 170k coins | +22.2% | +52.6% | Esticada |
-| Fabio Cannavaro | 89 | Icons | 222k coins | +29.9% | +46% | Esticada |
-| Irene Paredes | 96 | — | 120k coins | +25.4% | +41.3% | Esticada |
-| Rivaldo | 90 | Icons | 102k coins | +29.4% | +40.1% | Esticada |
-| Park Ji Sung | 91 | Eredivisie | 98k coins | +38.9% | +38.9% | Esticada |
+| Kyle Walker | 97 | — | 208k coins | +5.3% | +73.9% | Esticada |
+| Marco van Basten | 91 | Icons | 174k coins | +19.5% | +71.2% | Esticada |
+| Aymeric Laporte | 97 | — | 230k coins | +7% | +67.7% | Esticada |
+| Lionel Messi | 96 | — | 249k coins | +24.6% | +67.6% | Esticada |
+| Lucy Bronze | 88 | Barclays WSL | 142k coins | +22.7% | +66.9% | Esticada |
+| Toni Kroos | 90 | Icons | 119k coins | +36.4% | +63.3% | Esticada |
+| Harry Maguire | 97 | — | 105k coins | +25.6% | +61.4% | Esticada |
+| Roberto Carlos | 95 | — | 95k coins | +19.6% | +59% | Momentum moderado |
+| Nuno Tavares | 91 | Serie A TIM | 85k coins | +12.3% | +58.2% | Momentum moderado |
+| Youri Tielemans | 96 | — | 184k coins | +25.3% | +58% | Esticada |
+| Pedri | 96 | — | 161k coins | +25.9% | +54.9% | Esticada |
+| Willian Pacho | 96 | — | 173k coins | +22.5% | +53.1% | Esticada |
+| Marcos Llorente | 90 | LALIGA EA SPORTS | 146k coins | +11.9% | +50% | Momentum moderado |
+| Nuno Mendes | 95 | — | 250k coins | +2.9% | +47.9% | Momentum moderado |
+| Micky van de Ven | 96 | — | 200k coins | +7.6% | +45.3% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Kyle Walker (97)** — 222k coins, **+88.1% em 7 dias** (+22% em 24h). Preço +71% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kyle Walker (97)** — 208k coins, **+73.9% em 7 dias** (+5.3% em 24h). Preço +59% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marcelo (96)** — 120k coins, **+77.8% em 7 dias** (+14.3% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marco van Basten (91)** — 174k coins, **+71.2% em 7 dias** (+19.5% em 24h). Preço +60% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Giorgio Chiellini (89)** — 159k coins, **+71.9% em 7 dias** (+23.3% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Aymeric Laporte (97)** — 230k coins, **+67.7% em 7 dias** (+7% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lucy Bronze (88)** — 150k coins, **+71.7% em 7 dias** (+39.8% em 24h). Preço +124% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lionel Messi (96)** — 249k coins, **+67.6% em 7 dias** (+24.6% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Luka Modrić (97)** — 100k coins, **+71.4% em 7 dias** (+12.5% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lucy Bronze (88)** — 142k coins, **+66.9% em 7 dias** (+22.7% em 24h). Preço +110% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (02/08/2026) no EA FC?**  
-Kyle Walker (97, sem liga) lidera, com +88.1% em 7 dias a 222k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Kyle Walker (97, sem liga) lidera, com +73.9% em 7 dias a 208k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
