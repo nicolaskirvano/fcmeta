@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T22:25:08.000Z
+pubDatetime: 2026-08-02T01:25:08.000Z
 title: "Mercado EA FC em 01/08: Cartas Meta — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 01/08/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (01/08/2026)?"
-    a: "Patrick Vieira (90, Icons), com +55.9% em 24h, a 747k coins no Console (PS)."
+    a: "Tijjani Reijnders (93, Premier League), com +59.7% em 24h, a 228k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Estêvão (91), -39.1% em 24h, a 264k coins."
+    a: "Emily van Egmond (88), -40.9% em 24h, a 84k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 304 cartas em alta contra 97 em queda (média 11.6%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 293 cartas em alta contra 125 em queda (média 9.69%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Resumo de **01/08/2026** no Console (PS): clima **comprador** — a maioria das cartas subiu. **304 valorizações** contra **97 quedas** entre as cartas relevantes, com média de **11.6%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **01/08/2026** no Console (PS): clima **comprador** — a maioria das cartas subiu. **293 valorizações** contra **125 quedas** entre as cartas relevantes, com média de **9.69%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Patrick Vieira (90) **+55.9%** · 🔴 **Maior baixa:** Estêvão (91) **-39.1%**
+> 🟢 **Maior alta:** Tijjani Reijnders (93) **+59.7%** · 🔴 **Maior baixa:** Emily van Egmond (88) **-40.9%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 01/08: Cartas Meta — Console (PS)](/charts/mercado-ea-fc-2026-08-01-ps.svg)
 
@@ -35,24 +35,24 @@ Resumo de **01/08/2026** no Console (PS): clima **comprador** — a maioria das 
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 95.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 75.8% entre as cartas que se moveram; o universo observado reúne 452 cartas.
-- **Concentração:** Icons aparece em 6 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 100.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 70.1% entre as cartas que se moveram; o universo observado reúne 437 cartas.
+- **Concentração:** Icons aparece em 7 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Patrick Vieira | 90 | Icons | 747k coins | +55.9% | +30.6% |
-| Casemiro | 89 | Premier League | 391k coins | +55.3% | +79.4% |
-| Hugo Sánchez | 89 | Icons | 120k coins | +54.1% | +58.8% |
-| Ada Hegerberg | 88 | Frauen-Bundesliga | 114k coins | +53% | +33.3% |
-| Marc-André ter Stegen | 89 | LALIGA EA SPORTS | 162k coins | +52.2% | +66.7% |
-| Abedi Pelé | 91 | Ligue 1 McDonald's | 80k coins | +50% | +85.1% |
-| Lilian Thuram | 95 | — | 215k coins | +46.1% | +72.1% |
-| Rio Ferdinand | 88 | Icons | 417k coins | +45.8% | +23.9% |
-| Lotta Schelin | 91 | Icons | 469k coins | +45.5% | +60% |
-| Frenkie de Jong | 89 | LALIGA EA SPORTS | 170k coins | +44.5% | -60.1% |
+| Tijjani Reijnders | 93 | Premier League | 228k coins | +59.7% | +105.6% |
+| Daniele De Rossi | 91 | Serie A TIM | 308k coins | +56.6% | +52.7% |
+| Nemanja Vidić | 89 | Icons | 354k coins | +55.6% | +47.3% |
+| Xavi | 92 | Icons | 232k coins | +53.4% | +58.7% |
+| Franck Ribéry | 89 | Icons | 380k coins | +52.8% | +58.6% |
+| Ruud Gullit | 95 | — | 186k coins | +47.9% | -30% |
+| Ramires | 88 | Premier League | 180k coins | +47.5% | +30.4% |
+| Matty Cash | 96 | — | 94k coins | +47.4% | +25% |
+| Eberechi Eze | 88 | Premier League | 96k coins | +46.9% | +69% |
+| Rio Ferdinand | 88 | Icons | 428k coins | +45.8% | +31.2% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **01/08/2026** no Console (PS): clima **comprador** — a maioria das 
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Patrick Vieira (90)** subiu **+55.9%** em 24h, a **747k coins** (faixa do dia: 494k–849k). Está +51% acima da média de 7 dias (aquecida).
+- **Tijjani Reijnders (93)** subiu **+59.7%** em 24h, a **228k coins** (faixa do dia: 140k–228k). Está +62% acima da média de 7 dias (aquecida).
 
-- **Casemiro (89)** subiu **+55.3%** em 24h, a **391k coins** (faixa do dia: 220k–428k). Está +40% acima da média de 7 dias (aquecida).
+- **Daniele De Rossi (91)** subiu **+56.6%** em 24h, a **308k coins** (faixa do dia: 177k–377k). Está +28% acima da média de 7 dias (aquecida).
 
-- **Hugo Sánchez (89)** subiu **+54.1%** em 24h, a **120k coins** (faixa do dia: 82k–165k). Está +36% acima da média de 7 dias (aquecida).
+- **Nemanja Vidić (89)** subiu **+55.6%** em 24h, a **354k coins** (faixa do dia: 260k–700k). Está -10% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Estêvão | 91 | Premier League | 264k coins | -39.1% | +25.1% |
-| Emily van Egmond | 88 | Barclays WSL | 92k coins | -38.7% | -61.2% |
-| Victor Osimhen | 88 | Trendyol Süper Lig | 394k coins | -32.2% | +11.3% |
-| Fernando Torres | 90 | Icons | 378k coins | -31.6% | -55.6% |
-| Kylian Mbappé | 92 | LALIGA EA SPORTS | 410k coins | -31.4% | -63.5% |
-| Lauren James | 92 | Barclays WSL | 209k coins | -30.3% | -27.4% |
-| Debinha | 89 | NWSL | 168k coins | -28.4% | +60.9% |
-| Leah Williamson | 95 | Barclays WSL | 105k coins | -27.3% | +42.5% |
-| Ruud Gullit | 93 | Icons | 3.70M coins | -25% | -20.1% |
-| Harry Kane | 90 | Bundesliga | 82k coins | -24.5% | -7.8% |
+| Emily van Egmond | 88 | Barclays WSL | 84k coins | -40.9% | -63.1% |
+| Victor Osimhen | 88 | Trendyol Süper Lig | 385k coins | -38.8% | -1.3% |
+| Estêvão | 91 | Premier League | 283k coins | -38.2% | +26.4% |
+| Julian Araujo | 89 | Scottish Premiership | 194k coins | -34.8% | +22.6% |
+| Gianluigi Donnarumma | 89 | Premier League | 206k coins | -33.2% | -29.6% |
+| Ruud Gullit | 93 | Icons | 3.50M coins | -31.7% | -22.9% |
+| Lothar Matthäus | 91 | Icons | 681k coins | -31.4% | -14.5% |
+| Debinha | 89 | NWSL | 111k coins | -30.9% | +67.2% |
+| Roberto Carlos | 90 | Icons | 206k coins | -29.2% | +44.1% |
+| Frenkie de Jong | 89 | LALIGA EA SPORTS | 149k coins | -28.4% | -59.8% |
 
 
 ### Análise das baixas
 
-- **Estêvão (91)** caiu **-39.1%** em 24h, a **264k coins** (faixa do dia: 205k–493k). Está em linha com a média de 7 dias (-1%).
+- **Emily van Egmond (88)** caiu **-40.9%** em 24h, a **84k coins** (faixa do dia: 84k–173k). Está -54% abaixo da média de 7 dias (descontada).
 
-- **Emily van Egmond (88)** caiu **-38.7%** em 24h, a **92k coins** (faixa do dia: 90k–173k). Está -51% abaixo da média de 7 dias (descontada).
+- **Victor Osimhen (88)** caiu **-38.8%** em 24h, a **385k coins** (faixa do dia: 360k–640k). Está -11% abaixo da média de 7 dias (descontada).
 
-- **Victor Osimhen (88)** caiu **-32.2%** em 24h, a **394k coins** (faixa do dia: 360k–640k). Está -9% abaixo da média de 7 dias (descontada).
+- **Estêvão (91)** caiu **-38.2%** em 24h, a **283k coins** (faixa do dia: 205k–468k). Está em linha com a média de 7 dias (+5%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Patrick Vieira já avançou 55.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Tijjani Reijnders já avançou 59.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Estêvão recuou -39.1%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Emily van Egmond recuou -40.9%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (01/08/2026)?**
-Patrick Vieira (90, Icons), com +55.9% em 24h, a 747k coins no Console (PS).
+Tijjani Reijnders (93, Premier League), com +59.7% em 24h, a 228k coins no Console (PS).
 
 **E a maior queda do dia?**
-Estêvão (91), -39.1% em 24h, a 264k coins.
+Emily van Egmond (88), -40.9% em 24h, a 84k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 304 cartas em alta contra 97 em queda (média 11.6%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 293 cartas em alta contra 125 em queda (média 9.69%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

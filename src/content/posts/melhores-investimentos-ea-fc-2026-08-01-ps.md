@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T22:25:09.000Z
+pubDatetime: 2026-08-02T01:25:09.000Z
 title: "Investimentos EA FC: Cartas Meta em 01/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 01/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (01/08/2026) no EA FC?"
-    a: "Marcos Llorente (95, sem liga) lidera, com +82.1% em 7 dias a 140k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Malik Tillman (88, Bundesliga) lidera, com +87.8% em 7 dias a 160k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **01/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Marcos Llorente (95) acumula **+82.1% em 7 dias** a 140k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Malik Tillman (88) acumula **+87.8% em 7 dias** a 160k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas Meta em 01/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-01-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **01/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+18.8% em 24h** e **+66.9% em 7 dias**.
-- **13 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+16.0% em 24h** e **+78.8% em 7 dias**.
+- **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Serie A TIM** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Marcos Llorente | 95 | — | 140k coins | +2.9% | +82.1% | Esticada |
-| Eberechi Eze | 88 | Premier League | 95k coins | +35.1% | +80.2% | Esticada |
-| Nico O'Reilly | 96 | — | 108k coins | +16% | +77.1% | Esticada |
-| Eric García | 96 | — | 183k coins | +18.8% | +75.9% | Esticada |
-| Marcelo | 96 | — | 111k coins | +10% | +74.6% | Esticada |
-| Roberto Carlos | 95 | — | 121k coins | +15% | +74.2% | Esticada |
-| Patrick Vieira | 95 | — | 223k coins | +16.2% | +70.4% | Esticada |
-| Steven Gerrard | 89 | Icons | 210k coins | +26.8% | +66.9% | Esticada |
-| Ashley Cole | 92 | — | 130k coins | +23.8% | +63.5% | Esticada |
-| Zinedine Zidane | 96 | — | 80k coins | +25.3% | +62.1% | Esticada |
-| Ronald Araujo | 94 | — | 226k coins | +18.9% | +61.4% | Esticada |
-| Aymeric Laporte | 97 | — | 225k coins | +20% | +61.1% | Esticada |
-| Gianluigi Buffon | 91 | Icons | 192k coins | +31.3% | +58.9% | Esticada |
-| Toni Kroos | 95 | — | 100k coins | +14.3% | +56.9% | Momentum moderado |
-| Patrick Vieira | 88 | Icons | 240k coins | +14.7% | +56% | Momentum moderado |
+| Malik Tillman | 88 | Bundesliga | 160k coins | +9% | +87.8% | Esticada |
+| Mapi León | 90 | Liga F | 85k coins | +12.3% | +87.1% | Esticada |
+| Ashley Cole | 92 | — | 129k coins | +23.8% | +87.1% | Esticada |
+| Eric Cantona | 92 | — | 205k coins | +36.7% | +86.4% | Esticada |
+| Kenan Yıldız | 88 | Serie A TIM | 210k coins | +5.5% | +85.8% | Esticada |
+| Selina Cerci | 95 | — | 80k coins | +22.9% | +84.7% | Esticada |
+| Patrick Vieira | 88 | Icons | 223k coins | +28.6% | +80% | Esticada |
+| Roberto Carlos | 95 | — | 115k coins | +11.3% | +78.8% | Esticada |
+| Marcelo | 96 | — | 110k coins | +9.8% | +77.8% | Esticada |
+| Koke | 88 | LALIGA EA SPORTS | 120k coins | +30.4% | +77.8% | Esticada |
+| Antonio Di Natale | 89 | Serie A TIM | 145k coins | +32.6% | +75.9% | Esticada |
+| Emilio Butragueño | 93 | — | 217k coins | +34.1% | +74.6% | Esticada |
+| Zinedine Zidane | 96 | — | 96k coins | +1.6% | +66.7% | Esticada |
+| Nico O'Reilly | 96 | — | 114k coins | +9% | +66.4% | Esticada |
+| Marcel Desailly | 93 | — | 94k coins | +16% | +64.9% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Marcos Llorente (95)** — 140k coins, **+82.1% em 7 dias** (+2.9% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Malik Tillman (88)** — 160k coins, **+87.8% em 7 dias** (+9% em 24h). Preço +69% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Eberechi Eze (88)** — 95k coins, **+80.2% em 7 dias** (+35.1% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mapi León (90)** — 85k coins, **+87.1% em 7 dias** (+12.3% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nico O'Reilly (96)** — 108k coins, **+77.1% em 7 dias** (+16% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ashley Cole (92)** — 129k coins, **+87.1% em 7 dias** (+23.8% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Eric García (96)** — 183k coins, **+75.9% em 7 dias** (+18.8% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Eric Cantona (92)** — 205k coins, **+86.4% em 7 dias** (+36.7% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marcelo (96)** — 111k coins, **+74.6% em 7 dias** (+10% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kenan Yıldız (88)** — 210k coins, **+85.8% em 7 dias** (+5.5% em 24h). Preço +65% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (01/08/2026) no EA FC?**  
-Marcos Llorente (95, sem liga) lidera, com +82.1% em 7 dias a 140k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Malik Tillman (88, Bundesliga) lidera, com +87.8% em 7 dias a 160k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
