@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T10:25:18.000Z
+pubDatetime: 2026-08-03T13:25:18.000Z
 title: "Mercado EA FC em 03/08: Cartas Meta — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 03/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (03/08/2026)?"
-    a: "Rio Ferdinand (88, Icons), com +56.2% em 24h, a 700k coins no PC."
+    a: "Juan Román Riquelme (88, Icons), com +57.7% em 24h, a 120k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Jobe Bellingham (89), -46.3% em 24h, a 377k coins."
+    a: "Pedri (90), -46% em 24h, a 127k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 247 cartas em alta contra 173 em queda (média 6.55%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 238 cartas em alta contra 183 em queda (média 7.78%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **247 subiram** e **173 caíram**, com variação média de **6.55%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **238 subiram** e **183 caíram**, com variação média de **7.78%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Rio Ferdinand (88) **+56.2%** · 🔴 **Maior baixa:** Jobe Bellingham (89) **-46.3%**
+> 🟢 **Maior alta:** Juan Román Riquelme (88) **+57.7%** · 🔴 **Maior baixa:** Pedri (90) **-46%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 03/08: Cartas Meta — PC](/charts/mercado-ea-fc-2026-08-03-pc.svg)
 
@@ -35,24 +35,24 @@ Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em alt
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 102.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 58.8% entre as cartas que se moveram; o universo observado reúne 506 cartas.
+- **Amplitude do dia:** 103.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 56.5% entre as cartas que se moveram; o universo observado reúne 510 cartas.
 - **Concentração:** Icons aparece em 8 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rio Ferdinand | 88 | Icons | 700k coins | +56.2% | +57.7% |
-| Jairzinho | 89 | Icons | 193k coins | +54.8% | -27.2% |
-| Mohamed Salah | 93 | — | 444k coins | +54.4% | +13.8% |
-| Fabio Cannavaro | 89 | Icons | 140k coins | +51.6% | -42.2% |
-| Amaiur Sarriegi | 88 | Liga F | 118k coins | +51.3% | +24.2% |
-| George Best | 90 | Icons | 205k coins | +51.1% | +56.7% |
-| Esmee Brugts | 96 | — | 220k coins | +51% | -26.9% |
-| Dennis Bergkamp | 93 | Icons | 178k coins | +50.8% | -44.4% |
-| Marcel Desailly | 88 | Icons | 151k coins | +49% | +95% |
-| Khadija Shaw | 90 | Barclays WSL | 98k coins | +47.9% | +25.7% |
+| Juan Román Riquelme | 88 | Icons | 120k coins | +57.7% | +78.3% |
+| Aymeric Laporte | 97 | — | 335k coins | +56.5% | +115.6% |
+| Lilian Thuram | 88 | Icons | 159k coins | +54.9% | +26.9% |
+| Dennis Bergkamp | 90 | Icons | 138k coins | +53.7% | +46% |
+| Jean-Philippe Mateta | 96 | — | 198k coins | +53.6% | -45.4% |
+| Andrea Pirlo | 90 | Icons | 102k coins | +51.4% | -36.1% |
+| Dominik Szoboszlai | 94 | — | 175k coins | +51.3% | +56.5% |
+| Carles Puyol | 94 | — | 129k coins | +50.9% | +18.3% |
+| Dennis Bergkamp | 93 | Icons | 178k coins | +50.8% | -43.7% |
+| Wayne Rooney | 88 | Icons | 121k coins | +49.4% | +9.2% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em alt
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Rio Ferdinand (88)** subiu **+56.2%** em 24h, a **700k coins** (faixa do dia: 446k–700k). Está +34% acima da média de 7 dias (aquecida).
+- **Juan Román Riquelme (88)** subiu **+57.7%** em 24h, a **120k coins** (faixa do dia: 76k–200k). Está em linha com a média de 7 dias (+5%).
 
-- **Jairzinho (89)** subiu **+54.8%** em 24h, a **193k coins** (faixa do dia: 124k–272k). Está -31% abaixo da média de 7 dias (descontada).
+- **Aymeric Laporte (97)** subiu **+56.5%** em 24h, a **335k coins** (faixa do dia: 235k–550k). Está +54% acima da média de 7 dias (aquecida).
 
-- **Mohamed Salah (93)** subiu **+54.4%** em 24h, a **444k coins** (faixa do dia: 277k–549k). Está -12% abaixo da média de 7 dias (descontada).
+- **Lilian Thuram (88)** subiu **+54.9%** em 24h, a **159k coins** (faixa do dia: 82k–170k). Está +32% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jobe Bellingham | 89 | Bundesliga | 377k coins | -46.3% | +22.5% |
-| Deniz Undav | 91 | Bundesliga | 131k coins | -44.6% | -42.1% |
-| Xavi | 92 | Icons | 155k coins | -43.7% | -40.5% |
-| Julian Araujo | 89 | Scottish Premiership | 104k coins | -42.2% | -5.3% |
-| Franz Beckenbauer | 92 | Icons | 131k coins | -40.3% | -17.7% |
-| Eden Hazard | 96 | — | 1.05M coins | -40% | -37.9% |
-| Pedri | 90 | LALIGA EA SPORTS | 151k coins | -38% | +8.4% |
-| Vini Jr. | 91 | — | 256k coins | -36.7% | -5% |
-| Nico Williams | 89 | LALIGA EA SPORTS | 105k coins | -36.5% | -55% |
-| Claudia Pina | 96 | — | 699k coins | -36.5% | -19.7% |
+| Pedri | 90 | LALIGA EA SPORTS | 127k coins | -46% | -2.2% |
+| Yeremy Pino | 96 | — | 170k coins | -43.3% | -5% |
+| Federico Valverde | 90 | LALIGA EA SPORTS | 185k coins | -42.7% | -8.3% |
+| Kaká | 90 | — | 210k coins | -36.4% | -23.6% |
+| Désiré Doué | 91 | Ligue 1 McDonald's | 990k coins | -33.9% | -50.5% |
+| Fabián Ruiz | 96 | — | 85k coins | -32.5% | -51.7% |
+| Alex Morgan | 91 | Icons | 320k coins | -31.9% | -20% |
+| Ferenc Puskás | 97 | — | 701k coins | -29.9% | 0% |
+| João Neves | 88 | Ligue 1 McDonald's | 81k coins | -29.7% | +3.1% |
+| Xavi | 91 | Icons | 86k coins | -28.5% | -9.7% |
 
 
 ### Análise das baixas
 
-- **Jobe Bellingham (89)** caiu **-46.3%** em 24h, a **377k coins** (faixa do dia: 109k–410k). Está +91% acima da média de 7 dias (aquecida).
+- **Pedri (90)** caiu **-46%** em 24h, a **127k coins** (faixa do dia: 70k–286k). Está -21% abaixo da média de 7 dias (descontada).
 
-- **Deniz Undav (91)** caiu **-44.6%** em 24h, a **131k coins** (faixa do dia: 91k–180k). Está +16% acima da média de 7 dias (aquecida).
+- **Yeremy Pino (96)** caiu **-43.3%** em 24h, a **170k coins** (faixa do dia: 105k–354k). Está -19% abaixo da média de 7 dias (descontada).
 
-- **Xavi (92)** caiu **-43.7%** em 24h, a **155k coins** (faixa do dia: 141k–310k). Está -45% abaixo da média de 7 dias (descontada).
+- **Federico Valverde (90)** caiu **-42.7%** em 24h, a **185k coins** (faixa do dia: 170k–340k). Está -32% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Rio Ferdinand já avançou 56.2% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Juan Román Riquelme já avançou 57.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Jobe Bellingham recuou -46.3%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Pedri recuou -46%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (03/08/2026)?**
-Rio Ferdinand (88, Icons), com +56.2% em 24h, a 700k coins no PC.
+Juan Román Riquelme (88, Icons), com +57.7% em 24h, a 120k coins no PC.
 
 **E a maior queda do dia?**
-Jobe Bellingham (89), -46.3% em 24h, a 377k coins.
+Pedri (90), -46% em 24h, a 127k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 247 cartas em alta contra 173 em queda (média 6.55%).
+Hoje o mercado está em alta — predominam as valorizações, com 238 cartas em alta contra 183 em queda (média 7.78%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

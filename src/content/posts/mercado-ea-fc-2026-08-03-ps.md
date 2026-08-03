@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T10:25:08.000Z
+pubDatetime: 2026-08-03T13:25:08.000Z
 title: "Mercado EA FC em 03/08: Cartas Meta — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 03/08/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (03/08/2026)?"
-    a: "Didier Drogba (89, Icons), com +51.8% em 24h, a 103k coins no Console (PS)."
+    a: "Juan Román Riquelme (88, Icons), com +57.3% em 24h, a 114k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Lothar Matthäus (91), -42.9% em 24h, a 750k coins."
+    a: "Xavi (92), -48.9% em 24h, a 179k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 260 cartas em alta contra 192 em queda (média 6.33%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 273 cartas em alta contra 194 em queda (média 6.66%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **260 subiram** e **192 caíram**, com variação média de **6.33%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **273 subiram** e **194 caíram**, com variação média de **6.66%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Didier Drogba (89) **+51.8%** · 🔴 **Maior baixa:** Lothar Matthäus (91) **-42.9%**
+> 🟢 **Maior alta:** Juan Román Riquelme (88) **+57.3%** · 🔴 **Maior baixa:** Xavi (92) **-48.9%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 03/08: Cartas Meta — Console (PS)](/charts/mercado-ea-fc-2026-08-03-ps.svg)
 
@@ -35,24 +35,24 @@ Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 94.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 57.5% entre as cartas que se moveram; o universo observado reúne 514 cartas.
-- **Concentração:** Icons aparece em 6 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 106.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 58.5% entre as cartas que se moveram; o universo observado reúne 491 cartas.
+- **Concentração:** Icons aparece em 8 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Didier Drogba | 89 | Icons | 103k coins | +51.8% | +30% |
-| Debinha | 89 | NWSL | 262k coins | +47.5% | +55.3% |
-| Mateo Chávez | 89 | — | 120k coins | +46.4% | +223.7% |
-| Alejandro Garnacho | 89 | Premier League | 303k coins | +46.4% | +14.3% |
-| Ismaïla Sarr | 96 | — | 260k coins | +45.8% | +102.5% |
-| Julian Araujo | 89 | Scottish Premiership | 215k coins | +43.5% | +127.9% |
-| Zlatan Ibrahimović | 93 | Icons | 3.14M coins | +42.9% | +37% |
-| Abedi Pelé | 90 | Ligue 1 McDonald's | 439k coins | +42.5% | +47.3% |
-| Martin Ødegaard | 88 | Premier League | 94k coins | +42.4% | +92.2% |
-| Aymeric Laporte | 97 | — | 288k coins | +42.2% | +68.6% |
+| Juan Román Riquelme | 88 | Icons | 114k coins | +57.3% | +63.9% |
+| Debinha | 89 | NWSL | 264k coins | +55.9% | +62.4% |
+| Federico Valverde | 91 | LALIGA EA SPORTS | 600k coins | +54.2% | +100% |
+| Cole Palmer | 88 | Premier League | 535k coins | +52.4% | +37.5% |
+| Paolo Maldini | 92 | Icons | 270k coins | +46.7% | +42.1% |
+| João Neves | 93 | Ligue 1 McDonald's | 241k coins | +45% | +131.1% |
+| Cristiano Ronaldo | 89 | ROSHN Saudi League | 545k coins | +44.4% | -14.7% |
+| Bastian Schweinsteiger | 88 | Icons | 90k coins | +44.1% | +47.4% |
+| Javier Mascherano | 90 | LALIGA EA SPORTS | 95k coins | +44% | +38.8% |
+| Roberto Baggio | 91 | Icons | 114k coins | +43.8% | +41.1% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Didier Drogba (89)** subiu **+51.8%** em 24h, a **103k coins** (faixa do dia: 68k–104k). Está +29% acima da média de 7 dias (aquecida).
+- **Juan Román Riquelme (88)** subiu **+57.3%** em 24h, a **114k coins** (faixa do dia: 70k–180k). Está +35% acima da média de 7 dias (aquecida).
 
-- **Debinha (89)** subiu **+47.5%** em 24h, a **262k coins** (faixa do dia: 172k–390k). Está +50% acima da média de 7 dias (aquecida).
+- **Debinha (89)** subiu **+55.9%** em 24h, a **264k coins** (faixa do dia: 180k–390k). Está +50% acima da média de 7 dias (aquecida).
 
-- **Mateo Chávez (89)** subiu **+46.4%** em 24h, a **120k coins** (faixa do dia: 32k–130k). Está +70% acima da média de 7 dias (aquecida).
+- **Federico Valverde (91)** subiu **+54.2%** em 24h, a **600k coins** (faixa do dia: 350k–600k). Está +52% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Lothar Matthäus | 91 | Icons | 750k coins | -42.9% | +24.5% |
-| Rodri | 92 | Premier League | 109k coins | -39.1% | -61.5% |
-| Eden Hazard | 96 | — | 630k coins | -34.7% | -9% |
-| Harry Kane | 92 | Bundesliga | 202k coins | -29.3% | +34% |
-| Aya Miyama | 90 | Icons | 197k coins | -29.1% | +17.3% |
-| Abedi Pelé | 91 | Ligue 1 McDonald's | 97k coins | -27.6% | +194% |
-| Adam Wharton | 96 | — | 131k coins | -27.2% | -60.9% |
-| Pavel Nedvěd | 89 | Icons | 312k coins | -26.6% | -36.3% |
-| Javier Mascherano | 89 | LALIGA EA SPORTS | 82k coins | -24.8% | +17.6% |
-| Jairzinho | 89 | Icons | 172k coins | -23.8% | -15.3% |
+| Xavi | 92 | Icons | 179k coins | -48.9% | -27.5% |
+| Federico Valverde | 89 | LALIGA EA SPORTS | 181k coins | -48.3% | +0.5% |
+| Lothar Matthäus | 91 | Icons | 750k coins | -37.8% | +35.6% |
+| Kylian Mbappé | 93 | — | 97k coins | -37.5% | -92.9% |
+| Rodri | 92 | Premier League | 119k coins | -33.1% | -57.5% |
+| Mohamed Salah | 92 | Premier League | 159k coins | -32.4% | -27.7% |
+| Nemanja Vidić | 89 | Icons | 384k coins | -31.1% | -37.6% |
+| Erling Haaland | 91 | Premier League | 99k coins | -28.1% | +16.3% |
+| Javier Mascherano | 89 | LALIGA EA SPORTS | 82k coins | -27.5% | +20.1% |
+| Gheorghe Hagi | 88 | Icons | 98k coins | -26.5% | 0% |
 
 
 ### Análise das baixas
 
-- **Lothar Matthäus (91)** caiu **-42.9%** em 24h, a **750k coins** (faixa do dia: 599k–1.20M). Está em linha com a média de 7 dias (+2%).
+- **Xavi (92)** caiu **-48.9%** em 24h, a **179k coins** (faixa do dia: 179k–350k). Está -26% abaixo da média de 7 dias (descontada).
 
-- **Rodri (92)** caiu **-39.1%** em 24h, a **109k coins** (faixa do dia: 101k–209k). Está -53% abaixo da média de 7 dias (descontada).
+- **Federico Valverde (89)** caiu **-48.3%** em 24h, a **181k coins** (faixa do dia: 181k–359k). Está -13% abaixo da média de 7 dias (descontada).
 
-- **Eden Hazard (96)** caiu **-34.7%** em 24h, a **630k coins** (faixa do dia: 610k–922k). Está -18% abaixo da média de 7 dias (descontada).
+- **Lothar Matthäus (91)** caiu **-37.8%** em 24h, a **750k coins** (faixa do dia: 599k–1.20M). Está em linha com a média de 7 dias (+2%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Didier Drogba já avançou 51.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Juan Román Riquelme já avançou 57.3% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Lothar Matthäus recuou -42.9%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Xavi recuou -48.9%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (03/08/2026)?**
-Didier Drogba (89, Icons), com +51.8% em 24h, a 103k coins no Console (PS).
+Juan Román Riquelme (88, Icons), com +57.3% em 24h, a 114k coins no Console (PS).
 
 **E a maior queda do dia?**
-Lothar Matthäus (91), -42.9% em 24h, a 750k coins.
+Xavi (92), -48.9% em 24h, a 179k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 260 cartas em alta contra 192 em queda (média 6.33%).
+Hoje o mercado está em alta — predominam as valorizações, com 273 cartas em alta contra 194 em queda (média 6.66%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
