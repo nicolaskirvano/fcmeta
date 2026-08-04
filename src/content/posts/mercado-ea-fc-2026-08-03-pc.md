@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T22:25:17.000Z
+pubDatetime: 2026-08-04T01:25:16.000Z
 title: "Mercado EA FC em 03/08: Cartas Meta — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 03/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (03/08/2026)?"
-    a: "Didier Drogba (89, Icons), com +60% em 24h, a 106k coins no PC."
+    a: "Emilio Butragueño (89, Icons), com +58.3% em 24h, a 132k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Carlos Alberto (91), -48.3% em 24h, a 107k coins."
+    a: "Dennis Bergkamp (90), -48% em 24h, a 103k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 217 cartas em alta contra 212 em queda (média 5.03%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 204 cartas em alta contra 207 em queda (média 5.17%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **217 subiram** e **212 caíram**, com variação média de **5.03%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **204 subiram** e **207 caíram**, com variação média de **5.17%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Didier Drogba (89) **+60%** · 🔴 **Maior baixa:** Carlos Alberto (91) **-48.3%**
+> 🟢 **Maior alta:** Emilio Butragueño (89) **+58.3%** · 🔴 **Maior baixa:** Dennis Bergkamp (90) **-48%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 03/08: Cartas Meta — PC](/charts/mercado-ea-fc-2026-08-03-pc.svg)
 
@@ -35,24 +35,24 @@ Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em alt
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 108.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 50.6% entre as cartas que se moveram; o universo observado reúne 511 cartas.
-- **Concentração:** Icons aparece em 9 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 106.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 49.6% entre as cartas que se moveram; o universo observado reúne 500 cartas.
+- **Concentração:** Icons aparece em 7 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Didier Drogba | 89 | Icons | 106k coins | +60% | +60% |
-| Ronaldinho | 93 | Icons | 1.78M coins | +58% | +8.4% |
-| Karim Benzema | 88 | ROSHN Saudi League | 220k coins | +57.1% | +44.7% |
+| Emilio Butragueño | 89 | Icons | 132k coins | +58.3% | +63% |
+| Gabriel Sara | 89 | Trendyol Süper Lig | 93k coins | +57.6% | +111.4% |
+| Ferenc Puskás | 94 | Icons | 835k coins | +57.5% | +19.5% |
+| Didier Drogba | 89 | Icons | 105k coins | +57% | +57% |
 | Julian Ryerson | 93 | — | 110k coins | +56% | +57.1% |
-| Michael Olise | 88 | Bundesliga | 585k coins | +56% | +78.4% |
-| Dennis Bergkamp | 93 | Icons | 178k coins | +50.8% | -38.2% |
+| Alexia Putellas | 96 | — | 299k coins | +53.5% | -2.2% |
+| Fernando Torres | 90 | Icons | 491k coins | +52% | -24.5% |
 | Lucy Bronze | 88 | Barclays WSL | 144k coins | +50.8% | +22% |
-| Wayne Rooney | 88 | Icons | 137k coins | +45% | +30.5% |
-| Cristiano Ronaldo | 89 | ROSHN Saudi League | 1.30M coins | +44.4% | +30% |
-| Casillas | 90 | Icons | 122k coins | +44% | +57.5% |
+| Frenkie de Jong | 89 | LALIGA EA SPORTS | 605k coins | +48.2% | -38.1% |
+| Jude Bellingham | 94 | LALIGA EA SPORTS | 1.24M coins | +44.5% | -8.1% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em alt
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Didier Drogba (89)** subiu **+60%** em 24h, a **106k coins** (faixa do dia: 68k–109k). Está em linha com a média de 7 dias (+6%).
+- **Emilio Butragueño (89)** subiu **+58.3%** em 24h, a **132k coins** (faixa do dia: 68k–149k). Está +62% acima da média de 7 dias (aquecida).
 
-- **Ronaldinho (93)** subiu **+58%** em 24h, a **1.78M coins** (faixa do dia: 1.60M–6.20M). Está -48% abaixo da média de 7 dias (descontada).
+- **Gabriel Sara (89)** subiu **+57.6%** em 24h, a **93k coins** (faixa do dia: 41k–129k). Está +53% acima da média de 7 dias (aquecida).
 
-- **Karim Benzema (88)** subiu **+57.1%** em 24h, a **220k coins** (faixa do dia: 130k–220k). Está +15% acima da média de 7 dias (aquecida).
+- **Ferenc Puskás (94)** subiu **+57.5%** em 24h, a **835k coins** (faixa do dia: 500k–850k). Está +15% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Carlos Alberto | 91 | Icons | 107k coins | -48.3% | -10% |
-| Virgil van Dijk | 90 | Premier League | 1.20M coins | -47.8% | -42.4% |
-| George Best | 90 | Icons | 250k coins | -47.3% | +21.1% |
-| Antonio Di Natale | 89 | Serie A TIM | 157k coins | -45.9% | -10.8% |
-| Dennis Bergkamp | 90 | Icons | 103k coins | -44.9% | -30.1% |
+| Dennis Bergkamp | 90 | Icons | 103k coins | -48% | -35.6% |
 | Cesc Fàbregas | 91 | Premier League | 200k coins | -42.9% | -45.8% |
-| Federico Valverde | 90 | LALIGA EA SPORTS | 199k coins | -40.1% | -27.4% |
-| Alex Morgan | 93 | Icons | 650k coins | -39.2% | -21% |
-| Mohamed Salah | 93 | — | 350k coins | -36.2% | -19.4% |
-| Deniz Undav | 91 | Bundesliga | 115k coins | -36.1% | +35.3% |
+| Zlatan Ibrahimović | 95 | Icons | 2.76M coins | -42.4% | -7.8% |
+| Jobe Bellingham | 89 | Bundesliga | 200k coins | -39.4% | +66.7% |
+| Cora Zicai | 88 | GPFBL | 117k coins | -37.9% | -31.8% |
+| Deniz Undav | 91 | Bundesliga | 115k coins | -36.1% | +43.8% |
+| Zico | 92 | Icons | 711k coins | -35.1% | -28.9% |
+| Gabriel | 89 | Premier League | 85k coins | -34.6% | +65% |
+| Nuno Mendes | 96 | — | 460k coins | -34.3% | +15.6% |
+| Antonio Di Natale | 89 | Serie A TIM | 157k coins | -33.8% | -8.7% |
 
 
 ### Análise das baixas
 
-- **Carlos Alberto (91)** caiu **-48.3%** em 24h, a **107k coins** (faixa do dia: 100k–226k). Está -19% abaixo da média de 7 dias (descontada).
+- **Dennis Bergkamp (90)** caiu **-48%** em 24h, a **103k coins** (faixa do dia: 68k–210k). Está -30% abaixo da média de 7 dias (descontada).
 
-- **Virgil van Dijk (90)** caiu **-47.8%** em 24h, a **1.20M coins** (faixa do dia: 1.20M–2.60M). Está -45% abaixo da média de 7 dias (descontada).
+- **Cesc Fàbregas (91)** caiu **-42.9%** em 24h, a **200k coins** (faixa do dia: 200k–435k). Está -25% abaixo da média de 7 dias (descontada).
 
-- **George Best (90)** caiu **-47.3%** em 24h, a **250k coins** (faixa do dia: 86k–270k). Está +42% acima da média de 7 dias (aquecida).
+- **Zlatan Ibrahimović (95)** caiu **-42.4%** em 24h, a **2.76M coins** (faixa do dia: 2.58M–4.80M). Está -25% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Didier Drogba já avançou 60% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Emilio Butragueño já avançou 58.3% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Carlos Alberto recuou -48.3%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Dennis Bergkamp recuou -48%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (03/08/2026)?**
-Didier Drogba (89, Icons), com +60% em 24h, a 106k coins no PC.
+Emilio Butragueño (89, Icons), com +58.3% em 24h, a 132k coins no PC.
 
 **E a maior queda do dia?**
-Carlos Alberto (91), -48.3% em 24h, a 107k coins.
+Dennis Bergkamp (90), -48% em 24h, a 103k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 217 cartas em alta contra 212 em queda (média 5.03%).
+Hoje o mercado está em alta — predominam as valorizações, com 204 cartas em alta contra 207 em queda (média 5.17%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
