@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-04T10:25:08.000Z
+pubDatetime: 2026-08-04T13:25:09.000Z
 title: "Investimentos EA FC: Cartas Meta em 04/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 04/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (04/08/2026) no EA FC?"
-    a: "Frank Rijkaard (89, Icons) lidera, com +75% em 7 dias a 117k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Luka Modrić (90, Serie A TIM) lidera, com +89.1% em 7 dias a 120k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **04/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Frank Rijkaard (89) acumula **+75% em 7 dias** a 117k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Luka Modrić (90) acumula **+89.1% em 7 dias** a 120k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas Meta em 04/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-04-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **04/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+6.2% em 24h** e **+62.3% em 7 dias**.
-- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+10.0% em 24h** e **+72.1% em 7 dias**.
+- **11 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Serie A TIM** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Frank Rijkaard | 89 | Icons | 117k coins | +6.1% | +75% | Esticada |
-| Piero Hincapié | 93 | — | 139k coins | +20.9% | +74.8% | Esticada |
-| Theo Hernández | 88 | ROSHN Saudi League | 110k coins | +27.1% | +72.8% | Esticada |
-| Jonathan Tah | 95 | — | 122k coins | +6% | +71% | Esticada |
-| Lotta Schelin | 90 | Icons | 113k coins | +16.2% | +65.5% | Esticada |
-| Steven Gerrard | 88 | Icons | 164k coins | +6.2% | +64.4% | Esticada |
-| Carles Puyol | 94 | — | 139k coins | +3.1% | +64% | Esticada |
-| Juan Román Riquelme | 88 | Icons | 122k coins | +1.6% | +62.3% | Esticada |
-| Micky van de Ven | 96 | — | 216k coins | +9.5% | +62% | Esticada |
-| Daniel Muñoz | 97 | — | 190k coins | +2% | +59.4% | Momentum moderado |
-| Willian Pacho | 95 | — | 90k coins | +12.6% | +55.1% | Momentum moderado |
-| Marcos Llorente | 95 | — | 155k coins | +6.2% | +55% | Momentum moderado |
-| Gabriel Sara | 89 | Trendyol Süper Lig | 80k coins | +7.7% | +54.7% | Momentum moderado |
-| Emilio Butragueño | 93 | — | 222k coins | +16.9% | +54.5% | Momentum moderado |
-| Roberto Baggio | 91 | Icons | 133k coins | +3.4% | +52.8% | Momentum moderado |
+| Luka Modrić | 90 | Serie A TIM | 120k coins | +29.9% | +89.1% | Esticada |
+| Finn Azaz | 88 | EFL Championship | 86k coins | +22.9% | +89% | Esticada |
+| Orlando Gill | 95 | — | 110k coins | +10% | +83.3% | Esticada |
+| Iván Córdoba | 88 | Serie A TIM | 106k coins | +35% | +81.5% | Esticada |
+| Harry Maguire | 97 | — | 142k coins | +9.2% | +80.9% | Esticada |
+| Harry Kane | 92 | Bundesliga | 239k coins | +39% | +75.7% | Esticada |
+| Kyle Walker | 97 | — | 220k coins | +2.3% | +73.2% | Esticada |
+| Declan Rice | 89 | Premier League | 90k coins | +27.9% | +72.1% | Esticada |
+| Kevin De Bruyne | 89 | Serie A TIM | 124k coins | +4.2% | +68.7% | Esticada |
+| Jay-Jay Okocha | 88 | Premier League | 80k coins | +9.6% | +68.4% | Esticada |
+| Micky van de Ven | 96 | — | 200k coins | +3.2% | +60.7% | Esticada |
+| Hakan Çalhanoğlu | 95 | — | 118k coins | +10% | +57.1% | Momentum moderado |
+| Daniel Muñoz | 97 | — | 200k coins | +1% | +56.2% | Momentum moderado |
+| Lotta Schelin | 90 | Icons | 106k coins | +13.2% | +56.2% | Momentum moderado |
+| Eric Cantona | 92 | — | 210k coins | +11.7% | +54.4% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Frank Rijkaard (89)** — 117k coins, **+75% em 7 dias** (+6.1% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Luka Modrić (90)** — 120k coins, **+89.1% em 7 dias** (+29.9% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Piero Hincapié (93)** — 139k coins, **+74.8% em 7 dias** (+20.9% em 24h). Preço +72% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Finn Azaz (88)** — 86k coins, **+89% em 7 dias** (+22.9% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Theo Hernández (88)** — 110k coins, **+72.8% em 7 dias** (+27.1% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Orlando Gill (95)** — 110k coins, **+83.3% em 7 dias** (+10% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jonathan Tah (95)** — 122k coins, **+71% em 7 dias** (+6% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Iván Córdoba (88)** — 106k coins, **+81.5% em 7 dias** (+35% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lotta Schelin (90)** — 113k coins, **+65.5% em 7 dias** (+16.2% em 24h). Preço -80% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Harry Maguire (97)** — 142k coins, **+80.9% em 7 dias** (+9.2% em 24h). Preço +61% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (04/08/2026) no EA FC?**  
-Frank Rijkaard (89, Icons) lidera, com +75% em 7 dias a 117k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Luka Modrić (90, Serie A TIM) lidera, com +89.1% em 7 dias a 120k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
