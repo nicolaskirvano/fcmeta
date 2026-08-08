@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-08T10:25:17.000Z
+pubDatetime: 2026-08-08T13:25:17.000Z
 title: "Mercado EA FC em 08/08: Cartas Meta — PC"
 draft: false
 featured: true
